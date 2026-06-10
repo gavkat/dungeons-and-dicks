@@ -3,10 +3,10 @@
 **Tags:** #character #npc #Beast #Missing
 
 ## Description
-[[Krell]]'s wyrmling.
+[Krell](Krell.md)'s wyrmling.
 
 ## Role in Campaign
-Went mysteriously missing aboard [[The Tempest's Temptation]] ([[Session 3]]) — one of the unsolved threads from the ship. The disappearance was cited as evidence against the party.
+Went mysteriously missing aboard [The Tempest's Temptation](The%20Tempest's%20Temptation.md) ([Session 3](Session%203.md)) — one of the unsolved threads from the ship. The disappearance was cited as evidence against the party.
 
 ## Session History
 

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tomb of Tzentak.md",
+                "file": "NPCs/Kaza-Rul.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tomb of Tzentak"
+              "title": "Kaza-Rul"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tomb of Tzentak.md",
+                "file": "NPCs/Kaza-Rul.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Tomb of Tzentak"
+              "title": "Backlinks for Kaza-Rul"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tomb of Tzentak.md",
+                "file": "NPCs/Kaza-Rul.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Tomb of Tzentak"
+              "title": "Outgoing links from Kaza-Rul"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tomb of Tzentak.md",
+                "file": "NPCs/Kaza-Rul.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Tomb of Tzentak"
+              "title": "Outline of Kaza-Rul"
             }
           }
         ]
@@ -185,6 +185,7 @@
   },
   "active": "bb7d106d649a4cd5",
   "lastOpenFiles": [
+    "Tomb of Tzentak.md",
     "Anauroch.md",
     "NPCs/Chomp.md",
     "Sessions/Session 12.md",

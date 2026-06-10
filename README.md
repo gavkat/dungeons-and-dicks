@@ -47,4 +47,4 @@ Companions: [Gearsley](NPCs/Gearsley.md) · [Dave](NPCs/Dave.md) · [Polly](NPCs
 
 ---
 
-*Note: the notes use Obsidian `[[wikilinks]]` internally. They render as plain text on GitHub Pages — use this README for navigation, or open the vault in Obsidian for full cross-linking.*
+*Note: the notes use Obsidian `[wikilinks](wikilinks)` internally. They render as plain text on GitHub Pages — use this README for navigation, or open the vault in Obsidian for full cross-linking.*
