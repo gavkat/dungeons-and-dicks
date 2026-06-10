@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sessions/Session 12.md",
+                "file": "Tomb of Tzentak.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Session 12"
+              "title": "Tomb of Tzentak"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sessions/Session 12.md",
+                "file": "Tomb of Tzentak.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Session 12"
+              "title": "Backlinks for Tomb of Tzentak"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sessions/Session 12.md",
+                "file": "Tomb of Tzentak.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Session 12"
+              "title": "Outgoing links from Tomb of Tzentak"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sessions/Session 12.md",
+                "file": "Tomb of Tzentak.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Session 12"
+              "title": "Outline of Tomb of Tzentak"
             }
           }
         ]
@@ -185,11 +185,13 @@
   },
   "active": "bb7d106d649a4cd5",
   "lastOpenFiles": [
+    "Anauroch.md",
+    "NPCs/Chomp.md",
+    "Sessions/Session 12.md",
     "_config.yml",
     "README.md",
     "Holly Hollow.md",
     "Flame Tongue Whip.md",
-    "Sessions/Session 12.md",
     "Bottom Feeders.md",
     "NPCs/Ouraeus.md",
     "The Choke.md",
