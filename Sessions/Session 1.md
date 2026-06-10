@@ -2,20 +2,20 @@
 
 **Tags:** #session
 
-**In short:** Four strangers' paths converge in [Leilon](Leilon.md), they join the [Bottom Feeders](Bottom%20Feeders.md), and a tavern celebration erupts into black-eyed carnage.
+**In short:** Four strangers' paths converge in [[Leilon]], they join the [[Bottom Feeders]], and a tavern celebration erupts into black-eyed carnage.
 
 ## Summary
 
-The adventure opened mid-crisis: a terrifying Leviathan storm battering [The Tempest's Temptation](The%20Tempest's%20Temptation.md) (introduced as *The Temptation's Tempest*). [Wild Fury](Wild%20Fury.md), [Lord Icarus Valerius Corvus III](Icarus.md), [Blackjack](Blackjack.md), and [Rik](Rik.md) fought desperately and saved the ship under the watchful eye of [Captain Siren Shellsword](Captain%20Siren%20Shellsword.md).
+The adventure opened mid-crisis: a terrifying Leviathan storm battering [[The Tempest's Temptation]] (introduced as *The Temptation's Tempest*). [[Wild Fury]], [[Icarus|Lord Icarus Valerius Corvus III]], [[Blackjack]], and [[Rik]] fought desperately and saved the ship under the watchful eye of [[Captain Siren Shellsword]].
 
-The story then rewound to their origins. [Wild Fury](Wild%20Fury.md) met [Halia](Halia.md), who told him of ["the tethered"](The%20Tethered.md) — people falling ill since the [](Phandelver.md#The%20Forge%20of%20Spells|Forge%20of%20Spells) was reactivated — and gave him a prototype [Sending Phone](Sending%20Phone.md) plus a lead on his missing father, last seen near the [Ice Spires](Ice%20Spires.md). He had spent days secluded with his wyvern [Dave](Dave.md), increasingly isolated and manic. [Icarus](Icarus.md), riding in the opulent "Aurora Sovereign" with his butler [Gearsley](Gearsley.md), was on a "rehabilitation" mission and received a restricted [Sending Phone](Sending%20Phone.md) from his father amid tense conversations about family expectations. [Blackjack](Blackjack.md) faked being struck by Gearsley's car as a distraction and stole the [Glimmerspark](Glimmerspark%20Industries.md) phone. [Rik](Rik.md) learned of a potential cure for his ailing wife [Marisya](Marisya.md) in the desert of [Anauroch](Anauroch.md), a lead given by [Riptide](Riptide.md).
+The story then rewound to their origins. [[Wild Fury]] met [[Halia]], who told him of [[The Tethered|"the tethered"]] — people falling ill since the [[Phandelver#The Forge of Spells|Forge of Spells]] was reactivated — and gave him a prototype [[Sending Phone]] plus a lead on his missing father, last seen near the [[Ice Spires]]. He had spent days secluded with his wyvern [[Dave]], increasingly isolated and manic. [[Icarus]], riding in the opulent "Aurora Sovereign" with his butler [[Gearsley]], was on a "rehabilitation" mission and received a restricted [[Sending Phone]] from his father amid tense conversations about family expectations. [[Blackjack]] faked being struck by Gearsley's car as a distraction and stole the [[Glimmerspark Industries|Glimmerspark]] phone. [[Rik]] learned of a potential cure for his ailing wife [[Marisya]] in the desert of [[Anauroch]], a lead given by [[Riptide]].
 
-Their paths converged at [](Leilon.md#The%20Crow's%20Nest|The%20Crow's%20Nest) tavern, where [Captain Siren Shellsword](Captain%20Siren%20Shellsword.md) recruited them into his [Bottom Feeders](Bottom%20Feeders.md) crew. The celebration was violently interrupted when pirates in the tavern transformed — eyes turning black — and attacked indiscriminately. [Gearsley](Gearsley.md) proved surprisingly adept in the fight. [Icarus](Icarus.md) died, experienced a bewildering vision in a black void, and was miraculously revived by [Gearsley](Gearsley.md).
+Their paths converged at [[Leilon#The Crow's Nest|The Crow's Nest]] tavern, where [[Captain Siren Shellsword]] recruited them into his [[Bottom Feeders]] crew. The celebration was violently interrupted when pirates in the tavern transformed — eyes turning black — and attacked indiscriminately. [[Gearsley]] proved surprisingly adept in the fight. [[Icarus]] died, experienced a bewildering vision in a black void, and was miraculously revived by [[Gearsley]].
 
 ## Key Developments
 
-- The party formed and joined the [Bottom Feeders](Bottom%20Feeders.md).
-- [The Tethered](The%20Tethered.md) illness introduced; linked to the reactivated [](Phandelver.md#The%20Forge%20of%20Spells|Forge%20of%20Spells).
-- Quest hooks established: [Wild Fury](Wild%20Fury.md)'s father ([Ice Spires](Ice%20Spires.md)), [Rik](Rik.md)'s cure for [Marisya](Marisya.md) ([Anauroch](Anauroch.md)), [Icarus](Icarus.md)'s "rehabilitation."
-- [Blackjack](Blackjack.md) stole [Icarus](Icarus.md)'s [Sending Phone](Sending%20Phone.md).
-- [Icarus](Icarus.md) died and was revived by [Gearsley](Gearsley.md) — the first hint that neither is ordinary.
+- The party formed and joined the [[Bottom Feeders]].
+- [[The Tethered]] illness introduced; linked to the reactivated [[Phandelver#The Forge of Spells|Forge of Spells]].
+- Quest hooks established: [[Wild Fury]]'s father ([[Ice Spires]]), [[Rik]]'s cure for [[Marisya]] ([[Anauroch]]), [[Icarus]]'s "rehabilitation."
+- [[Blackjack]] stole [[Icarus]]'s [[Sending Phone]].
+- [[Icarus]] died and was revived by [[Gearsley]] — the first hint that neither is ordinary.
