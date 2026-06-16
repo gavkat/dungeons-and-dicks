@@ -1,12 +1,14 @@
 # Echoes of Phandelver
 
-**Tags:** #Campaign #Hub
+**Tags:** #Campaign #Hub #Campaign2
+
+> The second campaign in the world. For the [[Wolfpack]]'s original adventure five years earlier, see [[Lost Mine of Phandelver]].
 
 ---
 
 ## The Premise
 
-Five years have passed since the battle at the Forge of Spells, where the [[Wolfpack]] defeated the Black Spider. A new age of technology, industrialization, and prosperity has dawned — warforged and common folk building side by side, powered by the rediscovered mines of [[Phandelver]] and the patronage of "Prometheus," secretly [[Mordenkainen]].
+Five years have passed since the battle at the Forge of Spells, where the [[Wolfpack]] defeated the Black Spider (chronicled in [[Lost Mine of Phandelver]]). A new age of technology, industrialization, and prosperity has dawned — warforged and common folk building side by side, powered by the rediscovered mines of [[Phandelver]] and the patronage of "Prometheus," secretly [[Mordenkainen]].
 
 But beneath the surface: rumors, whispers — people changing, eyes turning black, [[The Tethered]] falling ill since the Forge reawakened. *The Wolfpack saved Phandelver — but at what cost?*
 
