@@ -18,10 +18,10 @@ Her hand shaped much of the campaign from the shadows. Her **Vox Spiritus** — 
 - Lightning Steel's vampiric curse was revealed as Beshaba's "gift" of eternal youth.
 
 ### Session 20: Vox
-- The Vox Spiritus was unmasked at [[Wyvern Tor]] as the evil **Vox Spiritus of Beshaba**, demanding the spellbook with her pet dragon.
+- The Vox Spiritus was unmasked at [[Wyvern Tor]] as the evil **Vox Spiritus of Beshaba**, demanding the spellbook with her pet dragon. The battle of the sisters followed: Beshaba's Vox against [[Sister Garaele]] risen as the Vox of [[Tymora]].
 
 ### Session 21: Silence is Violence
-- The battle of the sisters: Beshaba's Vox against [[Sister Garaele]] risen as the Vox of Tymora.
+- A spectral remnant of Beshaba's Vox rose again demanding the spellbook, only to be banished by [[Prometheus]].
 
 ### Session 23: The Lying Lich and the Warforged
 - Szass Tam whispered *"Beshaba"* to Prometheus before departing.

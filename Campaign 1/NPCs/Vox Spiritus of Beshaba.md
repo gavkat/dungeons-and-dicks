@@ -19,7 +19,7 @@ She granted Prometheus his second life and his powers, then guided the party tow
 - Reappeared as the celestial "Vox Spiritus of Tymora"; sent the party to Old Owl Well.
 
 ### Session 20
-- Revealed her true nature as the Vox of Beshaba at Wyvern Tor; battled the party and her dragon.
+- Revealed her true nature as the Vox of Beshaba at [[Wyvern Tor]]; battled the party and her dragon [[Switchblade]]. After the dragon fell, [[Wild Fury]] misty-stepped to her and smote the final blow as her sister's avatar, the Vox of [[Tymora]] ([[Sister Garaele]]), warred against her in the sky.
 
 ### Session 21
-- The sister-goddess battle raged against the Vox of Tymora; she was smote by Wild Fury and banished by Prometheus.
+- A spectral remnant rose once more wailing *"GIVE ME MY SPELLBOOK!"* and was banished by [[Prometheus]] with a radiant longsword drawn from the [[Spellbook of Mordenkainen]].

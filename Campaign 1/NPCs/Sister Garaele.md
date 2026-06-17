@@ -22,7 +22,7 @@ When the false [[Vox Spiritus of Beshaba|Vox]] struck Garaele down in a fit of r
 - Fought in Harpy form during the battle of [[Phandalin]].
 
 ### Session 20
-- Returned with [[Frederick Iron-Thunder|Frederick]] to vanquish ember skeletons at [[Wyvern Tor]]; her mind invasion paralyzed the dragon. Struck down by the [[Vox Spiritus of Beshaba|Vox of Beshaba]].
+- Returned with [[Frederick Iron-Thunder|Frederick]] to vanquish ember skeletons at [[Wyvern Tor]]; her mind invasion paralyzed the dragon. Struck down by the [[Vox Spiritus of Beshaba|Vox of Beshaba]] — then raised by divine intervention as the **Vox Spiritus of Tymora**, dueling her sister's avatar in the sky while the party slew [[Switchblade]].
 
 ### Session 21
-- Rose again as the **Vox Spiritus of Tymora**; dueled her sister's avatar in the sky while the party finished [[Switchblade]].
+- Before the final ascent, revealed (from her Harpy form) that the dragon's deepest desire had been the silhouette of a fairy.

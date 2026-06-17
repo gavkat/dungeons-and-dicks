@@ -20,5 +20,5 @@ Her faithful served the [[Wolfpack]] well: [[Sister Garaele]], her cleric in Pha
 ### Session 18: Leilon Calling
 - Father Alaric used the Fountain of Fortune, created by Tymora, to revive [[Gundren Rockseeker|Gundren]].
 
-### Session 20 & 21: Vox / Silence is Violence
-- Sister Garaele rose as the true Vox Spiritus of Tymora to wage the battle of the sister-goddesses against the Vox of Beshaba.
+### Session 20: Vox
+- Sister Garaele rose as the true Vox Spiritus of Tymora to wage the battle of the sister-goddesses against the Vox of Beshaba over [[Wyvern Tor]].

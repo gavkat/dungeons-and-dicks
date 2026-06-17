@@ -8,7 +8,7 @@
 ## Role in Campaign
 Ilbryn is the Elven Oracle of the Ilefarn Prophecy — *"Efarn Euox Bryn Il,"* phonetically "Elven Oracle," meaning "the one to see beyond the light." A founding member of the [[Wolfpack]], he slew [[Guz Nightfoot|Guz]] in the prequel, dispatched [[Yeemik]] in a psionic dagger duel, and time and again resolved the party's trials through his disciplined defensive training, earning "The Tides of Balance."
 
-Once the [[The Bookkeeper|Bookkeeper]] unveiled him as the Oracle, Ilbryn's visions located the Lost Mines and pierced the deceptions ahead — he saw the red dragon's weakness (a slice along its throat) and recognized it as [[Switchblade]], and he glimpsed the ancient crime of [[The Ilefarn|the Ilefarn]]: their leaders, "the Six," seizing a harengon child for a dark ritual. He landed the killing blow on Switchblade and, alongside [[Glenn]], on the [[Vox Spiritus of Beshaba|Vox of Beshaba]]. **Status: Alive.**
+Once the [[The Bookkeeper|Bookkeeper]] unveiled him as the Oracle, Ilbryn's visions located the Lost Mines and pierced the deceptions ahead — he saw the red dragon's weakness (a slice along its throat) and recognized it as [[Switchblade]], and he glimpsed the ancient crime of [[The Ilefarn|the Ilefarn]]: their leaders, "the Six," seizing a harengon child for a dark ritual. After [[Glenn]] severed the dragon's head, Ilbryn landed the killing blow that ended [[Switchblade]]. **Status: Alive.**
 
 ## Echoes of Phandelver
 In the epilogue, three years on, Ilbryn has conquered his addiction and opened his own bar — until an Oracle vision of [[The Dark Six]] mid-ritual shatters the calm, their voices resonating as one: *"The Dark Six are coming."* A thread that runs straight into [[Echoes of Phandelver]].
@@ -37,10 +37,10 @@ In the epilogue, three years on, Ilbryn has conquered his addiction and opened h
 - Failed to save the children from the falling Academy as the red dragon razed [[Leilon]]; the dragon told him they would meet again.
 
 ### Session 20
-- His Oracle sight exposed the dragon's throat as its weakness, revealing it to be [[Switchblade]].
+- His Oracle sight exposed the dragon's throat as its weakness, revealing it to be [[Switchblade]]; struck the fatal blow that ended the dragon after [[Glenn]] beheaded it.
 
 ### Session 21
-- Struck the fatal blow that ended Switchblade; helped finish the [[Vox Spiritus of Beshaba|Vox of Beshaba]].
+- Polymorphed by [[Prometheus]] into a Quetzalcoatlus to escape the avalanche off [[Wyvern Tor]].
 
 ### Session 23
 - In the war room of [[Wave Echo Cave]], received the Ilefarn vision of "the Six" seizing the harengon child.

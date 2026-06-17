@@ -10,7 +10,7 @@
 ## In Campaign 1 — Lost Mine of Phandelver
 First found locked in a prison cell in [[Cragmaw Castle]], "Wild Fury III" was freed by the [[Wolfpack]] and joined their crusade against the Black Spider.
 
-- Empowered by an ancestral amulet against the vampire [[Lightning Steel]]; inherited the sword [[Lightbringer]] from [[Frederick Iron-Thunder|Frederick]] in exchange for a giant Elk steed (Session 11).
+- Empowered by an amulet against the vampire [[Lightning Steel]]; inherited the sword [[Lightbringer]] from [[Frederick Iron-Thunder|Frederick]] in exchange for a giant Elk steed (Session 11).
 - In the trials of [[Old Owl Well]], his test — *the Roar of Pride* — forced a confrontation with his father (Session 17). He was then poisoned by the shapeshifter [[Talice]] wearing [[Halia]]'s face.
 - At [[Wyvern Tor]], a vision of his **grandfather** revealed the origins of the [[Lionshield Coster]]. There he recovered his grandfather's armor and sword — and a single **wyvern egg**, which he vowed to protect (Session 20). That egg hatched into [[Dave]].
 - His blood was among the three the Black Spider harvested to mirror the Ilefarn ritual at the [[Wave Echo Cave|Forge of Spells]] (Session 25).

@@ -3,7 +3,7 @@
 **Tags:** #character #npc #Ally #Deceased #Campaign1
 
 ## Description
-**Human/Fighter.** A friend of [[Gundren Rockseeker|Gundren]] and former member of the [[Lionshield Coster|Lord's Alliance]], Sildar helped recruit the [[Wolfpack]] for the escort to [[Phandalin]].
+**Human/Fighter.** A friend of [[Gundren Rockseeker|Gundren]] and former member of the Lord's Alliance, Sildar helped recruit the [[Wolfpack]] for the escort to [[Phandalin]].
 
 ## Role in Campaign
 Sildar set the party on its path alongside [[Gundren Rockseeker|Gundren]], but was ambushed on the high road and taken captive. The party freed him from the [[Cragmaw Hideout]] in Session 3, and it was Sildar who delivered the campaign's first crucial intelligence: the Rockseekers had found the lost [[Wave Echo Cave]], Gundren had been hauled to [[Cragmaw Castle]], [[Klarg]] worked for the [[Finethir Shinebright|Black Spider]], and a contact named [[Iarno Albrek]] in [[Phandalin]] might help.

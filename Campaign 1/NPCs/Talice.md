@@ -1,6 +1,6 @@
 # Talice
 
-**Tags:** #character #npc #Antagonist #Campaign1
+**Tags:** #character #npc #Antagonist #Deceased #Campaign1
 
 ## Description
 A **Drow/Hunter**, a shapeshifter and henchman of [[Finethir Shinebright|the Black Spider]]. Her signature weapon is deception itself: she repeatedly impersonates the party's allies to sow confusion and strike from within.
