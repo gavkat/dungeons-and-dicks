@@ -165,9 +165,13 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "flowershow:Publish with Flowershow": false
     }
   },
   "active": "b861a032a68035f4",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "Campaign 1/Sessions/Session 8 - You%2C Me and Droopy.md",
+    "README.md"
+  ]
 }
