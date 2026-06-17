@@ -1,0 +1,9 @@
+{
+  "flowershowToken": "",
+  "siteName": "dungeons-and-dicks",
+  "rootDir": "",
+  "excludePatterns": [
+    "\\.excalidraw(\\.(md|excalidraw))?$"
+  ],
+  "lastSeenVersion": ""
+}
