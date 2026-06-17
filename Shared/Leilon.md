@@ -17,8 +17,8 @@ The [[Wolfpack]] came to Leilon seeking the Fountain of Fortune to heal [[Gundre
 ## In Campaign 2 — Echoes of Phandelver
 The rebuilt port city where the new campaign opens. [[Wild Fury]]'s panic attacks trace directly to the dragon attack five years prior.
 
-### Sub-locations
-- **The Crow's Nest** — the tavern where [[Captain Siren Shellsword]] recruited the party into the [[Bottom Feeders]], and where pirates with blackened eyes first attacked ([[Session 1]]).
+### The Crow's Nest
+The tavern where [[Captain Siren Shellsword]] recruited the party into the [[Bottom Feeders]], and where pirates with blackened eyes first attacked ([[Session 1]]).
 
 ### Campaign 2 Session History
 - **[[Session 1]]** — The party's origins converged here; the Crow's Nest massacre.
