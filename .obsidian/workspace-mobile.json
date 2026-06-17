@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Campaign 1/NPCs/Droop.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Droop"
+              "title": "README"
             }
           }
         ]
@@ -112,7 +112,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Campaign 1/NPCs/Droop.md",
+            "file": "README.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Campaign 1/NPCs/Droop.md",
+            "file": "README.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           },
@@ -145,7 +145,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Campaign 1/NPCs/Droop.md",
+            "file": "README.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -171,8 +171,9 @@
   },
   "active": "b861a032a68035f4",
   "lastOpenFiles": [
-    "Campaign 1/Sessions/Session 8 - You, Me and Droopy.md",
     "Campaign 1/Lost Mine of Phandelver.md",
+    "Campaign 1/Sessions/Session 8 - You, Me and Droopy.md",
+    "Campaign 1/NPCs/Droop.md",
     "README.md",
     "Campaign 1/Sessions/Session 8 - You%2C Me and Droopy.md"
   ]
