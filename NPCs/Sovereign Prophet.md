@@ -21,3 +21,6 @@ The campaign's central antagonist so far. Collects sacrifices for the Devourer, 
 
 ### Session 9
 - Named as **Valyrian**, brother of [[Kaelen]] — making [[Blackjack]] the Shepherd to his Prophet.
+
+### Session 13
+- Reached the still-comatose [[Blackjack]] with an **apocalyptic warning**, the vision that finally stirred him awake.

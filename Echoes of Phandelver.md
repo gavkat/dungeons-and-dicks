@@ -28,23 +28,23 @@ Companions: [[Gearsley]], [[Polly]].
 - **Act I — The Sea** ([[Session 1]]–[[Session 4]]): Recruited into the [[Bottom Feeders]] at [[Leilon]]; ghost ships in [[The Choke]]; murders aboard [[The Tempest's Temptation]]; the [[Sovereign Prophet]] revealed and [[Captain Siren Shellsword]] devoured.
 - **Interlude — Castaways** ([[Session 5]]–[[Session 6]]): The [[Mage Guard]], the island of [[Mintan]], [[Koa]]'s revelations, the Prophet's ultimatum — and being swallowed whole.
 - **Act II — The Desert** ([[Session 7]]–[[Session 11]]): Captured by the [[Itju-Sha]]; pit fights and a Fury-Road escape; [[Blackjack]] reborn as Shepherd; the [[Tomb of Tzentak]]; [[Ouraeus]]'s betrayal and [[Tzentak]]'s destruction.
-- **Act III — The Frost** ([[Session 12]]–): The desert replaced by tundra; [[Holly Hollow]]'s Mid-Winter Jubilee; [[Agatha the Hag]] slain; [[Glenn]] crowned Father Klaus; the [[The White Claw]] flyer arrives.
+- **Act III — The Frost** ([[Session 12]]–): The desert replaced by tundra; [[Holly Hollow]]'s Mid-Winter Jubilee; [[Agatha the Hag]] slain; [[Glenn]] crowned Father Klaus; the [[The White Claw]] flyer arrives. [[Ilbryn Darksight|Ilbryn]] reveals [[Tzentak]] was a [[Vox of the Dark Six|Vox]] and that five more remain; the trek north to [[Hartsvale]] costs the party [[Dave]], taken by a [[The Consortium|Consortium]] "Code Black"; the Frost Giant [[Vlad]] appears.
 
 ## Sessions
 
-[[Session 1]] · [[Session 2]] · [[Session 3]] · [[Session 4]] · [[Session 5]] · [[Session 6]] · [[Session 7]] · [[Session 8]] · [[Session 9]] · [[Session 10]] · [[Session 11]] · [[Session 12]]
+[[Session 1]] · [[Session 2]] · [[Session 3]] · [[Session 4]] · [[Session 5]] · [[Session 6]] · [[Session 7]] · [[Session 8]] · [[Session 9]] · [[Session 10]] · [[Session 11]] · [[Session 12]] · [[Session 13]]
 
 ## Factions & Powers
 
-[[Bottom Feeders]] · [[Itju-Sha]] · [[Mage Guard]] · [[Medji-Tzentak]] · [[Glimmerspark Industries]] · [[Wolfpack]] · [[The Dark Six]] · [[The Great Devourer]] · [[The Keeper]]
+[[Bottom Feeders]] · [[Itju-Sha]] · [[Mage Guard]] · [[The Consortium]] · [[Medji-Tzentak]] · [[Glimmerspark Industries]] · [[Wolfpack]] · [[The Dark Six]] · [[Vox of the Dark Six]] · [[The Great Devourer]] · [[The Keeper]]
 
 ## Key Antagonists
 
-[[Sovereign Prophet]] (active) · [[Sha'Argan]] (active) · [[The Traveler]] (unknown) · [[Skum]] (unknown) · [[Agatha the Hag]] (dead) · [[Tlincalli]] (dead) · [[Ouraeus]] (dead) · [[Tzentak]] (destroyed)
+[[Sovereign Prophet]] (active) · [[Sha'Argan]] (active) · [[The Ashen Figure]] (active, took [[Dave]]) · [[The Traveler]] (unknown) · [[Skum]] (unknown) · [[Agatha the Hag]] (dead) · [[Tlincalli]] (dead) · [[Ouraeus]] (dead) · [[Tzentak]] (destroyed — a Vox)
 
 ## Places
 
-[[Leilon]] · [[The Tempest's Temptation]] · [[The Choke]] · [[Sea of Swords]] · [[Mintan]] · [[Anauroch]] · [[Tomb of Tzentak]] · [[Holly Hollow]] · [[Phandelver]] · [[Ice Spires]] · [[The White Claw]]
+[[Leilon]] · [[The Tempest's Temptation]] · [[The Choke]] · [[Sea of Swords]] · [[Mintan]] · [[Anauroch]] · [[Tomb of Tzentak]] · [[Holly Hollow]] · [[Hartsvale]] · [[Phandelver]] · [[Ice Spires]] · [[The White Claw]]
 
 ## Notable Items
 

@@ -43,3 +43,6 @@ You are **Rik "The Bone Crusher" Magnus**, a wrestler-warrior fighting to save h
 
 ### Session 11
 - Charmed by [[Tzentak]]'s rotten heart; flooded with visions of Tzentak's deal with [[The Dark Six]]; turned his blade on the party before being frozen by Hold Person. Freed when the heart was destroyed.
+
+### Session 13
+- Briefly **possessed by the oracle [[Ilbryn Darksight|Ilbryn]]** during the colliding arcane storm, becoming the mouthpiece for the warning that [[Tzentak]] was a [[Vox of the Dark Six|Vox]] and that five more Voxes now hunt the party.
