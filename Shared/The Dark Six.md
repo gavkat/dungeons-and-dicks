@@ -9,6 +9,9 @@ Six malevolent gods. Campaign 1 uncovers what they are: the **six leaders of the
 
 The orc god [[Maglubiyet]] once bargained with them to extinguish the warforged ([[Prologue|Prologue]]); the lich [[Szass Tam]] accepted their offer of eternal life when [[Mordenkainen]] refused it.
 
+## The Voxes
+Each of the Dark Six anchors its power in the world through a **[[Vox of the Dark Six|Vox]]** — a material avatar bound to a hidden phylactery. There are six. The party has already unmade one: Pharaoh [[Tzentak]] was a Vox, and destroying his heart-phylactery ([[Session 11]]) executed him, froze the world, and roused the **five remaining Voxes** ([[Session 13]]). See [[Vox of the Dark Six]].
+
 ## Known / Suspected Members
 - **[[Beshaba]]** — Lady Mischief; an Elf-turned-God, sister of [[Tymora]]. Her [[Vox Spiritus of Beshaba|Vox Spiritus]] reanimated [[Prometheus]] and hunted the [[Spellbook of Mordenkainen]] (Campaign 1).
 - **[[The Great Devourer]]** — god of the hungering sea (named in Campaign 2).
@@ -22,3 +25,4 @@ The orc god [[Maglubiyet]] once bargained with them to extinguish the warforged 
 ## Campaign 2 Session History
 - **[[Session 5]]** — [[Koa]] named [[The Great Devourer|the Devourer]] as one of the Dark Six.
 - **[[Session 11]]** — [[Rik]]'s visions showed [[Tzentak]]'s deal with the Dark Six.
+- **[[Session 13]]** — [[Ilbryn Darksight|Ilbryn]], possessing [[Rik]], revealed [[Tzentak]] was a **[[Vox of the Dark Six|Vox]]**; his death froze the world and the five surviving Voxes now weave darkness across the continent. [[Polly]] chanted *"Pieces of Six!"*

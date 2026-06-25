@@ -37,3 +37,6 @@ You are **Jack "Blackjack" Blackwood**, an opportunist, thief, and showman — n
 
 ### Session 12
 - Suffered a hypothermic seizure in the sudden tundra; recovered at [[Holly Hollow]].
+
+### Session 13
+- Still comatose, witnessed an apocalyptic warning from the [[Sovereign Prophet]]. With him conscious again, the party set out north toward [[Hartsvale]].

@@ -39,3 +39,4 @@ Five years later, Wild Fury is one of the [[Boner Bros]], still haunted and stil
 - **[[Session 10]]** — Smote the mummies of the [[Tomb of Tzentak]].
 - **[[Session 11]]** — A final divine stand against [[Tzentak]]; polymorphed into a Giant Ape by [[Icarus]].
 - **[[Session 12]]** — Reunited with [[Glenn]], his old guild's Head of HR; destroyed Krampus ([[Agatha the Hag]]); received the [[The White Claw]] flyer.
+- **[[Session 13]]** — Scouted ahead on [[Dave]] during the trek north to [[Hartsvale]]; lost [[Dave]] to [[The Ashen Figure]] when a [[The Consortium|Consortium]] "Code Black" was called.

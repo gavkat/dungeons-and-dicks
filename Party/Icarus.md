@@ -51,3 +51,6 @@ You are **Lord Icarus Valerius Corvus III**, a flamboyant noble sorcerer on a "r
 
 ### Session 12
 - Helped destroy Krampus with a high-voltage blast.
+
+### Session 13
+- Polymorphed into a Giant Snow Owl to scout a path through the whiteout — but his avian appetite got the better of him; he lost his bearings and became **stranded alone** in the wastes, separated from the party.

@@ -13,6 +13,8 @@ Once the [[The Bookkeeper|Bookkeeper]] unveiled him as the Oracle, Ilbryn's visi
 ## Echoes of Phandelver
 In the epilogue, three years on, Ilbryn has conquered his addiction and opened his own bar — until an Oracle vision of [[The Dark Six]] mid-ritual shatters the calm, their voices resonating as one: *"The Dark Six are coming."* A thread that runs straight into [[Echoes of Phandelver]].
 
+His sight reaches across that thread. In **Echoes [[Session 13]]**, amid a collision of apocalyptic visions, Ilbryn **briefly possessed [[Rik]]** to deliver the campaign's pivotal warning: that Pharaoh [[Tzentak]] was a **[[Vox of the Dark Six|Vox]]** of the Dark Six, that destroying his heart-phylactery froze the world, and that **five Voxes remain** — furious, and weaving a net of darkness across the continent.
+
 ## Session History
 
 ### Prequel: The Wild Sheep's Chase
