@@ -14,15 +14,17 @@ Channelled through the oracle [[Ilbryn Darksight|Ilbryn]] — who briefly posses
 
 - Pharaoh [[Tzentak]] was himself a **Vox of the Dark Six**, and his beating **rotten heart** was a **cosmic phylactery**.
 - Destroying that heart ([[Session 11]]) **executed a Vox**, the first to fall in this age.
-- The death tore a catastrophic magic surge across the world — the very surge that **froze the desert of [[Anauroch]] into tundra overnight**.
+- The death tore a catastrophic magic surge across the world, **freezing it overnight** — experienced by the party as the desert of [[Anauroch]] becoming tundra ([[Session 11]]).
 - The **five remaining Voxes** are now furious, weaving "a net of darkness across the continent" and hunting the party.
 
 This recontextualises the campaign's frozen turn: the world did not simply change around the party — *they* changed it, by killing a god's avatar.
 
 ## Known Voxes
-- **[[Tzentak]]** — executed ([[Session 11]]); the catalyst of the great freeze. **(1 of 6 down.)**
-- **[[Vox Spiritus of Beshaba]]** — Beshaba's avatar, destroyed in [[Lost Mine of Phandelver|Campaign 1]]. Whether her Vox has since re-anchored is unknown.
-- The remaining Voxes are unidentified. The whisper *"pieces of six"* carried by [[Polly]] may yet name them.
+Per [[Ilbryn Darksight|Ilbryn]]'s warning, **one Vox has been executed and five remain**:
+- **[[Tzentak]]** — executed ([[Session 11]]); the catalyst of the great freeze.
+- The **five remaining** Voxes are unidentified. The whisper *"pieces of six"* carried by [[Polly]] may yet name them.
+
+> **Precedent:** In [[Lost Mine of Phandelver|Campaign 1]] the party already faced the [[Vox Spiritus of Beshaba]] — Beshaba's avatar — which is where the term "Vox" originates. How that earlier age's Vox relates to the present count of six is unclear (Ilbryn's warning concerns *this* age).
 
 ## Open Questions
 - Which gods do the five surviving Voxes embody? ([[The Great Devourer]] and [[The Traveler]] are suspected Dark Six members.)

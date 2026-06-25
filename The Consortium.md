@@ -7,7 +7,7 @@
 ## Overview
 The organisation behind the [[Mage Guard|Mage Guards]] — the armed enforcement arm encountered policing the new industrial age. Until [[Session 13]] the party knew them only as "Mage Guards"; their ambush on the road north revealed the larger body they answer to: **the Consortium**, complete with a chain of command and emergency protocols.
 
-The Consortium appears to be a corporate-industrial power of this age, plausibly entangled with [[Phandelver]]'s rediscovered mines and outfits like [[Glimmerspark Industries]]. Its precise leadership and aims are unknown.
+Its precise nature, leadership, and aims are still unknown — so far the party has only seen its [[Mage Guard|Mage Guards]] and a single "Code Black" asset.
 
 ## "Code Black"
 A reinforcement protocol. When a cornered ground-level Consortium soldier is overwhelmed, they can call in a **Code Black** — summoning a far more dangerous asset. In [[Session 13]] the response was **[[The Ashen Figure]]**: a being cloaked in warping ash who tore through a portal, out-manoeuvred the [[Boner Bros]], and abducted [[Wild Fury]]'s wyvern [[Dave]].

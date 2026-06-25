@@ -5,9 +5,9 @@
 ---
 
 ## Overview
-A destination to the **north**, across the frozen tundra — the party's heading after [[Holly Hollow]]. Reaching it was the reason the [[Boner Bros]] needed extra transport, prompting them to swindle a local merchant out of two **polar bear mounts** for ten gold ([[Session 13]]).
+A destination to the **north**, across the frozen tundra — the party's heading after the events of [[Holly Hollow]]. Reaching it was the reason the [[Boner Bros]] needed extra transport, prompting them to swindle a local merchant out of two **polar bear mounts** for ten gold ([[Session 13]]).
 
-Hartsvale lies in the giant-haunted reaches of the far north, which may bear on the timid Frost Giant [[Vlad]] who found the party on the road, and on [[Wild Fury]]'s search for his father near the [[Ice Spires]].
+Nothing more is yet known about Hartsvale itself; the party never reached it before being ambushed on the road. It may bear on [[Wild Fury]]'s search for his father near the [[Ice Spires]].
 
 ## Session History
 
