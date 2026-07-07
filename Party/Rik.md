@@ -46,3 +46,6 @@ You are **Rik "The Bone Crusher" Magnus**, a wrestler-warrior fighting to save h
 
 ### Session 13
 - Briefly **possessed by the oracle [[Ilbryn Darksight|Ilbryn]]** during the colliding arcane storm, becoming the mouthpiece for the warning that [[Tzentak]] was a [[Vox of the Dark Six|Vox]] and that five more Voxes now hunt the party.
+
+### Session 14
+- Trekked three days toward [[Hartsvale]] with [[Vlad]] as guide, suffering — like the rest of the party — the [[Baba Yaga]]'s nightly nightmare invasions: waking damage, exhaustion, and intense paranoia.

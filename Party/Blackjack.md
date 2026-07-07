@@ -40,3 +40,7 @@ You are **Jack "Blackjack" Blackwood**, an opportunist, thief, and showman — n
 
 ### Session 13
 - Still comatose, witnessed an apocalyptic warning from the [[Sovereign Prophet]]. With him conscious again, the party set out north toward [[Hartsvale]].
+
+### Session 14
+- **Smooth-talked a massive winter bear** into walking away after it ambushed the party's polar bear mounts on the trek to [[Hartsvale]].
+- Like the rest of the party, suffered the [[Baba Yaga]]'s nightmare invasions — waking damage, exhaustion, and intense paranoia.
