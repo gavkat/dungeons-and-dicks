@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sessions/Session 14.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Session 14"
+              "title": "README"
             }
           }
         ]
@@ -171,8 +171,8 @@
   },
   "active": "b861a032a68035f4",
   "lastOpenFiles": [
-    "README.md",
     "Sessions/Session 14.md",
+    "README.md",
     "NPCs/Vraxis.md",
     "NPCs/Princess Zaria.md",
     "NPCs/Lord Kholodan Ghartovich.md",
