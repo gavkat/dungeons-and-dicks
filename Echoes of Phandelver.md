@@ -28,7 +28,7 @@ Companions: [[Gearsley]], [[Polly]].
 - **Act I — The Sea** ([[Session 1]]–[[Session 4]]): Recruited into the [[Bottom Feeders]] at [[Leilon]]; ghost ships in [[The Choke]]; murders aboard [[The Tempest's Temptation]]; the [[Sovereign Prophet]] revealed and [[Captain Siren Shellsword]] devoured.
 - **Interlude — Castaways** ([[Session 5]]–[[Session 6]]): The [[Mage Guard]], the island of [[Mintan]], [[Koa]]'s revelations, the Prophet's ultimatum — and being swallowed whole.
 - **Act II — The Desert** ([[Session 7]]–[[Session 11]]): Captured by the [[Itju-Sha]]; pit fights and a Fury-Road escape; [[Blackjack]] reborn as Shepherd; the [[Tomb of Tzentak]]; [[Ouraeus]]'s betrayal and [[Tzentak]]'s destruction.
-- **Act III — The Frost** ([[Session 12]]–): The desert replaced by tundra; [[Holly Hollow]]'s Mid-Winter Jubilee; [[Agatha the Hag]] slain; [[Glenn]] crowned Father Klaus; the [[The White Claw]] flyer arrives. [[Ilbryn Darksight|Ilbryn]] reveals [[Tzentak]] was a [[Vox of the Dark Six|Vox]] and that five more remain; the trek north to [[Hartsvale]] costs the party [[Dave]], taken by a [[The Consortium|Consortium]] "Code Black"; the Frost Giant [[Vlad]] appears. Vlad — exiled brother of Hartsvale's ruler — guides the party to the city through the [[Baba Yaga]]'s nightmares, naming [[Wild Fury]] his champion for [[The Krug]]; a separated [[Icarus]] survives the dragon soldier [[Vraxis]] and is smuggled toward Hartsvale by [[Garvin]], who believes Icarus is his lost brother Gradley.
+- **Act III — The Frost** ([[Session 12]]–): The desert replaced by tundra; [[Holly Hollow]]'s Mid-Winter Jubilee; [[Agatha the Hag]] slain; [[Glenn]] crowned Father Klaus; the [[The White Claw]] flyer arrives. [[Ilbryn Darksight|Ilbryn]] reveals [[Tzentak]] was a [[Vox of the Dark Six|Vox]] and that five more remain; the trek north to [[Hartsvale]] costs the party [[Dave]], taken by a [[The Consortium|Consortium]] "Code Black"; the Frost Giant [[Vlad]] appears. Vlad — exiled brother of Hartsvale's ruler — guides the party to the city through the [[Baba Yaga]]'s nightmares, naming [[Wild Fury]] his champion for [[The White Claw|The Krug]] (the White Claw arena itself); a separated [[Icarus]] survives the dragon soldier [[Vraxis]] and is smuggled toward Hartsvale by [[Garvin]], who believes Icarus is his lost brother Gradley.
 
 ## Sessions
 
@@ -44,7 +44,7 @@ Companions: [[Gearsley]], [[Polly]].
 
 ## Places
 
-[[Leilon]] · [[The Tempest's Temptation]] · [[The Choke]] · [[Sea of Swords]] · [[Mintan]] · [[Anauroch]] · [[Tomb of Tzentak]] · [[Holly Hollow]] · [[Hartsvale]] · [[The Krug]] · [[Phandelver]] · [[Ice Spires]] · [[The White Claw]]
+[[Leilon]] · [[The Tempest's Temptation]] · [[The Choke]] · [[Sea of Swords]] · [[Mintan]] · [[Anauroch]] · [[Tomb of Tzentak]] · [[Holly Hollow]] · [[Hartsvale]] · [[Phandelver]] · [[Ice Spires]] · [[The White Claw]]
 
 ## Notable Items
 

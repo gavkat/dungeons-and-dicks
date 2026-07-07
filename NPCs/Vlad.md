@@ -10,7 +10,7 @@ Now revealed ([[Session 14]]): Vlad is **exiled from [[Hartsvale]]** — and is 
 ## Role in Campaign
 Introduced at the very end of [[Session 13]], in the frozen wastes on the road north toward [[Hartsvale]]. In [[Session 14]] he became the party's guide and lore-source: sharing Hartsvale's history around the campfire — Lord [[Lord Kholodan Ghartovich|Kholodan Ghartovich]]'s ruling style, the Twilight Maiden [[Princess Zaria]]'s rumored blessed birth, and the dream-entity [[Baba Yaga]] — and leading the [[Boner Bros]] on a **three-day trek** toward the city.
 
-Despite the accidental cannibalism talk, the party persuaded him to **declare [[Wild Fury]] III as his champion at [[The Krug]]** — their way into Hartsvale.
+Despite the accidental cannibalism talk, the party persuaded him to **declare [[Wild Fury]] III as his champion at [[The White Claw|The Krug]]** — their way into Hartsvale.
 
 ## Session History
 
@@ -22,4 +22,4 @@ Despite the accidental cannibalism talk, the party persuaded him to **declare [[
 - Guided the party on a three-day trek toward Hartsvale.
 - Violently vomited when [[Wild Fury]] mercy-killed the party's mauled polar bear and fashioned its fur into a hooded jacket.
 - Dropped a horrifying double-revelation: he is the **exiled brother of Hartsvale's ruler**, and his "stealing vegetables" actually meant **eating disabled children**.
-- Was persuaded to declare [[Wild Fury]] III his champion at [[The Krug]] so the party could enter Hartsvale.
+- Was persuaded to declare [[Wild Fury]] III his champion at [[The White Claw|The Krug]] so the party could enter Hartsvale.

@@ -69,7 +69,7 @@ Companions: [Gearsley](NPCs/Gearsley.md) · [Dave](Shared/Dave.md) · [Polly](NP
 
 ### Places
 
-[Leilon](Shared/Leilon.md) · [The Tempest's Temptation](The%20Tempest's%20Temptation.md) · [The Choke](The%20Choke.md) · [Sea of Swords](Sea%20of%20Swords.md) · [Mintan](Mintan.md) · [Anauroch](Anauroch.md) · [Tomb of Tzentak](Tomb%20of%20Tzentak.md) · [Holly Hollow](Holly%20Hollow.md) · [Hartsvale](Hartsvale.md) · [The Krug](The%20Krug.md) · [Phandelver](Shared/Phandelver.md) · [Ice Spires](Ice%20Spires.md) · [The White Claw](The%20White%20Claw.md)
+[Leilon](Shared/Leilon.md) · [The Tempest's Temptation](The%20Tempest's%20Temptation.md) · [The Choke](The%20Choke.md) · [Sea of Swords](Sea%20of%20Swords.md) · [Mintan](Mintan.md) · [Anauroch](Anauroch.md) · [Tomb of Tzentak](Tomb%20of%20Tzentak.md) · [Holly Hollow](Holly%20Hollow.md) · [Hartsvale](Hartsvale.md) · [Phandelver](Shared/Phandelver.md) · [Ice Spires](Ice%20Spires.md) · [The White Claw / The Krug](The%20White%20Claw.md)
 
 ### Factions & Powers
 

@@ -13,9 +13,9 @@ First glimpsed at the end of [[Session 14]]: a **towering, ominous iron silhouet
 From [[Vlad]]'s campfire telling ([[Session 14]]) — Vlad himself is an exile of the city, and the **brother of its ruler**:
 
 - Ruled by **[[Lord Kholodan Ghartovich]]**, whose ruling style Vlad described.
-- Home to **the Twilight Maiden, [[Princess Zaria]]** — rumored to owe her blessed survival at birth to a wish on a shooting star.
+- Home to **the Twilight Maiden, [[Princess Zaria]]** — rumored to owe her blessed survival at birth to a wish on a shooting star. She is the "maiden" of the [[The White Claw]] flyer.
 - Haunted by a dream-entity known as the **[[Baba Yaga]]**; a gruesome **border outpost** on the approach lies littered with the self-mutilated victims of the entity's madness.
-- Hosts **[[The Krug]]**, where champions are declared — [[Vlad]] named [[Wild Fury]] III his champion there to get the party in.
+- Hosts **the Krug** — the arena advertised abroad as [[The White Claw]], "where hearts fail" — where champions are declared. [[Vlad]] named [[Wild Fury]] III his champion there to get the party in.
 
 ## Session History
 
@@ -24,5 +24,5 @@ From [[Vlad]]'s campfire telling ([[Session 14]]) — Vlad himself is an exile o
 
 ### Session 14
 - [[Vlad]] shared the city's lore and guided the party on a three-day trek toward it, harried nightly by the [[Baba Yaga]].
-- The party secured entry by having [[Vlad]] declare [[Wild Fury]] III his champion at [[The Krug]], bypassing the gruesome border outpost along the way.
+- The party secured entry by having [[Vlad]] declare [[Wild Fury]] III his champion at [[The White Claw|The Krug]], bypassing the gruesome border outpost along the way.
 - Separately, [[Icarus]] is being smuggled in aboard a [[Glimmerspark Industries|GlimmerSpark]] truck by [[Garvin]]. The session ended with Hartsvale's iron silhouette in sight.

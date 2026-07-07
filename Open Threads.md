@@ -8,12 +8,11 @@
 
 - **The Prophet's ultimatum** — [[Icarus]] has one lunar cycle (from [[Session 6]]) to deliver the amulet thief to the [[Sovereign Prophet]]. The thief is [[Blackjack]]. The clock is ticking.
 - **Wild Fury's father** — last seen near the [[Ice Spires]] ([[Halia]]'s lead). The mysterious arena flyer **points toward him** and drove the trek to [[Hartsvale]] ([[Session 14]]). Possibly connected: the "missing guildmate" ([[Session 5]]) and [[Glenn]]'s impossible aging ([[Session 12]]).
-- **[[The Krug]]** — [[Vlad]] declared [[Wild Fury]] III his champion at "The Krug" to get the party into [[Hartsvale]] ([[Session 14]]). What has Wild Fury signed up for?
+- **[[The White Claw|The Krug / The White Claw]]** — the arena "where hearts fail," where [[Wild Fury]] must face the maiden [[Princess Zaria]]'s champion (flyer, [[Session 12]]). The flyer points toward his father, and [[Vlad]] has declared Wild Fury III his champion there to get the party into [[Hartsvale]] ([[Session 14]]). What has Wild Fury signed up for?
 - **Rescue [[Dave]]** — [[Wild Fury]]'s wyvern was abducted by [[The Ashen Figure]], a [[The Consortium|Consortium]] "Code Black," on the road north ([[Session 13]]). Where was he taken, and why?
 - **The five remaining [[Vox of the Dark Six|Voxes]]** — destroying [[Tzentak]] (a Vox) froze the world; five more avatars of [[The Dark Six]] now weave a net of darkness across the continent and hunt the party ([[Session 13]]).
 - **Reunite the party** — [[Icarus]] is being smuggled into [[Hartsvale]] aboard a [[Glimmerspark Industries|GlimmerSpark]] truck by [[Garvin]] ([[Session 14]]), while the rest of the party approaches as [[Vlad]]'s entourage. Both converge on the city — unaware of each other.
 - **Marisya's cure** — the [[Anauroch]]/[[Tomb of Tzentak]] lead is spent and [[Tzentak]] destroyed. Was a cure found? [[Rik]]'s quest stands unresolved.
-- **The White Claw** — a flyer invites [[Wild Fury]] to face a maiden's champion in an arena "where hearts fail" ([[The White Claw]]). It points toward his father ([[Session 14]]); its relation to [[The Krug]] and [[Princess Zaria]] is unconfirmed.
 
 ## Mysteries
 
