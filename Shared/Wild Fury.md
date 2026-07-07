@@ -25,7 +25,7 @@ Five years later, Wild Fury is one of the [[Boner Bros]], still haunted and stil
 - Suffers panic attacks rooted in his failure to save civilians from the dragon that destroyed [[Leilon]] five years ago — the very dragon ([[Switchblade]]) the Wolfpack faced in Campaign 1.
 
 **Personal quest:**
-- Find his missing father, last seen near the [[Ice Spires]] — a lead from [[Halia]] ([[Session 1]]), and the same "father is alive" thread left dangling at the end of Campaign 1. Also framed as hunting a "missing guildmate" ([[Session 5]]) of the Lionshield Coster.
+- Find his missing father, last seen near the [[Ice Spires]] — a lead from [[Halia]] ([[Session 1]]), and the same "father is alive" thread left dangling at the end of Campaign 1. Also framed as hunting a "missing guildmate" ([[Session 5]]) of the Lionshield Coster. The mysterious arena flyer ([[The White Claw]], [[Session 12]]) points toward his long-lost father — the thread now driving the push to [[Hartsvale]] ([[Session 14]]).
 - Carries a prototype [[Sending Phone]] from [[Halia]], who told him of [[The Tethered]].
 
 ### Campaign 2 Session History
@@ -40,3 +40,4 @@ Five years later, Wild Fury is one of the [[Boner Bros]], still haunted and stil
 - **[[Session 11]]** — A final divine stand against [[Tzentak]]; polymorphed into a Giant Ape by [[Icarus]].
 - **[[Session 12]]** — Reunited with [[Glenn]], his old guild's Head of HR; destroyed Krampus ([[Agatha the Hag]]); received the [[The White Claw]] flyer.
 - **[[Session 13]]** — Scouted ahead on [[Dave]] during the trek north to [[Hartsvale]]; lost [[Dave]] to [[The Ashen Figure]] when a [[The Consortium|Consortium]] "Code Black" was called.
+- **[[Session 14]]** — Mercy-killed the party's mauled polar bear and custom-fashioned its fur into a "dope" hooded jacket (making [[Vlad]] violently vomit). Declared **[[Vlad]]'s champion at [[The White Claw|The Krug]]** — the [[The White Claw]] arena itself, and the party's way into [[Hartsvale]] — as the flyer pointing toward his long-lost father drove the trek onward.

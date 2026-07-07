@@ -19,4 +19,5 @@ The party. Founded as the bond between [[Rik]] and [[Wild Fury]] ([[Session 2]])
 - [[Polly]] — teleporting parrot; calls Icarus "daddy."
 
 ## Known History
-- Formed aboard [[The Tempest's Temptation]]; survived the [[Sovereign Prophet]], the [[Itju-Sha]], and the [[Tomb of Tzentak]]; currently stranded in the frozen tundra near [[Holly Hollow]].
+- Formed aboard [[The Tempest's Temptation]]; survived the [[Sovereign Prophet]], the [[Itju-Sha]], and the [[Tomb of Tzentak]].
+- Trekked three days through the frozen wastes toward [[Hartsvale]] guided by the exiled Frost Giant [[Vlad]], harried nightly by the [[Baba Yaga]]'s nightmares ([[Session 14]]). Entry to the city secured by [[Wild Fury]]'s declaration as Vlad's champion at [[The White Claw|The Krug]] — while a separated [[Icarus]] is smuggled in by [[Garvin]].

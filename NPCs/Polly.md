@@ -8,6 +8,8 @@
 ## Role in Campaign
 First a heist target, then a mystery: her whispers haunted [[Mintan]] before the party found her. She has adopted [[Icarus]], calling him "daddy." What "pieces of six" means — and its echo of [[The Dark Six]] — grows harder to ignore: in [[Session 13]] she seized rigid, eyes blazing sapphire blue, and chanted *"Pieces of Six!"* in the same moment the oracle [[Ilbryn Darksight|Ilbryn]] named [[Tzentak]] a [[Vox of the Dark Six|Vox]].
 
+The mystery deepened in [[Session 14]]: the cobalt dragon soldier [[Vraxis]] spared [[Icarus]]'s life solely out of intrigue at Polly — **sensing the creature was no mere bird, but a mysterious fey entity**.
+
 ## Session History
 
 ### Session 2
@@ -21,3 +23,6 @@ First a heist target, then a mystery: her whispers haunted [[Mintan]] before the
 
 ### Session 13
 - Went rigid with sapphire-blue eyes and chanted *"Pieces of Six!"* as the apocalyptic visions collided — part of the arcane storm that let [[Ilbryn Darksight|Ilbryn]] possess [[Rik]].
+
+### Session 14
+- Defended [[Icarus]] against [[Vraxis]] — and became the reason the dragon soldier spared his life. Vraxis sensed Polly was **no mere bird, but a mysterious fey entity**.

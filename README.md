@@ -47,6 +47,7 @@ The full cast, places, factions, and lore are indexed on the **[Lost Mine of Pha
 | 5 | [The Bird & The Worm](Sessions/Session%205.md) | 11 | [Rotten Hearts](Sessions/Session%2011.md) |
 | 6 | [Devoured](Sessions/Session%206.md) | 12 | [The Midvinter Special!](Sessions/Session%2012.md) |
 | | | 13 | [Code Black, Whiteout](Sessions/Session%2013.md) |
+| | | 14 | [Exiled and Exhausted](Sessions/Session%2014.md) |
 
 ### The Party
 
@@ -56,17 +57,19 @@ Companions: [Gearsley](NPCs/Gearsley.md) · [Dave](Shared/Dave.md) · [Polly](NP
 
 ### NPCs
 
-**Antagonists:** [The Sovereign Prophet](NPCs/Sovereign%20Prophet.md) · [Sha'Argan](NPCs/Sha'Argan.md) · [The Ashen Figure](NPCs/The%20Ashen%20Figure.md) · [The Traveler](NPCs/The%20Traveler.md) · [Skum](NPCs/Skum.md) · [Tlincalli](NPCs/Tlincalli.md) · [Ouraeus](NPCs/Ouraeus.md) · [Tzentak](NPCs/Tzentak.md) · [Agatha the Hag](Shared/Agatha%20the%20Hag.md)
+**Antagonists:** [The Sovereign Prophet](NPCs/Sovereign%20Prophet.md) · [Sha'Argan](NPCs/Sha'Argan.md) · [The Ashen Figure](NPCs/The%20Ashen%20Figure.md) · [Baba Yaga](NPCs/Baba%20Yaga.md) · [The Traveler](NPCs/The%20Traveler.md) · [Skum](NPCs/Skum.md) · [Tlincalli](NPCs/Tlincalli.md) · [Ouraeus](NPCs/Ouraeus.md) · [Tzentak](NPCs/Tzentak.md) · [Agatha the Hag](Shared/Agatha%20the%20Hag.md)
 
-**Allies & contacts:** [Koa](NPCs/Koa.md) · [Halia](Shared/Halia.md) · [Glenn](Shared/Glenn.md) · [Vespera](NPCs/Vespera.md) · [Kaelen](NPCs/Kaelen.md) · [Marisya](NPCs/Marisya.md) · [Vlad](NPCs/Vlad.md)
+**Allies & contacts:** [Koa](NPCs/Koa.md) · [Halia](Shared/Halia.md) · [Glenn](Shared/Glenn.md) · [Vespera](NPCs/Vespera.md) · [Kaelen](NPCs/Kaelen.md) · [Marisya](NPCs/Marisya.md) · [Vlad](NPCs/Vlad.md) · [Garvin](NPCs/Garvin.md)
+
+**Hartsvale:** [Lord Kholodan Ghartovich](NPCs/Lord%20Kholodan%20Ghartovich.md) · [Princess Zaria](NPCs/Princess%20Zaria.md)
+
+**Mysteries:** [Mordenkainen](Shared/Mordenkainen.md) · [Kaza-Rul](NPCs/Kaza-Rul.md) · [Vraxis](NPCs/Vraxis.md)
 
 **The Bottom Feeders crew:** [Captain Siren Shellsword](NPCs/Captain%20Siren%20Shellsword.md) · [Krell](NPCs/Krell.md) · [Sauriv](NPCs/Sauriv.md) · [Riptide](NPCs/Riptide.md) · [Chomp](NPCs/Chomp.md)
 
-**Mysteries:** [Mordenkainen](Shared/Mordenkainen.md) · [Kaza-Rul](NPCs/Kaza-Rul.md)
-
 ### Places
 
-[Leilon](Shared/Leilon.md) · [The Tempest's Temptation](The%20Tempest's%20Temptation.md) · [The Choke](The%20Choke.md) · [Sea of Swords](Sea%20of%20Swords.md) · [Mintan](Mintan.md) · [Anauroch](Anauroch.md) · [Tomb of Tzentak](Tomb%20of%20Tzentak.md) · [Holly Hollow](Holly%20Hollow.md) · [Hartsvale](Hartsvale.md) · [Phandelver](Shared/Phandelver.md) · [Ice Spires](Ice%20Spires.md) · [The White Claw](The%20White%20Claw.md)
+[Leilon](Shared/Leilon.md) · [The Tempest's Temptation](The%20Tempest's%20Temptation.md) · [The Choke](The%20Choke.md) · [Sea of Swords](Sea%20of%20Swords.md) · [Mintan](Mintan.md) · [Anauroch](Anauroch.md) · [Tomb of Tzentak](Tomb%20of%20Tzentak.md) · [Holly Hollow](Holly%20Hollow.md) · [Hartsvale](Hartsvale.md) · [Phandelver](Shared/Phandelver.md) · [Ice Spires](Ice%20Spires.md) · [The White Claw / The Krug](The%20White%20Claw.md)
 
 ### Factions & Powers
 

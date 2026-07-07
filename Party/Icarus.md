@@ -10,7 +10,7 @@ You are **Lord Icarus Valerius Corvus III**, a flamboyant noble sorcerer on a "r
 - Wild Magic sorcerer: surges have reincarnated him, turned him into a potted plant, and blasted the party with apocalyptic visions.
 - Spells seen: Minor Illusion, Hold Person, Polymorph, Fireball, high-voltage lightning.
 - Has died **twice** ([[Session 1]], [[Session 7]]) and come back both times.
-- Currently a hulking half-orc with shocking pink hair (reincarnated, [[Session 8]]); originally rode the opulent "Aurora Sovereign" car.
+- Currently a hulking half-orc with shocking pink hair (reincarnated, [[Session 8]]) — a body now revealed to belong to **Gradley**, the lost brother of [[Garvin]] ([[Session 14]]); originally rode the opulent "Aurora Sovereign" car.
 - [[Polly]] the teleporting parrot calls him "daddy."
 
 **Burdens:**
@@ -54,3 +54,8 @@ You are **Lord Icarus Valerius Corvus III**, a flamboyant noble sorcerer on a "r
 
 ### Session 13
 - Polymorphed into a Giant Snow Owl to scout a path through the whiteout — but his avian appetite got the better of him; he lost his bearings and became **stranded alone** in the wastes, separated from the party.
+
+### Session 14
+- Dive-bombed an illusionary bird high above the wastes, shattering it to reveal [[Vraxis]], an eight-foot-tall cobalt dragon soldier — and was knocked back into half-orc form. Spared certain death only because Vraxis was intrigued by [[Polly]].
+- Stubbornly insisted the lethal soldier was courting him; when Vraxis descended a second time, doubled down on the delusional romance and invited the dragon on a date (Vraxis paying). Routed by a potent fear spell, then endured an excruciatingly awkward walk in the same direction before Vraxis warned him of his hubris and chaotic nature and flew away for good.
+- Freezing and isolated, intercepted an armored [[Glimmerspark Industries|GlimmerSpark]] truck convoy and met [[Garvin]] — a half-orc searching for his brother **Gradley, whose body Icarus now inhabits**. Proved his 'identity' with theatrical deception (including eating a rotting fish) and is being **smuggled into [[Hartsvale]]** as Garvin's 'brother.'
