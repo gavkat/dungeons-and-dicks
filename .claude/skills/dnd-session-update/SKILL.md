@@ -135,7 +135,7 @@ Run `scripts/check_links.py` from the vault root. It scans the files you changed
 - **broken README markdown links** — a URL-decoded path that doesn't exist on disk;
 - **ambiguous basenames** — the same basename in two folders, which makes `[[links]]` resolve unpredictably.
 
-By default it checks only the **git-changed** files (what your session touched) — that's the signal you care about. Fix everything it flags there and re-run until clean. (A new file with a parenthetical name must be linked with that exact basename — the most common self-inflicted break.) `--all` audits the whole vault but will also surface **pre-existing** quirks unrelated to your session — e.g. the vault links `[[Prometheus]]` as an undeclared alias for `Shared/Mordenkainen.md` — so don't treat longstanding issues as yours to fix unless asked.
+By default it checks only the **git-changed** files (what your session touched) — that's the signal you care about. Fix everything it flags there and re-run until clean. (A new file with a parenthetical name must be linked with that exact basename — the most common self-inflicted break.) The checker honors Obsidian frontmatter `aliases:`, so a link like `[[Prometheus]]` resolves to the page that declares that alias (`Shared/Mordenkainen.md`) rather than reading as broken. `--all` audits the whole vault; if it flags something you didn't touch, it's pre-existing — don't fix longstanding issues unless asked.
 
 ### 5b. Every claim must trace to the source — nothing invented
 Reread your Phase 1 fact list against everything you wrote. The vault's credibility depends on this. Specifically:

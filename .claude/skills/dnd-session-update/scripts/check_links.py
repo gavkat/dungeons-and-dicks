@@ -28,6 +28,52 @@ def all_md():
     return glob.glob("**/*.md", recursive=True)
 
 
+def frontmatter_aliases(path):
+    """Obsidian resolves [[Name]] to a note's basename OR any of its YAML
+    frontmatter `aliases`. Parse those (inline `[A, B]` or block `- A` form)
+    without a yaml dependency so the checker matches Obsidian's real behavior."""
+    try:
+        with open(path) as fh:
+            text = fh.read()
+    except OSError:
+        return set()
+    if not text.startswith("---"):
+        return set()
+    end = text.find("\n---", 3)
+    if end == -1:
+        return set()
+    fm = text[3:end]
+    aliases = set()
+    lines = fm.splitlines()
+    for i, line in enumerate(lines):
+        m = re.match(r"\s*(aliases?|alias)\s*:\s*(.*)", line)
+        if not m:
+            continue
+        rest = m.group(2).strip()
+        if rest.startswith("["):  # inline list: aliases: [A, B]
+            for a in rest.strip("[]").split(","):
+                a = a.strip().strip("'\"")
+                if a:
+                    aliases.add(a)
+        elif rest:  # single scalar: aliases: A
+            aliases.add(rest.strip("'\""))
+        else:  # block list on following indented "- " lines
+            for follow in lines[i + 1:]:
+                bm = re.match(r"\s*-\s*(.+)", follow)
+                if not bm:
+                    break
+                aliases.add(bm.group(1).strip().strip("'\""))
+    return aliases
+
+
+def resolvable_names(paths):
+    names = set()
+    for p in paths:
+        names.add(os.path.splitext(os.path.basename(p))[0])
+        names |= frontmatter_aliases(p)
+    return names
+
+
 def changed_md():
     try:
         out = subprocess.run(
@@ -47,7 +93,7 @@ def changed_md():
 
 def main():
     args = sys.argv[1:]
-    note_basenames = {os.path.splitext(os.path.basename(p))[0] for p in all_md()}
+    note_basenames = resolvable_names(all_md())
 
     # Ambiguity check is always vault-wide.
     paths_by_base = {}
