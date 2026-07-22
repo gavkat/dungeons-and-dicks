@@ -44,3 +44,6 @@ You are **Jack "Blackjack" Blackwood**, an opportunist, thief, and showman — n
 ### Session 14
 - **Smooth-talked a massive winter bear** into walking away after it ambushed the party's polar bear mounts on the trek to [[Hartsvale]].
 - Like the rest of the party, suffered the [[Baba Yaga]]'s nightmare invasions — waking damage, exhaustion, and intense paranoia.
+
+### Session 15
+- **Refused entry to [[Hartsvale]]** at the main gates: the Orc guards barred him (a human) and [[Gearsley]] (a warforged), citing ancient resentment over [[Phandelver's Pact]]. The two stayed behind at an **eastern outpost** while [[Vlad]], [[Rik]], and [[Wild Fury]] entered the city.

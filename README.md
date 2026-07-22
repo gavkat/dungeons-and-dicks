@@ -48,6 +48,7 @@ The full cast, places, factions, and lore are indexed on the **[Lost Mine of Pha
 | 6 | [Devoured](Sessions/Session%206.md) | 12 | [The Midvinter Special!](Sessions/Session%2012.md) |
 | | | 13 | [Code Black, Whiteout](Sessions/Session%2013.md) |
 | | | 14 | [Exiled and Exhausted](Sessions/Session%2014.md) |
+| | | 15 | [The Krug](Sessions/Session%2015.md) |
 
 ### The Party
 
@@ -61,7 +62,7 @@ Companions: [Gearsley](NPCs/Gearsley.md) · [Dave](Shared/Dave.md) · [Polly](NP
 
 **Allies & contacts:** [Koa](NPCs/Koa.md) · [Halia](Shared/Halia.md) · [Glenn](Shared/Glenn.md) · [Vespera](NPCs/Vespera.md) · [Kaelen](NPCs/Kaelen.md) · [Marisya](NPCs/Marisya.md) · [Vlad](NPCs/Vlad.md) · [Garvin](NPCs/Garvin.md)
 
-**Hartsvale:** [Lord Kholodan Ghartovich](NPCs/Lord%20Kholodan%20Ghartovich.md) · [Princess Zaria](NPCs/Princess%20Zaria.md)
+**Hartsvale:** [Lord Kholodan Ghartovich](NPCs/Lord%20Kholodan%20Ghartovich.md) · [Princess Zaria](NPCs/Princess%20Zaria.md) · [The White Claw (Wild Fury's father)](NPCs/The%20White%20Claw%20%28Champion%29.md) · [The Krug Gladiators](NPCs/Krug%20Gladiators.md) · [Kenky](NPCs/Kenky.md) · [Reginald](NPCs/Reginald.md)
 
 **Mysteries:** [Mordenkainen](Shared/Mordenkainen.md) · [Kaza-Rul](NPCs/Kaza-Rul.md) · [Vraxis](NPCs/Vraxis.md)
 

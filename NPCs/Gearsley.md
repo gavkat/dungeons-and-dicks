@@ -3,7 +3,7 @@
 **Tags:** #character #npc #BottomFeeders #Ally
 
 ## Description
-[[Icarus]]'s impeccable butler and driver of the "Aurora Sovereign." Unflappable, surprisingly lethal, and hiding something — he *revived a dead man*.
+[[Icarus]]'s impeccable butler and driver of the "Aurora Sovereign." Unflappable, surprisingly lethal, and hiding something — he *revived a dead man*. Revealed in [[Session 15]] to be a **warforged**, when [[Hartsvale]]'s Orc guards barred him from the city.
 
 ## Role in Campaign
 Loyal retainer and de-facto fifth party member. His ability to bring [[Icarus]] back from death ([[Session 1]]) has never been explained.
@@ -24,3 +24,6 @@ Loyal retainer and de-facto fifth party member. His ability to bring [[Icarus]] 
 
 ### Session 11
 - Gunned down the Naga ([[Ouraeus]]) and fired the shot that destroyed [[Tzentak]]'s heart.
+
+### Session 15
+- **Revealed to be a warforged:** [[Hartsvale]]'s Orc guards refused him and [[Blackjack]] (a human) entry, stating that human and warforged were not welcome due to ancient resentment over [[Phandelver's Pact]]. He remained with Blackjack at an **eastern outpost** while the rest entered the city.

@@ -12,3 +12,4 @@ Company motto, seen painted on its trucks: **"One World. One Voice."** ([[Sessio
 ## Known History
 - Prototype phones reached [[Wild Fury]] (via [[Halia]]) and [[Icarus]] (via his father, restricted) in [[Session 1]]; [[Blackjack]] promptly stole the latter.
 - Runs **armored truck convoys** through the frozen wastes, bearing the company logo and motto ([[Session 14]]). One driver, [[Garvin]], is smuggling [[Icarus]] into [[Hartsvale]], believing him to be his lost brother Gradley.
+- The convoy **reached [[Hartsvale]]** in [[Session 15]]; a company **ID pass** (plus a soot mustache and jacket) let [[Icarus]] slip past the city's loading-dock guards.

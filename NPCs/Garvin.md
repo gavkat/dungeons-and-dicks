@@ -16,3 +16,6 @@ Garvin does not know his brother's body is inhabited by someone else entirely.
 - Intercepted by [[Icarus]] while driving in a GlimmerSpark convoy (company motto on the side: *"One World. One Voice."*).
 - Convinced that Icarus is his lost brother Gradley; agreed to smuggle him into [[Hartsvale]].
 - His truck crested a snowy ridge as the session ended, revealing Hartsvale's towering iron silhouette.
+
+### Session 15
+- His convoy delivered "Gradley" to [[Hartsvale]]; disguised with a soot mustache, a [[Glimmerspark Industries|GlimmerSpark]] ID pass, and a jacket, [[Icarus]] slipped past the loading-dock guards into the city.
