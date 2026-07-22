@@ -2,82 +2,59 @@
 
 **Tags:** #song #lore #Shared #Campaign2 #BonerBros
 
-> A tavern ballad of [[Wild Fury]] the Tabaxi paladin and his wyvern [[Dave]] — from a stolen egg to an empty sky. Sung best loud, and at least twice.
+> The (allegedly heroic) tavern ballad of [[Wild Fury]] the Tabaxi paladin and his long-suffering wyvern [[Dave]]. Sung loud, sung wrong, and never sober.
 
 ---
 
-### I. The Egg in the Armor
+At Wyvern Tor a ghost appeared —
+Grandpa, quite dead, and weirdly weird —
+Who gestured, vague, at some old mail:
+*"There's an egg in there. Don't screw it up. Farewell."*
 
-At [[Wyvern Tor]] where the cold winds turned,
-A grandfather's vision, a lesson unlearned —
-In dead scaled armor, one egg still warm,
-A promise was sworn through the mountain storm.
+So Fury swore a sacred vow
+To raise the thing (he'd Google how),
+And out there hatched, all teeth and drool,
+A wyvern named — of course — **Dave**. The fool.
 
-*"I'll guard you, little one, come what may."*
-And so from that shell there came **Dave**.
+Now Fury's deal is Very Deep:
+A missing dad, some trauma, weep.
+A cat who smites and won't shut up
+About his feelings. Refill his cup.
 
-> **(Chorus)**
-> Sing it for **Fury**, the ancestors' flame,
-> Tabaxi and paladin, chasing a name —
-> Sing it for **Dave**, long-suffering and brave,
-> The wyvern who carries the day.
-> Oh, **wild fury and Dave!**
+He met big Rik, and lo, they swore
+A bond so manly it caused a war
+Of names — the **Boner Bros**, no less.
+(No, we will not explain. Hard pass.)
 
-### II. The Boys of the Bottom
+Poor Dave, meanwhile, is never fine.
+He's "wrecked" at least by half past nine.
+Too wrecked to fly them off the boat,
+Too wrecked to do much but emote —
 
-Five years on the shadow still ran,
-A father unfound and a hole in the plan.
-He fled burning Leilon, the dragon, the dread —
-Panic like thunder still rang in his head.
+And *still* they made the beast a mount,
+Then acted shocked, on this account,
+When Mage Guards showed with forms to sign:
+*"That's a war crime, sir. Please form a line."*
 
-Then he found **Rik** and the [[Boner Bros]] rose,
-Two hearts and one wyvern to spite all their foes.
-Command on his tongue and a smite in his paw,
-Divine light to answer the world's every flaw.
+They fled, of course. They always flee.
+Fury yelled "LAW!" quite pointlessly,
+While Dave, exhausted, wings a-shake,
+Hauled four adults across a lake.
 
-> **(Chorus)**
-> Sing it for **Fury**, the ancestors' flame,
-> Tabaxi and paladin, chasing a name —
-> Sing it for **Dave**, long-suffering and brave,
-> The wyvern who carries the day.
-> Oh, **wild fury and Dave!**
+Then — plot! — a man made out of soot
+Stepped through the air (rude) and took the brute.
+No "excuse me," no fond goodbye,
+Just POOF, no Dave, and empty sky.
 
-### III. Wrecked Wings, Willing Heart
+He's *still* not back. The list is long:
+"Retrieve one (1) wyvern. Something's wrong."
+So Fury searched, and — twist! — behold:
+His dad's a wrestler. Ice cold.
 
-Off the [[The Tempest's Temptation|Tempest's]] deck as it sank to the deep,
-Dave hauled the whole party in one desperate leap.
-The [[Mage Guard]] came calling — *"Surrender the beast!"* —
-But Fury spat law and they flew off unleashed.
-
-Too wrecked over [[Mintan]], too battered to fly,
-Still he lifted them all through the [[Holly Hollow|Hollow's]] white sky.
-No accord and no cage and no branding could stay
-The bond between paladin **Fury and Dave**.
-
-> **(Bridge — low and slow)**
-> But the road runs north and the road runs cruel,
-> And an ash-cloaked figure plays by no rule.
-> A "Code Black" was called on the trail up to war —
-> He scouted ahead… and was seen no more.
-
-### IV. The Empty Sky
-
-[[The Ashen Figure|The Ashen One]] stepped through a fold in the air,
-And where Dave had been beating his wings — only bare.
-No answering cry, no shadow, no wave.
-**Status: missing.** They still hunt for **Dave**.
-
-Yet on to [[Hartsvale]], through the Krug and the roar,
-Fury found the White Claw — his own father, his war.
-So lift up your tankards, and here's what we crave:
-*Bring the boy home to his father — and Fury his **Dave**.*
-
-> **(Final Chorus — everyone)**
-> Sing it for **Fury**, the ancestors' flame,
-> Tabaxi and paladin, chasing a name —
-> Sing it for **Dave**, long-suffering and brave,
-> The wyvern who'll carry the day.
-> Oh, **WILD FURY AND DAVE!**
+So raise your ale, you filthy knaves,
+To divorced-dad drama and missing Daves,
+To a cat with feelings and a lizard with none —
+**The Boner Bros ride! (Well. One of them's gone.)**
 
 ---
 
