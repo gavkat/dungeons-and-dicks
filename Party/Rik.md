@@ -49,3 +49,7 @@ You are **Rik "The Bone Crusher" Magnus**, a wrestler-warrior fighting to save h
 
 ### Session 14
 - Trekked three days toward [[Hartsvale]] with [[Vlad]] as guide, suffering — like the rest of the party — the [[Baba Yaga]]'s nightly nightmare invasions: waking damage, exhaustion, and intense paranoia.
+
+### Session 15
+- Entered [[Hartsvale]] with [[Vlad]] and [[Wild Fury]] and prepared for the Krug in the prison-like training camp, meeting the [[Krug Gladiators]] (Shank, Mother, Icey, and Humphrey).
+- Fought the **Krug combat trials** — waves of tigers, a crag cat and four-armed gorillon, and a massive anti-magic snail — as the champion **"[[The White Claw (Champion)|The White Claw]]"** was revealed to be [[Wild Fury]]'s father.

@@ -7,16 +7,19 @@
 ## Active Quests
 
 - **The Prophet's ultimatum** — [[Icarus]] has one lunar cycle (from [[Session 6]]) to deliver the amulet thief to the [[Sovereign Prophet]]. The thief is [[Blackjack]]. The clock is ticking.
-- **Wild Fury's father** — last seen near the [[Ice Spires]] ([[Halia]]'s lead). The mysterious arena flyer **points toward him** and drove the trek to [[Hartsvale]] ([[Session 14]]). Possibly connected: the "missing guildmate" ([[Session 5]]) and [[Glenn]]'s impossible aging ([[Session 12]]).
-- **[[The White Claw|The Krug / The White Claw]]** — the arena "where hearts fail," where [[Wild Fury]] must face the maiden [[Princess Zaria]]'s champion (flyer, [[Session 12]]). The flyer points toward his father, and [[Vlad]] has declared Wild Fury III his champion there to get the party into [[Hartsvale]] ([[Session 14]]). What has Wild Fury signed up for?
+- **Wild Fury's father — FOUND ([[Session 15]]).** He is **"[[The White Claw (Champion)|The White Claw]]"**, the Maiden's Champion of the [[The White Claw|Krug]] — the very quarry the flyer pointed toward. But the reunion is a death match: [[Wild Fury]] must now **fight his own father** in the arena. (Earlier leads: last seen near the [[Ice Spires]] via [[Halia]]; possibly the "missing guildmate," [[Session 5]].)
+- **[[The White Claw|The Krug]] death match** — [[Wild Fury]] fought the Krug combat trials ([[Session 15]]) and now faces the Maiden's Champion, his own father. Per [[Vlad]]'s loophole, **defeating his father voids Vlad's exile** without trapping Wild Fury as the replacement Maiden's Champion under [[Lord Kholodan Ghartovich|Lord Ghartovich]]. The bout is set but **not yet fought** — can Wild Fury win, and at what cost?
+- **Free [[Icarus]]** — lured and sealed in a metal box by his Kenku childhood friend [[Kenky]] ([[Session 15]]), then delivered **unrecognized** into the Krug's training ground. The rest of the party doesn't know he's there. What does Kenky (or [[Reginald]]) want with him?
 - **Rescue [[Dave]]** — [[Wild Fury]]'s wyvern was abducted by [[The Ashen Figure]], a [[The Consortium|Consortium]] "Code Black," on the road north ([[Session 13]]). Where was he taken, and why?
 - **The five remaining [[Vox of the Dark Six|Voxes]]** — destroying [[Tzentak]] (a Vox) froze the world; five more avatars of [[The Dark Six]] now weave a net of darkness across the continent and hunt the party ([[Session 13]]).
-- **Reunite the party** — [[Icarus]] is being smuggled into [[Hartsvale]] aboard a [[Glimmerspark Industries|GlimmerSpark]] truck by [[Garvin]] ([[Session 14]]), while the rest of the party approaches as [[Vlad]]'s entourage. Both converge on the city — unaware of each other.
+- **Reunite the party** — now **split three ways** in and around [[Hartsvale]] ([[Session 15]]): [[Blackjack]] and the warforged [[Gearsley]] were barred at the gates to an **eastern outpost**; [[Icarus]] was captured by [[Kenky]] and delivered into the arena **unrecognized**; only [[Rik]] and [[Wild Fury]] stand together in the Krug.
 - **Marisya's cure** — the [[Anauroch]]/[[Tomb of Tzentak]] lead is spent and [[Tzentak]] destroyed. Was a cure found? [[Rik]]'s quest stands unresolved.
 
 ## Mysteries
 
-- **What is [[Gearsley]]?** He revived a dead man ([[Session 1]]) and has never explained it.
+- **What is [[Gearsley]]?** Revealed to be a **warforged** ([[Session 15]], when [[Hartsvale]]'s Orc guards barred him from the city) — but that still doesn't explain how he revived a dead man ([[Session 1]]).
+- **Who is [[Reginald]]?** — [[Icarus]]'s father, and (like Icarus) an **Aarakocra**. His **Kenku** followers are present in [[Hartsvale]] ([[Session 15]]). Why are they there, and what does he want?
+- **[[Kenky]]'s betrayal** — a Kenku childhood friend of [[Icarus]] who knew his true identity and trapped him in a metal box ([[Session 15]]). On his own initiative, or on someone's orders?
 - **The Tethered** — what is the Forge of Spells doing to people? Black-eyed transformations at [[Leilon]] ([[Session 1]]); see [[The Tethered]].
 - **"Pieces of six" / What is [[Polly]]?** — the whisper became a sapphire-eyed chant of *"Pieces of Six!"* ([[Session 13]]), increasingly tied to the six [[Vox of the Dark Six|Voxes]] of [[The Dark Six]]. And now [[Vraxis]] has sensed she is **no mere bird, but a mysterious fey entity** ([[Session 14]]).
 - **The [[Baba Yaga]]** — what is the dream-entity haunting the north's nights, dealing waking damage, exhaustion, and paranoia — and driving victims to self-mutilation ([[Session 14]])?

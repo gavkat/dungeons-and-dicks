@@ -23,3 +23,7 @@ Despite the accidental cannibalism talk, the party persuaded him to **declare [[
 - Violently vomited when [[Wild Fury]] mercy-killed the party's mauled polar bear and fashioned its fur into a hooded jacket.
 - Dropped a horrifying double-revelation: he is the **exiled brother of Hartsvale's ruler**, and his "stealing vegetables" actually meant **eating disabled children**.
 - Was persuaded to declare [[Wild Fury]] III his champion at [[The White Claw|The Krug]] so the party could enter Hartsvale.
+
+### Session 15
+- Entered [[Hartsvale]] with [[Rik]] and [[Wild Fury]] and led them to the Krug training camp.
+- Explained the **legal loophole** driving the plan: if [[Wild Fury]] fights and defeats his father as Vlad's **sworn champion** in the Krug, victory **voids Vlad's exile** — without forcing Wild Fury to remain trapped under [[Lord Kholodan Ghartovich|Lord Ghartovich]] as the replacement "Maiden's Champion."

@@ -11,6 +11,7 @@ You are **Lord Icarus Valerius Corvus III**, a flamboyant noble sorcerer on a "r
 - Spells seen: Minor Illusion, Hold Person, Polymorph, Fireball, high-voltage lightning.
 - Has died **twice** ([[Session 1]], [[Session 7]]) and come back both times.
 - Currently a hulking half-orc with shocking pink hair (reincarnated, [[Session 8]]) — a body now revealed to belong to **Gradley**, the lost brother of [[Garvin]] ([[Session 14]]); originally rode the opulent "Aurora Sovereign" car.
+- His **true form is an Aarakocra** ([[Session 15]]); his father is **[[Reginald]]**, whose **Kenku** followers appear in [[Hartsvale]].
 - [[Polly]] the teleporting parrot calls him "daddy."
 
 **Burdens:**
@@ -59,3 +60,9 @@ You are **Lord Icarus Valerius Corvus III**, a flamboyant noble sorcerer on a "r
 - Dive-bombed an illusionary bird high above the wastes, shattering it to reveal [[Vraxis]], an eight-foot-tall cobalt dragon soldier — and was knocked back into half-orc form. Spared certain death only because Vraxis was intrigued by [[Polly]].
 - Stubbornly insisted the lethal soldier was courting him; when Vraxis descended a second time, doubled down on the delusional romance and invited the dragon on a date (Vraxis paying). Routed by a potent fear spell, then endured an excruciatingly awkward walk in the same direction before Vraxis warned him of his hubris and chaotic nature and flew away for good.
 - Freezing and isolated, intercepted an armored [[Glimmerspark Industries|GlimmerSpark]] truck convoy and met [[Garvin]] — a half-orc searching for his brother **Gradley, whose body Icarus now inhabits**. Proved his 'identity' with theatrical deception (including eating a rotting fish) and is being **smuggled into [[Hartsvale]]** as Garvin's 'brother.'
+
+### Session 15
+- Disguised with a soot mustache, a [[Glimmerspark Industries]] ID pass, and a jacket, slipped past the loading-dock guards into [[Hartsvale]] and navigated the city's filthy underbelly.
+- Spotted **Kenku guards** near a mammoth-led royal procession and, assuming they served his father **[[Reginald]]**, made telepathic contact — persuading one that he was a friend of Reginald's son, despite wearing his half-orc body and not his **Aarakocra** form.
+- At the west wall that night, the Kenku revealed himself as childhood friend **[[Kenky]]**, who knew Icarus's true identity. **Lured by a mimicry of his father's voice, Icarus was tricked and sealed inside a metal box**, then delivered — unrecognized — into the Krug's training ground.
+- During the third wave of the trials, a wild-magic surge turned him into a **potted plant**; from that form he cast **banishment**, permanently removing the arena's anti-magic elemental snail.

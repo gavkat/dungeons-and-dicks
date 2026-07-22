@@ -26,3 +26,9 @@ From [[Vlad]]'s campfire telling ([[Session 14]]) — Vlad himself is an exile o
 - [[Vlad]] shared the city's lore and guided the party on a three-day trek toward it, harried nightly by the [[Baba Yaga]].
 - The party secured entry by having [[Vlad]] declare [[Wild Fury]] III his champion at [[The White Claw|The Krug]], bypassing the gruesome border outpost along the way.
 - Separately, [[Icarus]] is being smuggled in aboard a [[Glimmerspark Industries|GlimmerSpark]] truck by [[Garvin]]. The session ended with Hartsvale's iron silhouette in sight.
+
+### Session 15
+- The party reached the city, revealed up close as **industrial and soot-belching**, with **loading docks**, a **filthy underbelly**, an **opulent castle** where [[Lord Kholodan Ghartovich|Lord Kholodan]] and [[Princess Zaria|Princess Zarya]] welcome guests amid mammoth-led royal processions, and the **Krug** arena and its prison-like training camp.
+- At the **main gates**, Orc guards refused [[Blackjack]] (human) and [[Gearsley]] (warforged), citing **ancient resentment over [[Phandelver's Pact]]**; the two stayed at an eastern outpost. [[Vlad]], [[Rik]], and [[Wild Fury]] entered, while a disguised [[Icarus]] slipped past the loading-dock guards.
+- **Kenku** — assumed by [[Icarus]] to serve his father [[Reginald]] — operate in the city; one, [[Kenky]], trapped Icarus.
+- The **Krug combat trials** were held; the Maiden's Champion, **"[[The White Claw (Champion)|The White Claw]]"**, was revealed to be [[Wild Fury]]'s father.
