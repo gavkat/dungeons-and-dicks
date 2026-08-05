@@ -11,17 +11,60 @@
             "id": "bb7d106d649a4cd5",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "Glimmerspark Industries.md",
-                "bFile": "Glimmerspark Industries.md",
-                "aRef": ""
+                "file": "Echoes of Phandelver.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: Glimmerspark Industries  (Working Tree)"
+              "icon": "lucide-file",
+              "title": "Echoes of Phandelver"
+            }
+          },
+          {
+            "id": "c45925fc172e6004",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Campaign 1/Sessions/Epilogue.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Epilogue"
+            }
+          },
+          {
+            "id": "5bd9af4badf92020",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Campaign 1/Sessions/Prequel - The Wild Sheep's Chase.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Prequel - The Wild Sheep's Chase"
+            }
+          },
+          {
+            "id": "6d8e318a262973ff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Campaign 1/Wyvern Tor.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Wyvern Tor"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -53,7 +96,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "lightning",
+                "query": "dew",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -193,8 +236,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3243d00bd1294571",
+  "active": "5bd9af4badf92020",
   "lastOpenFiles": [
+    "Campaign 1/Party/Dew-Dew Bun.md",
+    "Campaign 1/Beshaba.md",
+    "Shared/Lionshield Coster.md",
+    "Campaign 1/Sessions/Epilogue.md",
+    "Campaign 1/Wyvern Tor.md",
+    "NPCs/The Traveler.md",
+    "Echoes of Phandelver.md",
     "Sessions/Session 15.md",
     "NPCs/The White Claw (Champion).md",
     "NPCs/Reginald.md",
@@ -215,13 +265,6 @@
     "NPCs/Garvin.md",
     "NPCs/The Ashen Figure.md",
     "Vox of the Dark Six.md",
-    "The Consortium.md",
-    "Shared/Wolfpack.md",
-    "Shared/Wild Fury.md",
-    "Shared/The Dark Six.md",
-    "Shared/Phandelver.md",
-    "Shared/Mordenkainen.md",
-    "Shared/Lionshield Coster.md",
     "Shared",
     "Campaign 1/Sessions",
     "Campaign 1/Party",
