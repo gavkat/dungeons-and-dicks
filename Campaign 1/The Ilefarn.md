@@ -7,6 +7,8 @@
 ## Overview
 An ancient nation of **High Elves**, whose name surfaced again and again as a password, a vision and a curse throughout the campaign. The Ilefarn were a proud, cruel people — their lively city of laughing children concealed a contempt for "lesser" folk, refusing aid to a family of harengon and seizing their child "for the Six".
 
+> **Revised in Campaign 2 ([[Session 16]]):** there were originally **seven** leaders. [[Tymora]] and [[Beshaba]] were two of them, and a tumultuous falling-out between the sisters ended in **Tymora's voluntary departure** from Ilefarn — leaving the six who performed the rite below.
+
 The nation's six leaders, **"the Six"**, sought godhood through a forbidden rite: the **"tri animalus arcanum"**, sacrificing an *"unknowing"* harengon, an *"unproven"* grung and an *"unguided"* aarakocra while chanting *"Nisciens, non probatus, non ductus."* The ritual succeeded — and damned them. The Six became [[The Dark Six]], six dark gods, while the rest of the Ilefarn nation were cursed into **Nothics**. From this same moment was born the **Elven Oracle prophecy**.
 
 ## The Prophecy

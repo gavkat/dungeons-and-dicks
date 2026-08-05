@@ -5,7 +5,9 @@
 ---
 
 ## Overview
-**Lady Luck** — an Elf-turned-God and the benevolent half of an ancient sisterly rivalry. Her sister is [[Beshaba]], Lady Mischief. Tymora is worshipped in [[Phandalin]] at the Shrine of Luck and in [[Leilon]] at the Temple of Tymora and the **Fountain of Fortune**, whose holy waters (drawn from the runoff of [[Wyvern Tor]]) hold greater restorative power.
+**Lady Luck** — an Elf-turned-God and the benevolent half of an ancient sisterly rivalry. Her sister is [[Beshaba]], Lady Mischief.
+
+**Where the rivalry began (revealed in Campaign 2, [[Session 16]]):** Tymora and Beshaba were **two of the seven leaders of [[The Ilefarn|Ilefarn]]**. Their relationship turned tumultuous and Tymora **left Ilefarn voluntarily** — which is why she alone escaped what came next: the remaining six performed the *tri animalus arcanum* and became **[[The Dark Six]]**. An **[[Elven Lute|ancient elven lute]]** she gave her sister later surfaced as the source of the fairy bard [[Dew Dew Bun]]'s powers. Tymora is worshipped in [[Phandalin]] at the Shrine of Luck and in [[Leilon]] at the Temple of Tymora and the **Fountain of Fortune**, whose holy waters (drawn from the runoff of [[Wyvern Tor]]) hold greater restorative power.
 
 Her faithful served the [[Wolfpack]] well: [[Sister Garaele]], her cleric in Phandalin, set the party on the spellbook quest, and later — after her seeming death — rose as the **Vox Spiritus of Tymora**, a radiant warrior in the goddess's visage, to battle her sister's avatar in the skies over Wyvern Tor.
 

@@ -14,3 +14,7 @@ A covert guild that quietly works to ensure Faerûn's political order. Outwardly
 
 ## In Campaign 2 — Echoes of Phandelver
 Five years on, the guild persists. [[Glenn]] serves as its Head of HR, and [[Wild Fury]]'s hunt for his missing father — framed at one point as a search for a "missing guildmate" ([[Session 5]]) — is bound up with whatever has befallen the Coster. [[Halia]] still moves within its orbit, dispensing leads and prototype [[Glimmerspark Industries]] technology.
+
+**What the Coster's last leader was doing ([[Session 16]]).** **Wild Fury II** — [[The White Claw (Champion)|"The White Claw"]] — did not simply vanish. **As head of the Lionshield Coster** he opened an investigation into the disappearance of the celebrity fairy bard [[Dew Dew Bun]] six years ago. That inquiry traced her powers to an **[[Elven Lute|ancient elven lute]]** — [[Tymora]]'s gift to [[Beshaba]] — and through the sisters to the **seven leaders of [[The Ilefarn|Ilefarn]]** and the six who became **[[The Dark Six]]**. Tracking the Six brought him to [[Hartsvale]] five years ago, where a supernatural rage seized him and he never left.
+
+Which reframes the guild's whole Campaign 2 posture: *the Lionshield Coster was hunting the Dark Six long before the party knew they were coming* — and it cost the guild its leader, forcing the inheritance onto his son.

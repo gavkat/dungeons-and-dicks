@@ -53,3 +53,10 @@ You are **Rik "The Bone Crusher" Magnus**, a wrestler-warrior fighting to save h
 ### Session 15
 - Entered [[Hartsvale]] with [[Vlad]] and [[Wild Fury]] and prepared for the Krug in the prison-like training camp, meeting the [[Krug Gladiators]] (Shank, Mother, Icey, and Humphrey).
 - Fought the **Krug combat trials** — waves of tigers, a crag cat and four-armed gorillon, and a massive anti-magic snail — as the champion **"[[The White Claw (Champion)|The White Claw]]"** was revealed to be [[Wild Fury]]'s father.
+
+### Session 16
+- Pushed to the brink in the arena, executed a **furious counteroffensive** that left the Maiden's Champion **battered and staggering on the edge of death** — the closest anyone came to beating [[The White Claw (Champion)|Wild Fury II]].
+- His next strike would have been **fatal**, which is precisely why **[[Wild Fury|Wild Fury III]] leapt into it** and took the blow himself to shield his father.
+- **Struck down** by [[The White Claw (Champion)|White Claw]], who turned his rage on Rik the instant the sacrifice failed to break the spell.
+- Survived only because **[[Princess Zaria|Princess Zarya]] secretly saved the party from impending death**; woke in an infirmary after a shared [[Baba Yaga]] nightmare.
+- Heard [[Lord Kholodan Ghartovich|Lord Kholodan]]'s bargain in the throne room, then trekked three days toward the [[Spine of the World]] to capture **[[The Devil in the Ice]]** alive.

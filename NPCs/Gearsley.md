@@ -27,3 +27,7 @@ Loyal retainer and de-facto fifth party member. His ability to bring [[Icarus]] 
 
 ### Session 15
 - **Revealed to be a warforged:** [[Hartsvale]]'s Orc guards refused him and [[Blackjack]] (a human) entry, stating that human and warforged were not welcome due to ancient resentment over [[Phandelver's Pact]]. He remained with Blackjack at an **eastern outpost** while the rest entered the city.
+
+### Session 16
+- Revealed to have been **captured by [[Lord Kholodan Ghartovich|Lord Kholodan]]**, together with [[Blackjack]].
+- The party **persuaded Kholodan to release him** to join their expedition into the [[Spine of the World]] — reuniting him with [[Icarus]] — while [[Blackjack]] and [[Vlad]] were kept behind as collateral.
