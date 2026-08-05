@@ -47,3 +47,7 @@ You are **Jack "Blackjack" Blackwood**, an opportunist, thief, and showman — n
 
 ### Session 15
 - **Refused entry to [[Hartsvale]]** at the main gates: the Orc guards barred him (a human) and [[Gearsley]] (a warforged), citing ancient resentment over [[Phandelver's Pact]]. The two stayed behind at an **eastern outpost** while [[Vlad]], [[Rik]], and [[Wild Fury]] entered the city.
+
+### Session 16
+- Revealed in the throne room to have been **captured by [[Lord Kholodan Ghartovich|Lord Kholodan]]**, along with [[Gearsley]] — the pair having last been seen stranded at the eastern outpost.
+- Kholodan was persuaded to release **[[Gearsley]]** to join the expedition, but **kept Blackjack behind as collateral** alongside the chained [[Vlad]] — leaving the Shepherd of [[The Great Devourer]] a hostage in a frost giant's castle while the rest of the party marches on [[The Devil in the Ice]].
