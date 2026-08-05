@@ -27,3 +27,8 @@ Despite the accidental cannibalism talk, the party persuaded him to **declare [[
 ### Session 15
 - Entered [[Hartsvale]] with [[Rik]] and [[Wild Fury]] and led them to the Krug training camp.
 - Explained the **legal loophole** driving the plan: if [[Wild Fury]] fights and defeats his father as Vlad's **sworn champion** in the Krug, victory **voids Vlad's exile** — without forcing Wild Fury to remain trapped under [[Lord Kholodan Ghartovich|Lord Ghartovich]] as the replacement "Maiden's Champion."
+
+### Session 16
+- Found in the throne room **muzzled and chained**, flanking his brother [[Lord Kholodan Ghartovich|Lord Kholodan]] alongside the gnoll honor guards — the loophole having failed with [[Wild Fury]]'s defeat.
+- His **execution** is now on the table: **voiding it** is one of the three terms of Kholodan's bargain, alongside the party's freedom and **Wild Fury II**'s liberation.
+- **Kept behind as collateral** with [[Blackjack]] while the rest of the party marched for the [[Spine of the World]] and **[[The Devil in the Ice]]**.

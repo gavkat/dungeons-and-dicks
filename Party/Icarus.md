@@ -66,3 +66,8 @@ You are **Lord Icarus Valerius Corvus III**, a flamboyant noble sorcerer on a "r
 - Spotted **Kenku guards** near a mammoth-led royal procession and, assuming they served his father **[[Reginald]]**, made telepathic contact — persuading one that he was a friend of Reginald's son, despite wearing his half-orc body and not his **Aarakocra** form.
 - At the west wall that night, the Kenku revealed himself as childhood friend **[[Kenky]]**, who knew Icarus's true identity. **Lured by a mimicry of his father's voice, Icarus was tricked and sealed inside a metal box**, then delivered — unrecognized — into the Krug's training ground.
 - During the third wave of the trials, a wild-magic surge turned him into a **potted plant**; from that form he cast **banishment**, permanently removing the arena's anti-magic elemental snail.
+
+### Session 16
+- Transformed into a **Giant Ape** to wrestle with and jump on the berserking **[[The White Claw (Champion)|White Claw]]**, then unleashed a **devastating burst of magical energy** — before a brutal retaliatory blow knocked him **unconscious**.
+- Saved from death, with the rest of the party, by **[[Princess Zaria|Princess Zarya]]**; woke in an infirmary after a shared [[Baba Yaga]] nightmare.
+- Bound by [[Lord Kholodan Ghartovich|Lord Kholodan]]'s bargain into the hunt for **[[The Devil in the Ice]]** in the [[Spine of the World]] — reunited on the trek with his butler [[Gearsley]], whom Kholodan had been holding captive.

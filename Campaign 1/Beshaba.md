@@ -5,7 +5,9 @@
 ---
 
 ## Overview
-**Lady Mischief** — an Elf-turned-God, the malevolent sister of [[Tymora]] (Lady Luck) and a member of [[The Dark Six]]. Where her sister grants fortune, Beshaba deals in cursed bargains: it was she who granted [[Lightning Steel]] eternal youth, twisting his fate from prince to vampire.
+**Lady Mischief** — an Elf-turned-God, the malevolent sister of [[Tymora]] (Lady Luck) and a member of [[The Dark Six]], where **"The Mischief"** is her title in the roster named in Campaign 2 ([[Session 16]]).
+
+**Origin (revealed in Campaign 2, [[Session 16]]):** she and [[Tymora]] were **two of the seven leaders of [[The Ilefarn|Ilefarn]]**. Their falling-out drove Tymora to leave; Beshaba stayed, and the six who remained seized godhood. An **[[Elven Lute|ancient elven lute]]** that [[Tymora]] gave her later turned up as the source of the fairy bard [[Dew Dew Bun]]'s powers. Where her sister grants fortune, Beshaba deals in cursed bargains: it was she who granted [[Lightning Steel]] eternal youth, twisting his fate from prince to vampire.
 
 Her hand shaped much of the campaign from the shadows. Her **Vox Spiritus** — her material avatar — masqueraded as a benevolent celestial of Tymora, reanimating [[Prometheus]] and steering the party toward [[Spellbook of Mordenkainen|Mordenkainen's spellbook]], all to claim it for herself. The whispered name *"Beshaba"* recurs as a key: [[Szass Tam]] murmured it to Prometheus, and Prometheus uttered it himself to complete the Forge ritual.
 

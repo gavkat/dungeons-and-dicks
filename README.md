@@ -49,6 +49,7 @@ The full cast, places, factions, and lore are indexed on the **[Lost Mine of Pha
 | | | 13 | [Code Black, Whiteout](Sessions/Session%2013.md) |
 | | | 14 | [Exiled and Exhausted](Sessions/Session%2014.md) |
 | | | 15 | [The Krug](Sessions/Session%2015.md) |
+| | | 16 | [Maiden's Champion](Sessions/Session%2016.md) |
 
 ### The Party
 
@@ -58,19 +59,19 @@ Companions: [Gearsley](NPCs/Gearsley.md) · [Dave](Shared/Dave.md) · [Polly](NP
 
 ### NPCs
 
-**Antagonists:** [The Sovereign Prophet](NPCs/Sovereign%20Prophet.md) · [Sha'Argan](NPCs/Sha'Argan.md) · [The Ashen Figure](NPCs/The%20Ashen%20Figure.md) · [Baba Yaga](NPCs/Baba%20Yaga.md) · [The Traveler](NPCs/The%20Traveler.md) · [Skum](NPCs/Skum.md) · [Tlincalli](NPCs/Tlincalli.md) · [Ouraeus](NPCs/Ouraeus.md) · [Tzentak](NPCs/Tzentak.md) · [Agatha the Hag](Shared/Agatha%20the%20Hag.md)
+**Antagonists:** [The Sovereign Prophet](NPCs/Sovereign%20Prophet.md) · [Sha'Argan](NPCs/Sha'Argan.md) · [The Ashen Figure](NPCs/The%20Ashen%20Figure.md) · [Baba Yaga](NPCs/Baba%20Yaga.md) · [The Traveler](NPCs/The%20Traveler.md) · [The Devil in the Ice](NPCs/The%20Devil%20in%20the%20Ice.md) · [Skum](NPCs/Skum.md) · [Tlincalli](NPCs/Tlincalli.md) · [Ouraeus](NPCs/Ouraeus.md) · [Tzentak](NPCs/Tzentak.md) · [Agatha the Hag](Shared/Agatha%20the%20Hag.md)
 
 **Allies & contacts:** [Koa](NPCs/Koa.md) · [Halia](Shared/Halia.md) · [Glenn](Shared/Glenn.md) · [Vespera](NPCs/Vespera.md) · [Kaelen](NPCs/Kaelen.md) · [Marisya](NPCs/Marisya.md) · [Vlad](NPCs/Vlad.md) · [Garvin](NPCs/Garvin.md)
 
-**Hartsvale:** [Lord Kholodan Ghartovich](NPCs/Lord%20Kholodan%20Ghartovich.md) · [Princess Zaria](NPCs/Princess%20Zaria.md) · [The White Claw (Wild Fury's father)](NPCs/The%20White%20Claw%20%28Champion%29.md) · [The Krug Gladiators](NPCs/Krug%20Gladiators.md) · [Kenky](NPCs/Kenky.md) · [Reginald](NPCs/Reginald.md)
+**Hartsvale:** [Lord Kholodan Ghartovich](NPCs/Lord%20Kholodan%20Ghartovich.md) · [Princess Zaria](NPCs/Princess%20Zaria.md) · [The White Claw / Wild Fury II (Wild Fury's father)](NPCs/The%20White%20Claw%20%28Champion%29.md) · [The Krug Gladiators](NPCs/Krug%20Gladiators.md) · [Kenky](NPCs/Kenky.md) · [Reginald](NPCs/Reginald.md)
 
-**Mysteries:** [Mordenkainen](Shared/Mordenkainen.md) · [Kaza-Rul](NPCs/Kaza-Rul.md) · [Vraxis](NPCs/Vraxis.md)
+**Mysteries:** [Mordenkainen](Shared/Mordenkainen.md) · [Kaza-Rul](NPCs/Kaza-Rul.md) · [Vraxis](NPCs/Vraxis.md) · [Dew Dew Bun](NPCs/Dew%20Dew%20Bun.md)
 
 **The Bottom Feeders crew:** [Captain Siren Shellsword](NPCs/Captain%20Siren%20Shellsword.md) · [Krell](NPCs/Krell.md) · [Sauriv](NPCs/Sauriv.md) · [Riptide](NPCs/Riptide.md) · [Chomp](NPCs/Chomp.md)
 
 ### Places
 
-[Leilon](Shared/Leilon.md) · [The Tempest's Temptation](The%20Tempest's%20Temptation.md) · [The Choke](The%20Choke.md) · [Sea of Swords](Sea%20of%20Swords.md) · [Mintan](Mintan.md) · [Anauroch](Anauroch.md) · [Tomb of Tzentak](Tomb%20of%20Tzentak.md) · [Holly Hollow](Holly%20Hollow.md) · [Hartsvale](Hartsvale.md) · [Phandelver](Shared/Phandelver.md) · [Ice Spires](Ice%20Spires.md) · [The White Claw / The Krug](The%20White%20Claw.md)
+[Leilon](Shared/Leilon.md) · [The Tempest's Temptation](The%20Tempest's%20Temptation.md) · [The Choke](The%20Choke.md) · [Sea of Swords](Sea%20of%20Swords.md) · [Mintan](Mintan.md) · [Anauroch](Anauroch.md) · [Tomb of Tzentak](Tomb%20of%20Tzentak.md) · [Holly Hollow](Holly%20Hollow.md) · [Hartsvale](Hartsvale.md) · [Phandelver](Shared/Phandelver.md) · [Ice Spires](Ice%20Spires.md) · [Spine of the World](Spine%20of%20the%20World.md) · [The White Claw / The Krug](The%20White%20Claw.md)
 
 ### Factions & Powers
 
@@ -78,7 +79,7 @@ Companions: [Gearsley](NPCs/Gearsley.md) · [Dave](Shared/Dave.md) · [Polly](NP
 
 ### Lore & Items
 
-[The Tethered](The%20Tethered.md) · [Vox of the Dark Six](Vox%20of%20the%20Dark%20Six.md) · [Draconic Containment Accord](Draconic%20Containment%20Accord.md) · [Shard of the Great Devourer](Shard%20of%20the%20Great%20Devourer.md) · [Sending Phone](Sending%20Phone.md) · [Flame Tongue Whip](Flame%20Tongue%20Whip.md) · [Ring of the Rotten](Ring%20of%20the%20Rotten.md) · [Wand of Secrets](Wand%20of%20Secrets.md) · [Immovable Rod](Immovable%20Rod.md) · [Mysterious Book](Mysterious%20Book.md)
+[The Tethered](The%20Tethered.md) · [Vox of the Dark Six](Vox%20of%20the%20Dark%20Six.md) · [Draconic Containment Accord](Draconic%20Containment%20Accord.md) · [Shard of the Great Devourer](Shard%20of%20the%20Great%20Devourer.md) · [Sending Phone](Sending%20Phone.md) · [Flame Tongue Whip](Flame%20Tongue%20Whip.md) · [Ring of the Rotten](Ring%20of%20the%20Rotten.md) · [Wand of Secrets](Wand%20of%20Secrets.md) · [Immovable Rod](Immovable%20Rod.md) · [Mysterious Book](Mysterious%20Book.md) · [Elven Lute](Elven%20Lute.md) · [Arcane Dampener Collar](Arcane%20Dampener%20Collar.md)
 
 ---
 
