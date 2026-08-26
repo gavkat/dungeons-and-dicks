@@ -38,3 +38,6 @@ From [[Vlad]]'s campfire telling ([[Session 14]]) — Vlad himself is an exile o
 - The **grand throne room** was seen for the first time — [[Lord Kholodan Ghartovich|Lord Kholodan]] on a **rune-carved ice throne**, **gnoll honor guards** at his flanks, the **muzzled and chained** [[Vlad]] beside him, a hearth bearing a **stag-and-gear emblem** behind.
 - [[Lord Kholodan Ghartovich|Kholodan]] had **captured [[Gearsley]] and [[Blackjack]]** outside the walls, and had **manipulated Wild Fury II into fighting his own son** — an accusation Wild Fury II made to his face.
 - The city's **nightmares** got a second suspect: Kholodan blamed not the [[Baba Yaga]] but **"[[The Devil in the Ice]]"**, and sent the party into the [[Spine of the World]] to cage it, keeping [[Blackjack]] and [[Vlad]] as collateral.
+
+### Session 17
+- Seen from the far side of the journey: a **distant speck** below the party as they stood on the precipice of the [[Spine of the World]] ([[Session 17]]), with [[Blackjack]] and [[Vlad]] still held inside it.

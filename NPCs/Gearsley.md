@@ -31,3 +31,7 @@ Loyal retainer and de-facto fifth party member. His ability to bring [[Icarus]] 
 ### Session 16
 - Revealed to have been **captured by [[Lord Kholodan Ghartovich|Lord Kholodan]]**, together with [[Blackjack]].
 - The party **persuaded Kholodan to release him** to join their expedition into the [[Spine of the World]] — reuniting him with [[Icarus]] — while [[Blackjack]] and [[Vlad]] were kept behind as collateral.
+
+### Session 17
+- **Ensnared by the [[Dragon-Skull Cave]]'s gold illusion** alongside **both Wild Furys** — visions of boundless wealth walked all three straight into a pool of **suffocating, acidic sludge**, and the rest of the party had to snap them out and haul them free before they dissolved.
+- Stood **alert watch** over the party's extended rest at the old campsite in the right corridor — and still **never saw the thief**: one of his **guns was stolen** in the night, along with the party's gold, all their rations, and [[Rik]]'s [[Flame Tongue Whip]].

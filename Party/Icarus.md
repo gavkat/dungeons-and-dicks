@@ -13,6 +13,7 @@ You are **Lord Icarus Valerius Corvus III**, a flamboyant noble sorcerer on a "r
 - Currently a hulking half-orc with shocking pink hair (reincarnated, [[Session 8]]) — a body now revealed to belong to **Gradley**, the lost brother of [[Garvin]] ([[Session 14]]); originally rode the opulent "Aurora Sovereign" car.
 - His **true form is an Aarakocra** ([[Session 15]]); his father is **[[Reginald]]**, whose **Kenku** followers appear in [[Hartsvale]].
 - [[Polly]] the teleporting parrot calls him "daddy."
+- **The Feywild knows his name:** the flumph [[Phlumphi]] says the fae realm celebrates him as an **immortal god** ([[Session 17]]) — the same title he claimed for himself in the void before his rebirth ([[Session 8]]).
 
 **Burdens:**
 - The [[Sovereign Prophet]]'s ultimatum ([[Session 6]]): one lunar cycle to deliver the amulet thief — unknowingly his own friend [[Blackjack]] — or his debt stands.
@@ -71,3 +72,8 @@ You are **Lord Icarus Valerius Corvus III**, a flamboyant noble sorcerer on a "r
 - Transformed into a **Giant Ape** to wrestle with and jump on the berserking **[[The White Claw (Champion)|White Claw]]**, then unleashed a **devastating burst of magical energy** — before a brutal retaliatory blow knocked him **unconscious**.
 - Saved from death, with the rest of the party, by **[[Princess Zaria|Princess Zarya]]**; woke in an infirmary after a shared [[Baba Yaga]] nightmare.
 - Bound by [[Lord Kholodan Ghartovich|Lord Kholodan]]'s bargain into the hunt for **[[The Devil in the Ice]]** in the [[Spine of the World]] — reunited on the trek with his butler [[Gearsley]], whom Kholodan had been holding captive.
+
+### Session 17
+- **Banished the colossal ice titan to another plane of existence** mid-ambush on the slopes of the [[Spine of the World]], after [[Wild Fury|Wild Fury III]] struck it with a crackling lightning javelin.
+- His **chaotic magic accidentally manifested [[Phlumphi]]**, a friendly floating **flumph from the Feywild**, on the mountain crest. The creature announced that **the legendary Icarus is celebrated across the fae realm as an immortal god**, spotted **[[Polly]]** on his shoulder, noted that **the two had successfully found each other**, said the news **had to be reported back**, and faded out of existence.
+- Was **not** taken in by the [[Dragon-Skull Cave]]'s gold illusion, and helped haul [[Gearsley]] and both Wild Furys out of the acid pool.

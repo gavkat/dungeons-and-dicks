@@ -10,6 +10,8 @@ First a heist target, then a mystery: her whispers haunted [[Mintan]] before the
 
 The mystery deepened in [[Session 14]]: the cobalt dragon soldier [[Vraxis]] spared [[Icarus]]'s life solely out of intrigue at Polly — **sensing the creature was no mere bird, but a mysterious fey entity**.
 
+[[Session 17]] all but confirms it: the Feywild flumph **[[Phlumphi]]** recognized Polly on [[Icarus]]'s shoulder, said **the two had successfully found each other**, and vanished to **report it back** — to whom, it did not say.
+
 ## Session History
 
 ### Session 2
@@ -26,3 +28,6 @@ The mystery deepened in [[Session 14]]: the cobalt dragon soldier [[Vraxis]] spa
 
 ### Session 14
 - Defended [[Icarus]] against [[Vraxis]] — and became the reason the dragon soldier spared his life. Vraxis sensed Polly was **no mere bird, but a mysterious fey entity**.
+
+### Session 17
+- Perched on [[Icarus]]'s shoulder when the Feywild flumph **[[Phlumphi]]** was accidentally manifested on the mountain crest. Phlumphi **recognized her on sight**, observed that **"the two had successfully found each other"**, and announced the news **had to be reported back** before fading away — the clearest sign yet that Polly's meeting with Icarus was **expected, and being watched for**, by something in the fae realm.
