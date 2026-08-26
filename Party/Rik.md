@@ -10,7 +10,8 @@ You are **Rik "The Bone Crusher" Magnus**, a wrestler-warrior fighting to save h
 - Named for the wrestling hero "Bonecrusher" that [[Wild Fury]] and his father idolized.
 - One half of the [[Boner Bros]] with [[Wild Fury]].
 - Pit-fighting Champion of the [[Itju-Sha]] arena ([[Session 7]]–[[Session 8]]).
-- Wields the [[Flame Tongue Whip]] taken from the [[Tomb of Tzentak]].
+- Wielded the [[Flame Tongue Whip]] taken from the [[Tomb of Tzentak]] — until an unseen thief lifted it from his holster while he slept ([[Session 17]]).
+- Wears the **[[Wyrmreaver Gauntlets]]**, whose palm runes match an ancient dragon rune deep in the [[Dragon-Skull Cave]] ([[Session 17]]).
 
 **Personal Quest:**
 - Cure [[Marisya]]. The lead — from [[Riptide]] — pointed to the desert of [[Anauroch]] and the [[Tomb of Tzentak]].
@@ -60,3 +61,9 @@ You are **Rik "The Bone Crusher" Magnus**, a wrestler-warrior fighting to save h
 - **Struck down** by [[The White Claw (Champion)|White Claw]], who turned his rage on Rik the instant the sacrifice failed to break the spell.
 - Survived only because **[[Princess Zaria|Princess Zarya]] secretly saved the party from impending death**; woke in an infirmary after a shared [[Baba Yaga]] nightmare.
 - Heard [[Lord Kholodan Ghartovich|Lord Kholodan]]'s bargain in the throne room, then trekked three days toward the [[Spine of the World]] to capture **[[The Devil in the Ice]]** alive.
+
+### Session 17
+- **Piped the party into the [[Dragon-Skull Cave]]** on his bagpipes as they stepped through the dragon skull's jaws.
+- **Cracked the mural.** After numerous failed attempts and strained recollections, recognized that the **ancient dragon rune** at the center of the **five-headed dragon matriarch** carving was an **exact match to the runes embossed into the palm of his [[Wyrmreaver Gauntlets]]**.
+- Helped snap [[Gearsley]] and both Wild Furys out of the gold illusion and haul them clear of the acid pool.
+- **Robbed in his sleep:** the **unseen thief** that raided the camp took his prized **[[Flame Tongue Whip]] straight from his holster**.
