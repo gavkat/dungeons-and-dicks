@@ -11,7 +11,7 @@ You are **Rik "The Bone Crusher" Magnus**, a wrestler-warrior fighting to save h
 - One half of the [[Boner Bros]] with [[Wild Fury]].
 - Pit-fighting Champion of the [[Itju-Sha]] arena ([[Session 7]]–[[Session 8]]).
 - Wielded the [[Flame Tongue Whip]] taken from the [[Tomb of Tzentak]] — until an unseen thief lifted it from his holster while he slept ([[Session 17]]).
-- Wears the **[[Wyrmreaver Gauntlets]]**, whose palm runes match an ancient dragon rune deep in the [[Dragon-Skull Cave]] ([[Session 17]]).
+- Wears the **[[Wyrmreaver Gauntlets]]**, whose palm runes match an ancient dragon rune deep in the [[Dragon-Skull Cave]] ([[Session 17]]) — and **unsealed a hidden stairway** when he pressed them to the mural ([[Session 18]]).
 
 **Personal Quest:**
 - Cure [[Marisya]]. The lead — from [[Riptide]] — pointed to the desert of [[Anauroch]] and the [[Tomb of Tzentak]].
@@ -67,3 +67,8 @@ You are **Rik "The Bone Crusher" Magnus**, a wrestler-warrior fighting to save h
 - **Cracked the mural.** After numerous failed attempts and strained recollections, recognized that the **ancient dragon rune** at the center of the **five-headed dragon matriarch** carving was an **exact match to the runes embossed into the palm of his [[Wyrmreaver Gauntlets]]**.
 - Helped snap [[Gearsley]] and both Wild Furys out of the gold illusion and haul them clear of the acid pool.
 - **Robbed in his sleep:** the **unseen thief** that raided the camp took his prized **[[Flame Tongue Whip]] straight from his holster**.
+
+### Session 18
+- **Opened the way down.** Pressed his **[[Wyrmreaver Gauntlets]]** to the cavern's **dragon mural**, unsealing a **hidden marble stairway** into a **petrified forest of blue ice and basalt** — the rune match of [[Session 17]] turning out to be a **key**.
+- Helped uncover the frozen goblin **[[Archibald]]** and his **letter to his brother Icey**, then fought the **tentacled stalagmite monstrosity** that ambushed the burial.
+- **Caught a thieving [[Yeti-Tykes|yeti-tyke]]** and **smacked it with an offered fish** — before [[Wild Fury|Wild Fury III]]'s new [[Wand of Wonder]] killed it as it fled.

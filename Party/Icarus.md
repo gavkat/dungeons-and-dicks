@@ -9,11 +9,12 @@ You are **Lord Icarus Valerius Corvus III**, a flamboyant noble sorcerer on a "r
 **Core Traits:**
 - Wild Magic sorcerer: surges have reincarnated him, turned him into a potted plant, and blasted the party with apocalyptic visions.
 - Spells seen: Minor Illusion, Hold Person, Polymorph, Fireball, high-voltage lightning.
-- Has died **twice** ([[Session 1]], [[Session 7]]) and come back both times.
+- Has died **twice** ([[Session 1]], [[Session 7]]) and come back both times — and was **killed a third time** by [[Vraxis]] in [[Session 18]], his heart stopped by lightning and his body thrown into an abyss. Nothing has yet been said about what followed.
 - Currently a hulking half-orc with shocking pink hair (reincarnated, [[Session 8]]) — a body now revealed to belong to **Gradley**, the lost brother of [[Garvin]] ([[Session 14]]); originally rode the opulent "Aurora Sovereign" car.
 - His **true form is an Aarakocra** ([[Session 15]]); his father is **[[Reginald]]**, whose **Kenku** followers appear in [[Hartsvale]].
 - [[Polly]] the teleporting parrot calls him "daddy."
-- **The Feywild knows his name:** the flumph [[Phlumphi]] says the fae realm celebrates him as an **immortal god** ([[Session 17]]) — the same title he claimed for himself in the void before his rebirth ([[Session 8]]).
+- **The Feywild knows his name:** the flumph [[Phlumphi]] says the fae realm celebrates him as an **immortal god** ([[Session 17]]) — the same title he claimed for himself in the void before his rebirth ([[Session 8]]), and the same claim he tried to bargain with in front of [[Vraxis]] ([[Session 18]]). It amused the dragon, and got him killed.
+- **Something is watching his chaos.** [[Vraxis]] warned him of his **hubris and chaotic nature** ([[Session 14]]); [[The Cloaked Figure|a cloaked figure]] on the **astral plane** warned him of his **reckless chaos** and told him ***"Fly, boy. Fly."*** ([[Session 18]]).
 
 **Burdens:**
 - The [[Sovereign Prophet]]'s ultimatum ([[Session 6]]): one lunar cycle to deliver the amulet thief — unknowingly his own friend [[Blackjack]] — or his debt stands.
@@ -77,3 +78,9 @@ You are **Lord Icarus Valerius Corvus III**, a flamboyant noble sorcerer on a "r
 - **Banished the colossal ice titan to another plane of existence** mid-ambush on the slopes of the [[Spine of the World]], after [[Wild Fury|Wild Fury III]] struck it with a crackling lightning javelin.
 - His **chaotic magic accidentally manifested [[Phlumphi]]**, a friendly floating **flumph from the Feywild**, on the mountain crest. The creature announced that **the legendary Icarus is celebrated across the fae realm as an immortal god**, spotted **[[Polly]]** on his shoulder, noted that **the two had successfully found each other**, said the news **had to be reported back**, and faded out of existence.
 - Was **not** taken in by the [[Dragon-Skull Cave]]'s gold illusion, and helped haul [[Gearsley]] and both Wild Furys out of the acid pool.
+
+### Session 18
+- **Displaced into the starry astral plane** mid-fight with the tentacled stalagmite monstrosity, where **[[The Cloaked Figure|an enigmatic cloaked figure]]** cryptically **warned him of his reckless chaos** and commanded: ***"Fly, boy. Fly."***
+- Drank a **feathered draught** from the [[Dragon-Skull Cave]]'s abandoned alchemical laboratory and was **temporarily transformed into a goose**.
+- As a goose, **flared his wings and honked aggressively** at the [[Yeti-Tykes|yeti-tykes]] playing with the party's stolen gear — panicking the one holding [[Gearsley]]'s firearm into **shooting itself**, and handing the butler back his **[[Thoughts & Prayers|twin pistols]]**.
+- **Bargained with [[Vraxis]] by claiming he was an immortal god.** The dragon was **amused** — then **rocketed him through the ceiling**, **stopped his heart with a lethal jolt of lightning**, and **hurled his limp body into the abyss**. He has died twice before; the source does not say what happened this time.

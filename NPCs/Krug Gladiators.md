@@ -7,7 +7,7 @@ The band of fellow fighters [[Rik]] and [[Wild Fury]] met inside the prison-like
 
 - **Shank** — a Tiefling with glass horns. *(Killed in the second wave of the trials.)*
 - **Mother** — a Bullywug. *(Crushed by the anti-magic snail's flail in the third wave.)*
-- **Icey** — a Goblin. *(Killed in the second wave of the trials.)*
+- **Icey** — a Goblin. *(Killed in the second wave of the trials.)* A **letter addressed to a brother named Icey** was found on the frozen goblin **[[Archibald]]** in the [[Dragon-Skull Cave]] ([[Session 18]]); nothing in the source says they are the same goblin.
 - **Humphrey** — a Minotaur. *(Decapitated by the Maiden's Champion, [[Session 16]].)*
 
 ## Role in Campaign
@@ -21,3 +21,6 @@ After a two-day training montage, the gladiators were marched into the arena for
 
 ### Session 16
 - **Humphrey was brutally decapitated** by **"[[The White Claw (Champion)|The White Claw]]"** in the arena's climactic battle — leaving **none of the four** gladiators [[Rik]] and [[Wild Fury]] trained beside alive.
+
+### Session 18
+- *(Possible echo.)* The goblin **[[Archibald]]**, found frozen beneath the [[Dragon-Skull Cave]], left a letter to his **brother Icey** — and had come hunting **[[The Devil in the Ice]]** to **cure his brothers' afflictions**. Whether that Icey is the gladiator is **unstated**.
