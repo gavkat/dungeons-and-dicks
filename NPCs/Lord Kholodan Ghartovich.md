@@ -12,7 +12,7 @@ First seen in [[Session 15]], presiding over [[Hartsvale]]: welcoming guests at 
 
 **[[Session 16]] recast him as the campaign's manipulator, not its host.** Wild Fury II burst into the throne room **furious at him for manipulating him into attacking his own son**. He had also **quietly captured [[Gearsley]] and [[Blackjack]]**. And with the party at his mercy he traded all of it away — their freedom, [[Vlad]]'s execution, Wild Fury II's liberation — for one errand: **[[The Devil in the Ice]]**, taken **alive**, out of a dragon-skull cave in the [[Spine of the World]]. He kept [[Blackjack]] and his own brother [[Vlad]] as collateral.
 
-Why a frost giant lord wants that thing **caged rather than dead** — and whether his story about it causing [[Hartsvale]]'s nightmares is true — is the open question.
+Why a frost giant lord wants that thing **caged rather than dead** — and whether his story about it causing [[Hartsvale]]'s nightmares is true — is the open question. **[[Session 18]] answered it in the worst way for him:** [[Vraxis]], who lives in the mountain, told the party the mountain **merely echoes nightmares bred within Kholodan's own castle**. If the dragon is right, the lord sent the party three days across the tundra to cage something for a haunting **he is hosting**.
 
 ## Session History
 
@@ -30,3 +30,7 @@ Why a frost giant lord wants that thing **caged rather than dead** — and wheth
 - Revealed he had **captured [[Gearsley]] and [[Blackjack]]**.
 - **Offered his bargain:** the party's **freedom**, the **voiding of [[Vlad]]'s execution**, and **Wild Fury II's liberation**, in exchange for entering a **dragon-skull cave** in the **[[Spine of the World]]** and capturing **"[[The Devil in the Ice]]" alive** with an **[[Arcane Dampener Collar]]** gifted by [[Glimmerspark Industries]] — claiming the Devil to be the source of [[Hartsvale]]'s nightmares.
 - **Persuaded to release [[Gearsley]]** to the expedition alongside Wild Fury II, while **keeping [[Blackjack]] and [[Vlad]] as collateral**.
+
+### Session 18
+- **Contradicted by [[Vraxis]]**, who declared that the mountain **merely echoed nightmares bred within Kholodan's own castle** — directly against the lord's [[Session 16]] claim that **[[The Devil in the Ice]]** was the source of [[Hartsvale]]'s nightmares.
+- His **[[Arcane Dampener Collar]]** was spent on **[[The White Claw (Champion)|Wild Fury II]]**, not the Devil, and is now **buried with him**; his errand ended with the **[[Dragon-Skull Cave]] collapsed** and the quarry never found. [[Blackjack]] and [[Vlad]] remain his hostages.

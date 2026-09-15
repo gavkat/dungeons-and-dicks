@@ -3,7 +3,7 @@
 **Tags:** #character #npc #BottomFeeders #Ally
 
 ## Description
-[[Icarus]]'s impeccable butler and driver of the "Aurora Sovereign." Unflappable, surprisingly lethal, and hiding something — he *revived a dead man*. Revealed in [[Session 15]] to be a **warforged**, when [[Hartsvale]]'s Orc guards barred him from the city.
+[[Icarus]]'s impeccable butler and driver of the "Aurora Sovereign." Unflappable, surprisingly lethal, and hiding something — he *revived a dead man*. Revealed in [[Session 15]] to be a **warforged**, when [[Hartsvale]]'s Orc guards barred him from the city. His twin pistols are named **[[Thoughts & Prayers|"Thoughts" and "Prayers"]]** ([[Session 18]]).
 
 ## Role in Campaign
 Loyal retainer and de-facto fifth party member. His ability to bring [[Icarus]] back from death ([[Session 1]]) has never been explained.
@@ -35,3 +35,7 @@ Loyal retainer and de-facto fifth party member. His ability to bring [[Icarus]] 
 ### Session 17
 - **Ensnared by the [[Dragon-Skull Cave]]'s gold illusion** alongside **both Wild Furys** — visions of boundless wealth walked all three straight into a pool of **suffocating, acidic sludge**, and the rest of the party had to snap them out and haul them free before they dissolved.
 - Stood **alert watch** over the party's extended rest at the old campsite in the right corridor — and still **never saw the thief**: one of his **guns was stolen** in the night, along with the party's gold, all their rations, and [[Rik]]'s [[Flame Tongue Whip]].
+
+### Session 18
+- **Got his gun back.** The thief that beat his watch in [[Session 17]] turned out to be **[[Yeti-Tykes|yeti-tykes]]**, found playing with the party's stolen gear in [[Vraxis]]'s archive; the one holding his firearm **shot itself** when a goose-shaped [[Icarus]] honked at it, **reuniting him with [[Thoughts & Prayers|"Thoughts" and "Prayers"]]**.
+- Was in the archive when his master was **killed a third time** — [[Vraxis]] stopped [[Icarus]]'s heart with lightning and threw him into the abyss — and was among the party racing for the dragon-skull threshold through the **cataclysmic cave-in**.

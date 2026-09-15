@@ -18,3 +18,7 @@ The arctic nights of the party's three-day trek toward [[Hartsvale]] devolved in
 ### Session 16
 - Invaded the dying party as a **single harrowing shared nightmare** while they lay near death after the arena — the first time its haunting is described as **shared** rather than individual. They **survived** it and woke in an infirmary, saved by [[Princess Zaria|Princess Zarya]].
 - **A rival explanation surfaced:** [[Lord Kholodan Ghartovich|Lord Kholodan]] blamed [[Hartsvale]]'s nightmares not on the Baba Yaga but on **"[[The Devil in the Ice]]"** — the thing he sent the party to cage. Either he is wrong, lying, or the two are connected.
+
+### Session 18
+- **The party has collapsed the two names into one.** They ambushed [[Vraxis]] with the [[Arcane Dampener Collar]] convinced he was **"the devil in the ice", aka "Baba Yaga"** — treating the dream-entity and Kholodan's quarry as the same thing, on no evidence anyone has stated.
+- **[[Vraxis]] pointed the other way.** He **scoffed at the insult** and declared the mountain **merely echoed nightmares bred within [[Lord Kholodan Ghartovich|Lord Kholodan]]'s own castle** — which puts the source of the haunting in **[[Hartsvale]]**, not the [[Spine of the World]], and makes Kholodan's story look like misdirection.

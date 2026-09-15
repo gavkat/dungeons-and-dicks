@@ -21,3 +21,6 @@ The range itself is hostile ground: **avalanche-prone slopes**, **blinding arcti
 - **Ambushed on the slopes.** An **avalanche of ice and snow** crashed down the treacherous mountainside and the [[Session 16]] "shadowy figures" revealed themselves as **[[Ice Golems|ice golems]]**, forcing a desperate uphill battle through **blinding arctic winds**. A **colossal ice titan** erupted from the frost and was **banished to another plane** by [[Icarus]].
 - On the crest, [[Icarus]]'s chaotic magic manifested the Feywild flumph **[[Phlumphi]]**.
 - From the **precipice** the party looked out over the range at the **distant speck of [[Hartsvale]]**, then entered the **[[Dragon-Skull Cave]]** to [[Rik]]'s bagpipes.
+
+### Session 18
+- **The mountain came down.** A **cataclysmic cave-in** tore through the [[Dragon-Skull Cave]]'s lower levels and collapsed the **dragon-skull threshold** itself, burying **[[The White Claw (Champion)|Wild Fury II]]** under millions of tons of rock as the party fled into the blizzard.
