@@ -8,15 +8,15 @@
 The party. Founded as the bond between [[Rik]] and [[Wild Fury]] ([[Session 2]]) over the wrestling hero "Bonecrusher," and grown into the collective name for the whole adventuring crew.
 
 ## Members
-- [[Wild Fury]] — divine warrior; missing father; wyvern [[Dave]].
-- [[Icarus]] — wild-magic noble; twice dead, currently a pink-haired half-orc; butler [[Gearsley]].
+- [[Wild Fury]] — divine warrior; father found, then **entombed** under the [[Dragon-Skull Cave]] ([[Session 18]]–[[Session 19]]); wields [[Dragon Saver]]; wyvern [[Dave]].
+- [[Icarus]] — wild-magic noble; three times dead, currently a **pink-haired human** with a sneeze-triggered **Stormwing** form ([[Session 19]]); butler [[Gearsley]].
 - [[Blackjack]] — thief turned **Shepherd** of [[The Great Devourer]]; bears the [[Shard of the Great Devourer]].
-- [[Rik]] — pit champion seeking a cure for [[Marisya]]; wears the [[Wyrmreaver Gauntlets]] — which **unsealed the [[Dragon-Skull Cave]]'s hidden stairway** ([[Session 18]]) — and wielded the [[Flame Tongue Whip]] until it was stolen ([[Session 17]]).
+- [[Rik]] — pit champion seeking a cure for [[Marisya]]; wears the [[Wyrmreaver Gauntlets]] — which **unsealed the [[Dragon-Skull Cave]]'s hidden stairway** ([[Session 18]]) — and wielded the [[Flame Tongue Whip]] until it was stolen ([[Session 17]]); bears a **scorpion-plated crest** over his heart and has a son, [[Ricky Jr|Ricky Jr.]] ([[Session 19]]).
 
 ## Companions
 - [[Gearsley]] — butler, driver, dead-raiser, heart-shooter.
 - [[Dave]] — wyvern.
-- [[Polly]] — teleporting parrot; calls Icarus "daddy."
+- [[Polly]] — teleporting parrot, revealed as a **Chwinga** fey spirit ([[Session 19]]); calls Icarus "daddy."
 
 ## Known History
 - Formed aboard [[The Tempest's Temptation]]; survived the [[Sovereign Prophet]], the [[Itju-Sha]], and the [[Tomb of Tzentak]].
