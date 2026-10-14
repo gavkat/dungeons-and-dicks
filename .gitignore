@@ -1,2 +1,5 @@
 # Flowershow plugin settings hold the site's API token — keep them out of git.
 .obsidian/plugins/flowershow/data.json
+
+# Python bytecode from the skill scripts
+__pycache__/

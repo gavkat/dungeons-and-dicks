@@ -18,6 +18,9 @@ import os
 import re
 import sys
 
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+from check_links import frontmatter_aliases  # noqa: E402  (same resolution rules as the link checker)
+
 WIKILINK = re.compile(r"\[\[([^\]|#]+)(?:#[^\]|]+)?(?:\|[^\]]+)?\]\]")
 
 # Pages that must mention every Campaign 2 session.
@@ -27,11 +30,16 @@ SKIP = {"README", "Open Threads", "Echoes of Phandelver", "Lost Mine of Phandelv
 
 
 def index():
-    by_name = {}
+    """Map every name a [[link]] can resolve to — basename or frontmatter alias — to its file."""
+    by_name, aliases = {}, {}
     for p in glob.glob("**/*.md", recursive=True):
         if p.startswith(".") or "/." in p:
             continue
         by_name.setdefault(os.path.splitext(os.path.basename(p))[0], p)
+        for a in frontmatter_aliases(p):
+            aliases.setdefault(a, p)
+    for a, p in aliases.items():
+        by_name.setdefault(a, p)  # a real basename wins over an alias
     return by_name
 
 

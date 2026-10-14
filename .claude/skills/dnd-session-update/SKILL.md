@@ -25,7 +25,7 @@ Work through the five phases below in order. Don't skip the review phase — it'
 
 These recaps usually arrive as a **PDF that is one very tall page**: a title, a few paragraphs of prose, and character/scene illustrations. The harness may report a misleading page count. The prose lives in a text layer, but the **title and the artwork often carry real information that never appears in the text** — e.g. the session title, or art revealing a character's species. So always look at both.
 
-- **Text + images in one pass:** run `scripts/extract_pdf.py <file.pdf> <scratchpad>`. **Pass the scratchpad as the second argument** — without it the script writes into the current directory (the vault root), and its PNG/text output must not be committed. It writes the text layer to `<scratchpad>/session_text.txt` and renders each page to a PNG, and reports page count + how many embedded images each page has. If `pymupdf` isn't installed, it installs it (poppler/`pdftotext` is typically unavailable here — don't fight it, use the script).
+- **Text + images in one pass:** run `python3 .claude/skills/dnd-session-update/scripts/extract_pdf.py <file.pdf> <scratchpad>`. **Pass the scratchpad as the second argument** — without it the script writes into the current directory (the vault root), and its PNG/text output must not be committed. It writes the text layer to `<scratchpad>/session_text.txt` and renders each page to a PNG, and reports page count + how many embedded images each page has. If `pymupdf` isn't installed, it installs it (poppler/`pdftotext` is typically unavailable here — don't fight it, use the script).
 - **Actually view the rendered PNG** with the Read tool. Read the title. Study the illustrations for details the prose omits.
 - If the source is an image or pasted text instead of a PDF, just read it directly — same discipline about squeezing detail from any art.
 
@@ -139,7 +139,7 @@ Keep the vault's voice: concise, wry, present-tense-ish narration, and cite the 
 This is what makes the update trustworthy. Three independent checks:
 
 ### 5a. Every link must resolve
-Run `scripts/check_links.py` from the vault root. It scans the files you changed (or `--all`) and reports:
+Run `python3 .claude/skills/dnd-session-update/scripts/check_links.py` from the vault root. It scans the files you changed (or `--all`) and reports:
 - **broken `[[wikilinks]]`** — a target with no matching note basename anywhere in the vault (ignore the literal `[[wikilinks]]` example in `README.md`);
 - **broken README markdown links** — a URL-decoded path that doesn't exist on disk;
 - **ambiguous basenames** — the same basename in two folders, which makes `[[links]]` resolve unpredictably.
@@ -147,7 +147,7 @@ Run `scripts/check_links.py` from the vault root. It scans the files you changed
 By default it checks only the **git-changed** files (what your session touched) — that's the signal you care about. Fix everything it flags there and re-run until clean. (A new file with a parenthetical name must be linked with that exact basename — the most common self-inflicted break.) The checker honors Obsidian frontmatter `aliases:`, so a link like `[[Prometheus]]` resolves to the page that declares that alias (`Shared/Mordenkainen.md`) rather than reading as broken. `--all` audits the whole vault; if it flags something you didn't touch, it's pre-existing — don't fix longstanding issues unless asked.
 
 ### 5b. Every touched page must record the session
-Run `scripts/check_coverage.py N` (N = the new session number). It lists every page the session page `[[wikilinks]]` that never mentions `Session N` — no `### Session N` entry, no `[[Session N]]` citation — and fails if the campaign hub or `README.md` doesn't list the session. Each hit is a page you forgot to ripple to: add the entry (or, for a genuinely passing mention, a `([[Session N]])` citation in the right sentence) and re-run until clean. `--all` audits every Campaign 2 session.
+Run `python3 .claude/skills/dnd-session-update/scripts/check_coverage.py N` from the vault root (N = the new session number). It lists every page the session page `[[wikilinks]]` that never mentions `Session N` — no `### Session N` entry, no `[[Session N]]` citation — and fails if the campaign hub or `README.md` doesn't list the session. Like the link checker, it resolves frontmatter `aliases:` (so `[[Prometheus]]` counts as `Shared/Mordenkainen.md`). Each hit is a page you forgot to ripple to: add the entry (or, for a genuinely passing mention, a `([[Session N]])` citation in the right sentence) and re-run until clean. `--all` audits every Campaign 2 session.
 
 The checker can't see *stale summaries* (above) — re-walk the hub checklist by eye before you report back.
 
