@@ -16,3 +16,6 @@ In Campaign 1 the [[Wolfpack]] fought to the Forge through the [[Wave Echo Cave]
 
 ## Session History
 _In Campaign 2: referenced in the prologue; not yet visited. In Campaign 1: see [[Wave Echo Cave]] (Sessions 21–25)._
+
+### Session 1
+- [[Halia]] told [[Wild Fury]] that people have been falling ill — [[The Tethered|"the tethered"]] — since the Forge of Spells was reactivated.

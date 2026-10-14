@@ -32,6 +32,9 @@ You are **Rik "The Bone Crusher" Magnus**, a wrestler-warrior fighting to save h
 ### Session 4
 - Accused by [[Krell]] of the murders. Escaped on [[Dave]].
 
+### Session 5
+- Shared his personal quest with the party: a cure for [[Marisya]] at the [[Tomb of Tzentak]].
+
 ### Session 6
 - Dreamt of an oasis where the water turned to blood.
 

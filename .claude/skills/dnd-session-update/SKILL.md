@@ -25,7 +25,7 @@ Work through the five phases below in order. Don't skip the review phase — it'
 
 These recaps usually arrive as a **PDF that is one very tall page**: a title, a few paragraphs of prose, and character/scene illustrations. The harness may report a misleading page count. The prose lives in a text layer, but the **title and the artwork often carry real information that never appears in the text** — e.g. the session title, or art revealing a character's species. So always look at both.
 
-- **Text + images in one pass:** run `scripts/extract_pdf.py <file.pdf>`. It writes the text layer to `<scratchpad>/session_text.txt` and renders each page to a PNG, and reports page count + how many embedded images each page has. If `pymupdf` isn't installed, it installs it (poppler/`pdftotext` is typically unavailable here — don't fight it, use the script).
+- **Text + images in one pass:** run `scripts/extract_pdf.py <file.pdf> <scratchpad>`. **Pass the scratchpad as the second argument** — without it the script writes into the current directory (the vault root), and its PNG/text output must not be committed. It writes the text layer to `<scratchpad>/session_text.txt` and renders each page to a PNG, and reports page count + how many embedded images each page has. If `pymupdf` isn't installed, it installs it (poppler/`pdftotext` is typically unavailable here — don't fight it, use the script).
 - **Actually view the rendered PNG** with the Read tool. Read the title. Study the illustrations for details the prose omits.
 - If the source is an image or pasted text instead of a PDF, just read it directly — same discipline about squeezing detail from any art.
 
@@ -117,17 +117,26 @@ Ripple the session outward. For **each** affected existing page:
 - Add a `### Session N` entry to its **Session History** with what it did/experienced.
 - Update the **Description / Role / Core Traits** when the session *revealed* something durable (a new species, a true identity, a death, a resolved goal) — not just for a routine appearance.
 
-Then the **hubs** (easy to forget, and the most visible):
+Then the **hubs** (easy to forget, and the most visible). Work through this checklist **every session, item by item** — these are the pages readers land on, and a stale hub is the most visible failure:
 
-- `README.md` — add the session to the campaign's session table; add any new entities to the appropriate lines of the entity index (using the URL-encoded markdown link format the file already uses, e.g. `[Name](NPCs/Name.md)` with `%20`/`%28`/`%29` encoding).
-- **Campaign hub** — append the session to the session list, extend the "Story So Far" with the new beats, and update the party/quest table if a personal quest advanced or resolved.
-- `Open Threads.md` — this is high-value. Move resolved hooks to a resolved state (the vault marks these inline, e.g. `**FOUND (Session N)**` or strikethrough), add new quests/mysteries the session opened, and update ones that advanced. A session that answers an old mystery *and* opens two new ones should show all three.
+- [ ] **`Echoes of Phandelver.md`** (or `Campaign 1/Lost Mine of Phandelver.md`) — the campaign hub. Every one of these sections:
+  - [ ] **Party table** — re-read **every row, both columns**, not just the characters who starred. A row is stale if the session changed that PC's body, gear, status (dead, hostage, missing), or quest.
+  - [ ] **Companions line** — still accurate (revealed natures, abductions)?
+  - [ ] **The Story So Far** — extend the current Act with the new beats (or open a new Act if the campaign clearly turned a corner).
+  - [ ] **Sessions** list — append `[[Session N]]`.
+  - [ ] **Key Antagonists** — add new ones; update the parenthetical status of any the session changed (dead, allied, revealed, unleashed).
+  - [ ] **Places / Factions & Powers / Notable Items** — add every new page of those types.
+- [ ] **`README.md`** — session table row; new entities on the right line of the entity index (URL-encoded markdown links, e.g. `[Name](NPCs/Name.md)` with `%20`/`%28`/`%29`).
+- [ ] **`Boner Bros.md`** — the party page has *current-state* summaries: **Members** and **Companions** bullets (re-read every bullet, same as the hub party table) and a **Known History** bullet for the session.
+- [ ] **`Open Threads.md`** — high-value. Move resolved hooks to a resolved state (the vault marks these inline, e.g. `**FOUND (Session N)**` or strikethrough), add new quests/mysteries the session opened, and update ones that advanced — including **Debts & Enemies**. A session that answers an old mystery *and* opens two new ones should show all three.
+
+**Current-state summaries go stale silently.** A `### Session N` history entry only *adds*; it never corrects the summary above it. So whenever the session changes something durable, grep the vault for the old fact and fix every summary that still states it — description paragraphs, Core Traits, "Currently…", "Status:", "known so far only…", hub table cells, roster bullets. (Example: a PC resurrected in a new body was still "twice dead, currently a half-orc" on `Boner Bros.md` — the history said otherwise, the roster didn't.)
 
 Keep the vault's voice: concise, wry, present-tense-ish narration, and cite the session in `([[Session N]])` form the way sibling text does.
 
 ## Phase 5 — Review: links, then fidelity (never skip)
 
-This is what makes the update trustworthy. Two independent checks:
+This is what makes the update trustworthy. Three independent checks:
 
 ### 5a. Every link must resolve
 Run `scripts/check_links.py` from the vault root. It scans the files you changed (or `--all`) and reports:
@@ -137,14 +146,19 @@ Run `scripts/check_links.py` from the vault root. It scans the files you changed
 
 By default it checks only the **git-changed** files (what your session touched) — that's the signal you care about. Fix everything it flags there and re-run until clean. (A new file with a parenthetical name must be linked with that exact basename — the most common self-inflicted break.) The checker honors Obsidian frontmatter `aliases:`, so a link like `[[Prometheus]]` resolves to the page that declares that alias (`Shared/Mordenkainen.md`) rather than reading as broken. `--all` audits the whole vault; if it flags something you didn't touch, it's pre-existing — don't fix longstanding issues unless asked.
 
-### 5b. Every claim must trace to the source — nothing invented
+### 5b. Every touched page must record the session
+Run `scripts/check_coverage.py N` (N = the new session number). It lists every page the session page `[[wikilinks]]` that never mentions `Session N` — no `### Session N` entry, no `[[Session N]]` citation — and fails if the campaign hub or `README.md` doesn't list the session. Each hit is a page you forgot to ripple to: add the entry (or, for a genuinely passing mention, a `([[Session N]])` citation in the right sentence) and re-run until clean. `--all` audits every Campaign 2 session.
+
+The checker can't see *stale summaries* (above) — re-walk the hub checklist by eye before you report back.
+
+### 5c. Every claim must trace to the source — nothing invented
 Reread your Phase 1 fact list against everything you wrote. The vault's credibility depends on this. Specifically:
 - **Don't add plot, motives, outcomes, names, or numbers the source doesn't state.** If the recap doesn't say a character survived, don't say they did.
 - **Inferences are allowed but must be marked as such and stay minimal.** Genealogy (a Tabaxi's father is a Tabaxi), elimination ("human and warforged were refused" + a known-human party member ⇒ the other is the warforged), and art-based details (species visible in an illustration) are fair — but phrase them as implied/revealed and keep the certainty honest. Apply the same standard consistently: if you infer one character's species from their child, do it for the parallel case too.
 - **When the source is ambiguous or clearly typo'd** (a name that contradicts established facts, an actor that doesn't parse), prefer the faithful, non-committal rendering (passive voice, the established spelling) over inventing a resolution — and surface the call to the user.
 
 ### Report back
-Tell the user, concisely: what session was added, which pages were **created** vs **updated**, the result of the link check (e.g. "all N wikilinks resolve"), and any **judgment calls or inferences** you made in 5b so they can veto them. Transparency here is the deliverable as much as the edits are.
+Tell the user, concisely: what session was added, which pages were **created** vs **updated**, the result of the link and coverage checks (e.g. "all N wikilinks resolve; all 26 linked pages record Session N"), and any **judgment calls or inferences** you made in 5b so they can veto them. Transparency here is the deliverable as much as the edits are.
 
 ## Committing
 

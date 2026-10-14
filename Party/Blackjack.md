@@ -11,6 +11,7 @@ You are **Jack "Blackjack" Blackwood**, an opportunist, thief, and showman — n
 - Bears the [[Shard of the Great Devourer]], which beats in time with his heart. Where others rotted, he became a vessel.
 - Powers gained beneath the sea: the Fathomless Plunge and spectral tentacles ([[Session 9]]).
 - The [[Sovereign Prophet]] hunts the amulet's thief — him — and [[Icarus]] has been ordered to deliver that thief.
+- **Held hostage** in [[Hartsvale]] by [[Lord Kholodan Ghartovich|Lord Kholodan]] since [[Session 16]] — collateral for a bargain the party has since abandoned for open revolt ([[Session 19]]).
 
 ## Session History
 
@@ -25,6 +26,9 @@ You are **Jack "Blackjack" Blackwood**, an opportunist, thief, and showman — n
 
 ### Session 4
 - Rescued from the massacre by the sea elves [[Vespera]] and [[Kaelen]].
+
+### Session 6
+- Unknowingly became the target of the [[Sovereign Prophet]]'s ultimatum: [[Icarus]] must deliver the amulet thief within one lunar cycle.
 
 ### Session 9
 - In a bioluminescent sanctuary, learned the amulet is the [[Shard of the Great Devourer]] and that he is the **Shepherd** — counterpart to the Prophet, [[Kaelen]] and [[Vespera]]'s brother Valyrian. Trained with the sea elves; dreamt of inhabiting the Devourer's body. Failed spectacularly to woo [[Vespera]]. Returned via Fathomless Plunge to impale [[Tlincalli]] with a spectral tentacle.

@@ -3,7 +3,7 @@
 **Tags:** #character #npc #Campaign2
 
 ## Description
-The **ruler of [[Hartsvale]]**, known so far only through the campfire lore of [[Vlad]] ([[Session 14]]) — who described his ruling style, and later confessed to being the **exiled brother of Hartsvale's ruler**.
+The **ruler of [[Hartsvale]]**, first known through the campfire lore of [[Vlad]] ([[Session 14]]) — who described his ruling style, and later confessed to being the **exiled brother of Hartsvale's ruler**.
 
 Seen properly in [[Session 16]]: **blue-skinned, white-haired and pointed-eared**, crowned in gold and seated on a **rune-carved ice throne** with a **frost scepter**, before a hearth bearing a **stag-and-gear emblem**, attended by **gnoll honor guards**.
 

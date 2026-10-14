@@ -11,4 +11,5 @@ Whether any true Medji-Tzentak survive is unknown.
 
 ## Known History
 - [[Session 7]]: [[Ouraeus]] introduced himself as one of the order.
+- [[Session 8]]: in the [[Itju-Sha]] cage, his hand melted into serpents to snatch the keys, and he claimed to be the **last** of the order.
 - [[Session 11]]: his betrayal revealed the claim was a corruption of the order's purpose.
