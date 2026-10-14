@@ -8,14 +8,14 @@
 The party. Founded as the bond between [[Rik]] and [[Wild Fury]] ([[Session 2]]) over the wrestling hero "Bonecrusher," and grown into the collective name for the whole adventuring crew.
 
 ## Members
-- [[Wild Fury]] — divine warrior; father found, then **entombed** under the [[Dragon-Skull Cave]] ([[Session 18]]–[[Session 19]]); wields [[Dragon Saver]]; wyvern [[Dave]].
+- [[Wild Fury]] — divine warrior; father found, then **entombed** under the [[Dragon-Skull Cave]] ([[Session 18]]–[[Session 19]]); given [[Dragon Saver]] by [[Vraxis]] ([[Session 19]]); his wyvern [[Dave]] was abducted ([[Session 13]]).
 - [[Icarus]] — wild-magic noble; three times dead, currently a **pink-haired human** with a sneeze-triggered **Stormwing** form ([[Session 19]]); butler [[Gearsley]].
-- [[Blackjack]] — thief turned **Shepherd** of [[The Great Devourer]]; bears the [[Shard of the Great Devourer]].
+- [[Blackjack]] — thief turned **Shepherd** of [[The Great Devourer]]; bears the [[Shard of the Great Devourer]]; held hostage in [[Hartsvale]] by [[Lord Kholodan Ghartovich|Lord Kholodan]] since [[Session 16]].
 - [[Rik]] — pit champion seeking a cure for [[Marisya]]; wears the [[Wyrmreaver Gauntlets]] — which **unsealed the [[Dragon-Skull Cave]]'s hidden stairway** ([[Session 18]]) — and wielded the [[Flame Tongue Whip]] until it was stolen ([[Session 17]]); bears a **scorpion-plated crest** over his heart and has a son, [[Ricky Jr|Ricky Jr.]] ([[Session 19]]).
 
 ## Companions
 - [[Gearsley]] — butler, driver, dead-raiser, heart-shooter.
-- [[Dave]] — wyvern.
+- [[Dave]] — wyvern; abducted by [[The Ashen Figure]] in a [[The Consortium|Consortium]] "Code Black" ([[Session 13]]).
 - [[Polly]] — teleporting parrot, revealed as a **Chwinga** fey spirit ([[Session 19]]); calls Icarus "daddy."
 
 ## Known History
