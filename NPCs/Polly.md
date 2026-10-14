@@ -3,7 +3,7 @@
 **Tags:** #character #npc #Companion #Beast
 
 ## Description
-[[Captain Siren Shellsword]]'s prized macaw — a *teleporting* parrot that bamfs away from danger (or from [[Icarus]]'s teeth) and whispers *"pieces of six."*
+[[Captain Siren Shellsword]]'s prized macaw — a *teleporting* parrot that bamfs away from danger (or from [[Icarus]]'s teeth) and whispers *"pieces of six."* Revealed in [[Session 19]] to be no parrot at all, but a **Chwinga** — a fey spirit.
 
 ## Role in Campaign
 First a heist target, then a mystery: her whispers haunted [[Mintan]] before the party found her. She has adopted [[Icarus]], calling him "daddy." What "pieces of six" means — and its echo of [[The Dark Six]] — grows harder to ignore: in [[Session 13]] she seized rigid, eyes blazing sapphire blue, and chanted *"Pieces of Six!"* in the same moment the oracle [[Ilbryn Darksight|Ilbryn]] named [[Tzentak]] a [[Vox of the Dark Six|Vox]].

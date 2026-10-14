@@ -16,6 +16,8 @@ The price of the party's freedom. Under [[Lord Kholodan Ghartovich|Kholodan]]'s 
 
 That a frost giant lord would rather have this thing **caged than killed** is the loudest thing about it.
 
+**The errand is dead ([[Session 19]]).** With the cave sealed and no Devil in hand, the party stopped trying to pay Kholodan and **raised [[Hartsvale]] against him** instead. The Devil itself remains unmet.
+
 ## Session History
 
 ### Session 16

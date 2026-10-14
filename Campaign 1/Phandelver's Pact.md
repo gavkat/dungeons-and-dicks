@@ -21,3 +21,6 @@ The Pact's golden age ended when a horde of goblins and orcs surged from the Nor
 
 ### Session 22 & 23: Frederick and Mordy / The Lying Lich and the Warforged
 - Visions and Dwarven runes within Wave Echo Cave revealed the Pact's birthplace, [[Mordenkainen]]'s role, and the war against the orcs 500 years ago.
+
+### Campaign 2 — [[Session 15]]
+- Five centuries on, the Pact still carries a grudge: [[Hartsvale]]'s Orc guards refused [[Blackjack]] (human) and [[Gearsley]] (warforged) entry over **ancient resentment tied to Phandelver's Pact**.

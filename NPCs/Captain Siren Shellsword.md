@@ -23,3 +23,6 @@ Recruited the party — then was revealed to be in league with the [[Sovereign P
 
 ### Session 4
 - Exposed as the Prophet's collaborator; devoured by [[The Great Devourer]].
+
+### Session 5
+- Revealed as the former owner of [[Polly]], the teleporting parrot behind the "pieces of six" whispers on [[Mintan]].

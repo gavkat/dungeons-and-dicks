@@ -19,6 +19,15 @@ The great tomb of the pharaoh [[Tzentak]] in the [[Anauroch]] desert, guarded by
 
 ## Session History
 
+### Session 3
+- [[Riptide]] revealed [[Captain Siren Shellsword]] had promised him **salvation** in the tomb five years earlier.
+
+### Session 5
+- Named by [[Rik]] as where he hoped to find a cure for [[Marisya]].
+
+### Session 9
+- Reached at last after the march north through the dunes: *"There it is, the Tomb of Tzentak."*
+
 ### Session 10
 - Entry won; trap gauntlet survived; mummy battle nearly killed the party.
 

@@ -16,12 +16,12 @@ But beneath the surface: rumors, whispers — people changing, eyes turning blac
 
 | Character | Concept | Personal Quest |
 |---|---|---|
-| [[Wild Fury]] | Divine warrior with a wyvern ([[Dave]]) | Find his father — **found, fought, and buried** ([[Session 15]]–[[Session 18]]): the Krug champion **[[The White Claw (Champion)|"The White Claw"]]**, **Wild Fury II**, who beat him half to death under a spell, travelled at his side withholding his approval, then **caught a collapsing mountain on his back** to save him and was **sealed in the dark** ([[Session 18]]) |
+| [[Wild Fury]] | Divine warrior with a wyvern ([[Dave]], abducted [[Session 13]]); given [[Dragon Saver]] by [[Vraxis]] ([[Session 19]]) | Find his father — **found, fought, and buried** ([[Session 15]]–[[Session 18]]): the Krug champion **[[The White Claw (Champion)|"The White Claw"]]**, **Wild Fury II**, who beat him half to death under a spell, travelled at his side withholding his approval, then **caught a collapsing mountain on his back** to save him and was **sealed in the dark** ([[Session 18]]); **entombed** as the party watched, he spoke once more in [[Vraxis]]'s vision of [[Leilon]], naming the Coster's true enemy — **the men in velvet coats** ([[Session 19]]) |
 | [[Icarus]] | Wild-magic noble, **three times killed**, now a **pink-haired human** with a sneeze-triggered **Stormwing** form ([[Session 19]]) | Escape the [[Sovereign Prophet]]'s ultimatum — **killed by [[Vraxis]]** ([[Session 18]]) and **brought back again** by a familiar voice ([[Session 19]]) |
-| [[Blackjack]] | Thief turned Shepherd of [[The Great Devourer]] | Master (or survive) the [[Shard of the Great Devourer]] |
+| [[Blackjack]] | Thief turned Shepherd of [[The Great Devourer]]; **hostage in [[Hartsvale]]** since [[Session 16]] | Master (or survive) the [[Shard of the Great Devourer]] |
 | [[Rik]] | Wrestling champion | Cure his cursed wife [[Marisya]] — now seen **writhing in dark tethering** beside their son [[Ricky Jr|Ricky Jr.]], and called **dying** ([[Session 19]]) |
 
-Companions: [[Gearsley]], [[Polly]].
+Companions: [[Gearsley]], [[Polly]] (a **Chwinga**, [[Session 19]]).
 
 ## The Story So Far
 
