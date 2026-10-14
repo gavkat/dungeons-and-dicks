@@ -12,6 +12,8 @@ The mystery deepened in [[Session 14]]: the cobalt dragon soldier [[Vraxis]] spa
 
 [[Session 17]] all but confirms it: the Feywild flumph **[[Phlumphi]]** recognized Polly on [[Icarus]]'s shoulder, said **the two had successfully found each other**, and vanished to **report it back** — to whom, it did not say.
 
+**Confirmed ([[Session 19]]): Polly is a Chwinga** — a fey spirit — **awakened by [[Vraxis]]**, after which she **bestowed a protective charm on [[Icarus]]**. The same session, **a familiar voice** that pulled Icarus back from death told him to **say hi to Polly** — whoever is saving Icarus knows her.
+
 ## Session History
 
 ### Session 2
@@ -31,3 +33,7 @@ The mystery deepened in [[Session 14]]: the cobalt dragon soldier [[Vraxis]] spa
 
 ### Session 17
 - Perched on [[Icarus]]'s shoulder when the Feywild flumph **[[Phlumphi]]** was accidentally manifested on the mountain crest. Phlumphi **recognized her on sight**, observed that **"the two had successfully found each other"**, and announced the news **had to be reported back** before fading away — the clearest sign yet that Polly's meeting with Icarus was **expected, and being watched for**, by something in the fae realm.
+
+### Session 19
+- Named by **the familiar voice** that brought [[Icarus]] back from death: *say hi to Polly*.
+- **Awakened by [[Vraxis]]** and revealed to be a **Chwinga fey spirit**; **bestowed a protective charm on [[Icarus]]**. The session art shows a parrot back on the (now human) Icarus's shoulder in a [[Hartsvale]] tavern.

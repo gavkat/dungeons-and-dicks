@@ -8,7 +8,7 @@ A half-orc driver in an armored [[Glimmerspark Industries|GlimmerSpark Industrie
 ## Role in Campaign
 Fate dealt a cruel and convenient hand ([[Session 14]]): when a freezing, isolated [[Icarus]] intercepted Garvin's convoy, Icarus used his theatrical deception skills to prove his 'identity' as Gradley — going as far as eating a rotting fish. Completely sold, Garvin agreed to **smuggle his 'brother' all the way to [[Hartsvale]]**.
 
-Garvin does not know his brother's body is inhabited by someone else entirely.
+Garvin does not know his brother's body is inhabited by someone else entirely — or, as of [[Session 19]], that it is **gone**: after [[Icarus]]'s death in the [[Spine of the World]], the half-orc corpse **split into golden ash** and Icarus stepped out of it human.
 
 ## Session History
 

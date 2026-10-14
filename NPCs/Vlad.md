@@ -7,6 +7,8 @@ A massive, **twenty-foot Frost Giant** — yet timid and hunched, nothing like t
 
 Now revealed ([[Session 14]]): Vlad is **exiled from [[Hartsvale]]** — and is the **exiled brother of Hartsvale's ruler**, [[Lord Kholodan Ghartovich]]. His stated crime of "stealing vegetables" turned out to mean **eating disabled children**.
 
+**Last seen ([[Session 19]])** loosed on the party from a ceiling cage in [[Lord Kholodan Ghartovich|Kholodan]]'s throne room, eyes ablaze with **the same feral white fury that had claimed Wild Fury II**.
+
 ## Role in Campaign
 Introduced at the very end of [[Session 13]], in the frozen wastes on the road north toward [[Hartsvale]]. In [[Session 14]] he became the party's guide and lore-source: sharing Hartsvale's history around the campfire — Lord [[Lord Kholodan Ghartovich|Kholodan Ghartovich]]'s ruling style, the Twilight Maiden [[Princess Zaria]]'s rumored blessed birth, and the dream-entity [[Baba Yaga]] — and leading the [[Boner Bros]] on a **three-day trek** toward the city.
 
@@ -32,3 +34,6 @@ Despite the accidental cannibalism talk, the party persuaded him to **declare [[
 - Found in the throne room **muzzled and chained**, flanking his brother [[Lord Kholodan Ghartovich|Lord Kholodan]] alongside the gnoll honor guards — the loophole having failed with [[Wild Fury]]'s defeat.
 - His **execution** is now on the table: **voiding it** is one of the three terms of Kholodan's bargain, alongside the party's freedom and **Wild Fury II**'s liberation.
 - **Kept behind as collateral** with [[Blackjack]] while the rest of the party marched for the [[Spine of the World]] and **[[The Devil in the Ice]]**.
+
+### Session 19
+- **Caged above the throne room**: when his guard crumbled, [[Lord Kholodan Ghartovich|Kholodan]] **slammed an overhead lever** and an **iron cage crashed from the ceiling**, shattering to **release Vlad** — his eyes **ablaze with the same feral white fury that had claimed [[The White Claw (Champion)|Wild Fury II]]**, roaring as the battle tipped into madness.

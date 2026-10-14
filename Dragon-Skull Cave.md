@@ -21,7 +21,7 @@ The mural marks where the path **forks left and right** — and it is also a **d
 Behind the dragon mural, the **hidden marble stairway** descends into levels nobody in [[Hartsvale]] seems to have mentioned:
 
 - **The petrified forest** — a frozen wood of **blue ice and basalt**. Beneath a **towering icicle** lay the frozen remains of the goblin **[[Archibald]]** and his letter. A **tentacled stalagmite monstrosity** lairs here, and ambushed the party's attempt to bury him. [[Yeti-Tykes|Yeti-tykes]] den in these levels.
-- **The abandoned alchemical laboratory** — strange reagents, including an ambiguously labelled **"Liomund's Tiny Hut"** potion, a **fire-belching elixir**, and a **feathered draught** that turns the drinker into a **goose**. Its stores are volatile: **green alchemical fires detonated** through the collapse.
+- **The abandoned alchemical laboratory** — strange reagents, including an ambiguously labelled **"Liomund's Tiny Hut"** potion (if it is the potion [[Icarus]] drank in [[Session 19]], its **scratched label** actually read **"Leomund's Tiny Nut"**, and it was [[Vraxis]]'s **private reserve**), a **fire-belching elixir**, and a **feathered draught** that turns the drinker into a **goose**. Its stores are volatile: **green alchemical fires detonated** through the collapse.
 - **[[Vraxis]]'s archive** — the **lavish subterranean archive** of the cobalt dragon soldier, found by following the smell of **smoked sausages and Cajun spices**. Its **load-bearing pillars** were hacked through by a frenzied [[The White Claw (Champion)|Wild Fury II]] in the fight that brought the whole cavern down.
 
 ## Session History
@@ -40,3 +40,7 @@ Behind the dragon mural, the **hidden marble stairway** descends into levels nob
 - The frozen goblin **[[Archibald]]** was found beneath a towering icicle; a **tentacled stalagmite monstrosity** ambushed the burial, and [[Icarus]] was briefly **displaced into the astral plane** during the fight.
 - Deeper still: the **abandoned alchemical laboratory**, and beyond it **[[Vraxis]]'s lavish subterranean archive**, tracked down by the smell of his cooking.
 - **The cave was destroyed.** [[Vraxis]]'s **tempest of frost and lightning**, a **frenzied [[The White Claw (Champion)|Wild Fury II]]** hacking through **load-bearing pillars**, and **detonating green alchemical fires** brought on a **cataclysmic cave-in** — collapsing the **dragon-skull threshold** itself and sealing **Wild Fury II** inside under millions of tons of rock.
+
+### Session 19
+- **The entrance is sealed.** From the frozen ledge outside, the party watched **collapsing stone and dragon bone** close the threshold, **entombing [[The White Claw (Champion)|Wild Fury II]]**.
+- [[Vraxis]] — whose archive lay inside — turned out to have **survived the collapse**.
