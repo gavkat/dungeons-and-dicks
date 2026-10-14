@@ -14,6 +14,8 @@ First seen in [[Session 15]], presiding over [[Hartsvale]]: welcoming guests at 
 
 Why a frost giant lord wants that thing **caged rather than dead** — and whether his story about it causing [[Hartsvale]]'s nightmares is true — is the open question. **[[Session 18]] answered it in the worst way for him:** [[Vraxis]], who lives in the mountain, told the party the mountain **merely echoes nightmares bred within Kholodan's own castle**. If the dragon is right, the lord sent the party three days across the tundra to cage something for a haunting **he is hosting**.
 
+**[[Session 19]] gave him a motive.** In an **abandoned infirmary** reached through the castle **catacombs**, the party found the **unburied corpse of his late wife** and a **journal detailing her fatal childbirth** — the loss that **drove the Lord to madness and dark bargains**. Cornered in his throne room by an uprising the party had stirred up, he fought from inside an **impervious protective orb** behind three **[[Gnoll Enforcers|gnoll enforcers]]**, and when they crumbled he **pulled a lever that dropped a caged [[Vlad]]** into the fight — his own brother, eyes ablaze with **the same white fury that had claimed Wild Fury II**.
+
 ## Session History
 
 ### Session 14
@@ -34,3 +36,9 @@ Why a frost giant lord wants that thing **caged rather than dead** — and wheth
 ### Session 18
 - **Contradicted by [[Vraxis]]**, who declared that the mountain **merely echoed nightmares bred within Kholodan's own castle** — directly against the lord's [[Session 16]] claim that **[[The Devil in the Ice]]** was the source of [[Hartsvale]]'s nightmares.
 - His **[[Arcane Dampener Collar]]** was spent on **[[The White Claw (Champion)|Wild Fury II]]**, not the Devil, and is now **buried with him**; his errand ended with the **[[Dragon-Skull Cave]] collapsed** and the quarry never found. [[Blackjack]] and [[Vlad]] remain his hostages.
+
+### Session 19
+- Faced a **civil uprising** stirred by the party in [[Hartsvale]]'s slums; his **city guard** clashed with the armed mob at dawn.
+- His secret was found in the **catacombs**: an **abandoned infirmary** holding the **unburied corpse of his late wife** and a **journal detailing her fatal childbirth**, which had **driven him to madness and dark bargains**.
+- Confronted in the throne room, **ensconced within an impervious protective orb** behind three **[[Gnoll Enforcers|gnoll enforcers]]**.
+- As his guard crumbled, **slammed an overhead lever** that dropped an **iron cage** from the ceiling, **releasing [[Vlad]]** with **feral white fury** in his eyes.

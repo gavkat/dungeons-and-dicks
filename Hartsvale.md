@@ -41,3 +41,9 @@ From [[Vlad]]'s campfire telling ([[Session 14]]) — Vlad himself is an exile o
 
 ### Session 17
 - Seen from the far side of the journey: a **distant speck** below the party as they stood on the precipice of the [[Spine of the World]] ([[Session 17]]), with [[Blackjack]] and [[Vlad]] still held inside it.
+
+### Session 19
+- **Teleported into** by [[Vraxis]] under cover of a **conjured blizzard**. The **slums** carry **spider-clenched-fist graffiti** the party found familiar; at the local **tavern**, admirers chanted for **"Wild and Furry"** and commissioned bards debuted ***The Ballad of David and the Pussycat***.
+- **The city rose.** The party stoked the crowd into revolutionary fervor against [[Lord Kholodan Ghartovich|Kholodan]]'s cruelty; at dawn an **armed mob** marched behind the **bards' rolling stage** and **clashed with the city guard**.
+- A **[[The Crimson-Hooded Stranger|crimson-hooded stranger]]** appeared to [[Rik]] in the tavern and vanished.
+- Beneath the castle: **catacombs** and an **abandoned infirmary** holding the **unburied corpse of Kholodan's late wife**. Above it: the **throne room**, where Kholodan fought from a **protective orb** behind [[Gnoll Enforcers|gnoll enforcers]] and released [[Vlad]] from a **ceiling cage**.

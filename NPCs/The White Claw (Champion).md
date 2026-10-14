@@ -22,7 +22,9 @@ The mysterious **[[The White Claw|Krug]] flyer** that reached [[Wild Fury]] at [
 ## The Last Stand
 In the cave-in that ended [[Session 18]], a **massive granite monolith sheared loose** above [[Wild Fury|Wild Fury III]]. In a **blur of white fur** his father **tackled him into the snow** and **caught the crushing mountain across his own back**. Bracing the **collapsing stone jaws with his bare paws**, he **ordered his son to run**, declaring that **after fighting for other men, he would die on his own terms** — the first thing he ever gave his son freely, and an epitaph he wrote himself.
 
-[[Wild Fury|Wild Fury III]] lunged with the **[[Immovable Rod]]** and his **footing gave way**; the rod locked into empty air **inches short of the stone**. **Millions of tons of rock crashed down, sealing him within the dark.** The source stops there. He was not seen to die.
+[[Wild Fury|Wild Fury III]] lunged with the **[[Immovable Rod]]** and his **footing gave way**; the rod locked into empty air **inches short of the stone**. **Millions of tons of rock crashed down, sealing him within the dark.** The source stops there. He was not seen to die. In [[Session 19]] the party watched **collapsing stone and dragon bone seal the entrance**, entombing him.
+
+His rage, meanwhile, has **outlived his disappearance**: at the end of [[Session 19]] [[Vlad]] burst from [[Lord Kholodan Ghartovich|Kholodan]]'s cage with **the same feral white fury that had claimed Wild Fury II** in his eyes.
 
 ## Session History
 
@@ -48,3 +50,8 @@ In the cave-in that ended [[Session 18]], a **massive granite monolith sheared l
 - **Collared by his own son.** [[Wild Fury|Wild Fury III]] used the chaos of [[Vraxis]]'s attack on [[Icarus]] to **snap the [[Arcane Dampener Collar]] onto him**, **breaking the bloodlust**.
 - **Caught the mountain.** As the cavern collapsed, he **tackled his son clear** of a falling **granite monolith** and took it across his **own back**, bracing the **stone jaws bare-pawed** at the dragon-skull threshold.
 - **Ordered his son to run**, saying that after a lifetime **fighting for other men, he would die on his own terms** — and was **sealed within the dark** when the [[Immovable Rod]] locked short and millions of tons of rock came down.
+
+### Session 19
+- **Entombed** as collapsing stone and dragon bone sealed the [[Dragon-Skull Cave]]'s entrance, the party watching in stunned grief.
+- Appeared **unbloodied** in [[Vraxis]]'s vision of **post-attack [[Leilon]] five years earlier**, reminding his son that the [[Lionshield Coster]] was **founded by protectors** and that their true enemies are **the men in velvet coats who pit mortals and dragons against one another**.
+- His **feral white fury** was seen again — in the eyes of [[Vlad]], released from [[Lord Kholodan Ghartovich|Kholodan]]'s cage.

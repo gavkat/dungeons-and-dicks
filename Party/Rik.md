@@ -12,9 +12,11 @@ You are **Rik "The Bone Crusher" Magnus**, a wrestler-warrior fighting to save h
 - Pit-fighting Champion of the [[Itju-Sha]] arena ([[Session 7]]–[[Session 8]]).
 - Wielded the [[Flame Tongue Whip]] taken from the [[Tomb of Tzentak]] — until an unseen thief lifted it from his holster while he slept ([[Session 17]]).
 - Wears the **[[Wyrmreaver Gauntlets]]**, whose palm runes match an ancient dragon rune deep in the [[Dragon-Skull Cave]] ([[Session 17]]) — and **unsealed a hidden stairway** when he pressed them to the mural ([[Session 18]]).
+- Wears a **scorpion-plated crest bearing a five-headed dragon sigil** over his heart — what remains of a **parasitic scorpion armor** whose spread [[Vraxis]] halted ([[Session 19]]).
+- Father of **[[Ricky Jr|Ricky Jr.]]** ([[Session 19]]).
 
 **Personal Quest:**
-- Cure [[Marisya]]. The lead — from [[Riptide]] — pointed to the desert of [[Anauroch]] and the [[Tomb of Tzentak]].
+- Cure [[Marisya]]. The lead — from [[Riptide]] — pointed to the desert of [[Anauroch]] and the [[Tomb of Tzentak]]. **Now urgent ([[Session 19]]):** a scrying vision showed her **bound to a bed, writhing in dark tethering**, and a **[[The Crimson-Hooded Stranger|crimson-hooded stranger]]** told Rik he was **wasting precious time away from his dying wife**.
 
 ## Session History
 
@@ -72,3 +74,9 @@ You are **Rik "The Bone Crusher" Magnus**, a wrestler-warrior fighting to save h
 - **Opened the way down.** Pressed his **[[Wyrmreaver Gauntlets]]** to the cavern's **dragon mural**, unsealing a **hidden marble stairway** into a **petrified forest of blue ice and basalt** — the rune match of [[Session 17]] turning out to be a **key**.
 - Helped uncover the frozen goblin **[[Archibald]]** and his **letter to his brother Icey**, then fought the **tentacled stalagmite monstrosity** that ambushed the burial.
 - **Caught a thieving [[Yeti-Tykes|yeti-tyke]]** and **smacked it with an offered fish** — before [[Wild Fury|Wild Fury III]]'s new [[Wand of Wonder]] killed it as it fled.
+
+### Session 19
+- Had the spread of his **parasitic scorpion armor** halted by [[Vraxis]], who **condensed it into a scorpion-plated crest** with a **five-headed dragon sigil** over his heart.
+- Was granted a **scrying vision** of his son **[[Ricky Jr|Ricky Jr.]]** whittling a **toy soldier** beside **[[Marisya]]**, **bound to a bed and writhing in dark tethering**, while **a stranger comforted the boy outside**.
+- In a [[Hartsvale]] tavern, **locked eyes with a [[The Crimson-Hooded Stranger|crimson-hooded stranger]]** whose handsome face **withered into a scalded husk**, and who warned him about **wasting precious time away from his dying wife** before vanishing.
+- Joined the uprising and the push through the **catacombs** into [[Lord Kholodan Ghartovich|Kholodan]]'s throne room.

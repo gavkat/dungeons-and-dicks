@@ -14,7 +14,9 @@ Revealed when a polymorphed [[Icarus]] dive-bombed his bird illusion ([[Session 
 
 He warned Icarus about his hubris in [[Session 14]]. In [[Session 18]] the sorcerer staked a bargain on being an **immortal god** — and Vraxis, amused, obliged him with a lethal jolt of lightning.
 
-Who — or what — Vraxis soldiers for is still unknown, as is **what he was doing with an archive under a dragon-skull cave** — and whether he was still in the cavern when it came down.
+Who — or what — Vraxis soldiers for is still unknown, as is **what he was doing with an archive under a dragon-skull cave**.
+
+**[[Session 19]] turned him from executioner to patron.** He **survived the cave-in** and came to the party bearing **parting gifts and visions**: a memory of post-attack [[Leilon]] for [[Wild Fury|Wild Fury III]] and the reforging of the Dragon Slayer into **[[Dragon Saver]]**; a halt to [[Rik]]'s **parasitic scorpion armor** and a **scrying vision** of [[Marisya]] and [[Ricky Jr|Ricky Jr.]]; and the **awakening of [[Polly]]** as a **Chwinga**. Then he **conjured a blizzard** and **teleported the party into [[Hartsvale]]** for their uprising against [[Lord Kholodan Ghartovich|Kholodan]]. His one complaint was [[Icarus]] drinking his **private reserve** of **"Leomund's Tiny Nut"**.
 
 ## Session History
 
@@ -29,3 +31,11 @@ Who — or what — Vraxis soldiers for is still unknown, as is **what he was do
 - **Declared the mountain merely echoed nightmares bred within [[Lord Kholodan Ghartovich|Lord Kholodan]]'s own castle** — contradicting Kholodan's [[Session 16]] claim outright.
 - Unleashed a **tempest of frost and lightning**; a **frenzied [[The White Claw (Champion)|Wild Fury II]]** attacked him and hacked through the chamber's **load-bearing pillars**, fracturing the cavern.
 - **Killed [[Icarus]]**: amused by the sorcerer's bargain that he was an **immortal god**, Vraxis **rocketed him through the ceiling**, **stopped his heart with a lethal jolt of lightning**, and **hurled his limp body into the abyss**.
+
+### Session 19
+- **Survived the cave-in** and arrived with **parting gifts and visions** for the party.
+- Guided [[Wild Fury|Wild Fury III]] into a **memory of dragon-damaged [[Leilon]] five years earlier** and **reshaped the Dragon Slayer sword into [[Dragon Saver]]**.
+- **Halted the spread of [[Rik]]'s parasitic scorpion armor**, condensing it into a **scorpion-plated crest** with a **five-headed dragon sigil**, and granted Rik a **scrying vision** of [[Ricky Jr|Ricky Jr.]] and the tethered [[Marisya]].
+- **Awakened [[Polly]]**, revealing her to be a **Chwinga** fey spirit.
+- **Scolded [[Icarus]]** for drinking his **private reserve** — a potion labelled **"Leomund's Tiny Nut."**
+- **Conjured a raging blizzard** as cover and **teleported the party into [[Hartsvale]]'s slums** for the uprising against [[Lord Kholodan Ghartovich|Lord Kholodan]].

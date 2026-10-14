@@ -22,3 +22,6 @@ Who it is, whether it is the **something in the fae realm** [[Phlumphi]] left to
 ### Session 18
 - Met [[Icarus]] in the **starry astral plane** during his brief displacement mid-combat.
 - **Cryptically warned him of his reckless chaos**, then commanded: ***"Fly, boy. Fly."***
+
+### Session 19
+- Recalled first among [[Icarus]]'s **fractured dying memories** as he fell from the [[Dragon-Skull Cave]] — *the cloaked astral figure urging him to fly, boy, fly*.
