@@ -86,7 +86,8 @@ def changed_md():
         path = line[3:].strip().strip('"')
         if "->" in path:  # renames
             path = path.split("->")[-1].strip().strip('"')
-        if path.endswith(".md") and os.path.exists(path):
+        # Skip dot-dirs (.claude/ skills, .obsidian/): their [[examples]] are not vault notes.
+        if path.endswith(".md") and os.path.exists(path) and not path.startswith("."):
             files.append(path)
     return files
 

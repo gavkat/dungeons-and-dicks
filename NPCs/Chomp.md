@@ -12,3 +12,6 @@ Went mysteriously missing aboard [[The Tempest's Temptation]] ([[Session 3]]) â€
 
 ### Session 3
 - Discovered missing during the search for the captain's bird.
+
+### Session 4
+- [[Krell]] cited the missing wyrmling among his accusations against the party.

@@ -14,6 +14,9 @@ A scorching desert (also rendered *Auronoch*) — territory of the [[Itju-Sha]],
 
 ## Session History
 
+### Session 1
+- Named by [[Riptide]] to [[Rik]] as the desert holding a potential cure for his wife [[Marisya]].
+
 ### Session 7
 - The party washed ashore and was captured by the [[Itju-Sha]].
 

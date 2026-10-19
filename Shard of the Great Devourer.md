@@ -5,7 +5,7 @@
 ---
 
 ## Overview
-An obsidian amulet of [[The Great Devourer]]. It rots ordinary bearers into necrotic husks — black rot consumed [[Riptide]] — but in [[Blackjack]] it found a vessel: it beats in synchronicity with his heart, making him the **Shepherd**.
+An obsidian amulet of [[The Great Devourer]]. It rots ordinary bearers into necrotic husks — black rot consumed [[Riptide]] — but in [[Blackjack]] it found a vessel: it beats in synchronicity with his heart, making him the **Shepherd** ([[Session 9]]).
 
 ## Chain of Custody
 1. [[The Traveler]] → [[Riptide]] (dark pact, before [[Session 1]]).
