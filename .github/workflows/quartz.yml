@@ -1,0 +1,77 @@
+name: Publish site with Quartz
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+# Let a newer push replace a queued deploy, but never cancel one mid-flight.
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+env:
+  # Quartz v4.5.2. Pinned so an upstream change can't break the site unannounced;
+  # bump deliberately and check the build log.
+  QUARTZ_REF: d25a6eabf96751ffca56f8a8139272def7a65041
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out the vault
+        uses: actions/checkout@v4
+        with:
+          path: vault
+          # Full history, so each page shows when its note last changed.
+          fetch-depth: 0
+
+      - name: Check out Quartz
+        run: |
+          git init quartz
+          git -C quartz fetch --depth 1 https://github.com/jackyzha0/quartz.git "$QUARTZ_REF"
+          git -C quartz checkout FETCH_HEAD
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+          cache-dependency-path: quartz/package-lock.json
+
+      - name: Install Quartz
+        working-directory: quartz
+        run: npm ci
+
+      - name: Configure Pages
+        id: pages
+        uses: actions/configure-pages@v5
+
+      - name: Copy the vault into Quartz
+        # base_url is e.g. https://gavkat.github.io/dungeons-and-dicks; Quartz wants it without the protocol.
+        run: vault/.github/scripts/prepare-quartz.sh vault quartz "${BASE_URL#*://}"
+        env:
+          BASE_URL: ${{ steps.pages.outputs.base_url }}
+
+      - name: Build
+        working-directory: quartz
+        run: npx quartz build
+
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: quartz/public
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
