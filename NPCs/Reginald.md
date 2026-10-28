@@ -15,3 +15,6 @@ Not yet met on-screen, and it is unclear whether he is even in [[Hartsvale]]. In
 
 ### Session 15
 - Named as [[Icarus]]'s father; Kenku associated with him appear in [[Hartsvale]]. [[Kenky]] mimicked Reginald's voice to trap Icarus.
+
+### Session 20
+- **His corpse** — so the recap calls it, "the corpse of his father" — mocked [[Icarus]] for his **false godhood and vanity** in the [[Baba Yaga]]'s psychic shroud. A nightmare: nothing in the source says Reginald is actually dead.

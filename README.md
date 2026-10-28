@@ -53,10 +53,11 @@ The full cast, places, factions, and lore are indexed on the **[Lost Mine of Pha
 | | | 17 | [The Spine of the World](Sessions/Session%2017.md) |
 | | | 18 | [Devil in the Ice](Sessions/Session%2018.md) |
 | | | 19 | [Do You Hear the People Sing?](Sessions/Session%2019.md) |
+| | | 20 | [Twilight](Sessions/Session%2020.md) |
 
 ### The Party
 
-[Wild Fury](Shared/Wild%20Fury.md) · [Lord Icarus Valerius Corvus III](Party/Icarus.md) · [Jack "Blackjack" Blackwood](Party/Blackjack.md) · [Rik "The Bone Crusher" Magnus](Party/Rik.md) — collectively, [The Boner Bros](Boner%20Bros.md)
+[Wild Fury](Shared/Wild%20Fury.md) · [Lord Icarus Valerius Corvus III](Party/Icarus.md) · [Jack "Blackjack" Blackwood](Party/Blackjack.md) · [Rik "The Bone Crusher" Magnus](Party/Rik.md) · [X the Hamster](Party/X%20the%20Hamster.md) — collectively, [The Boner Bros](Boner%20Bros.md)
 
 Companions: [Gearsley](NPCs/Gearsley.md) · [Dave](Shared/Dave.md) · [Polly](NPCs/Polly.md)
 
@@ -66,7 +67,7 @@ Companions: [Gearsley](NPCs/Gearsley.md) · [Dave](Shared/Dave.md) · [Polly](NP
 
 **Allies & contacts:** [Koa](NPCs/Koa.md) · [Halia](Shared/Halia.md) · [Glenn](Shared/Glenn.md) · [Vespera](NPCs/Vespera.md) · [Kaelen](NPCs/Kaelen.md) · [Marisya](NPCs/Marisya.md) · [Ricky Jr.](NPCs/Ricky%20Jr.md) · [Vlad](NPCs/Vlad.md) · [Garvin](NPCs/Garvin.md)
 
-**Hartsvale:** [Lord Kholodan Ghartovich](NPCs/Lord%20Kholodan%20Ghartovich.md) · [Princess Zaria](NPCs/Princess%20Zaria.md) · [The White Claw / Wild Fury II (Wild Fury's father)](NPCs/The%20White%20Claw%20%28Champion%29.md) · [The Krug Gladiators](NPCs/Krug%20Gladiators.md) · [Kenky](NPCs/Kenky.md) · [Reginald](NPCs/Reginald.md)
+**Hartsvale:** [Lord Kholodan Ghartovich](NPCs/Lord%20Kholodan%20Ghartovich.md) · [Princess Zaria (the Baba Yaga)](NPCs/Princess%20Zaria.md) · [The White Claw / Wild Fury II (Wild Fury's father)](NPCs/The%20White%20Claw%20%28Champion%29.md) · [The Krug Gladiators](NPCs/Krug%20Gladiators.md) · [Kenky](NPCs/Kenky.md) · [Reginald](NPCs/Reginald.md)
 
 **Mysteries:** [Mordenkainen](Shared/Mordenkainen.md) · [Kaza-Rul](NPCs/Kaza-Rul.md) · [Vraxis](NPCs/Vraxis.md) · [Dew Dew Bun](NPCs/Dew%20Dew%20Bun.md) · [Phlumphi](NPCs/Phlumphi.md) · [The Cloaked Figure](NPCs/The%20Cloaked%20Figure.md) · [Archibald](NPCs/Archibald.md) · [The Crimson-Hooded Stranger](NPCs/The%20Crimson-Hooded%20Stranger.md)
 
@@ -82,7 +83,7 @@ Companions: [Gearsley](NPCs/Gearsley.md) · [Dave](Shared/Dave.md) · [Polly](NP
 
 ### Lore & Items
 
-[The Tethered](The%20Tethered.md) · [Vox of the Dark Six](Vox%20of%20the%20Dark%20Six.md) · [Draconic Containment Accord](Draconic%20Containment%20Accord.md) · [Shard of the Great Devourer](Shard%20of%20the%20Great%20Devourer.md) · [Sending Phone](Sending%20Phone.md) · [Flame Tongue Whip](Flame%20Tongue%20Whip.md) · [Ring of the Rotten](Ring%20of%20the%20Rotten.md) · [Wand of Secrets](Wand%20of%20Secrets.md) · [Immovable Rod](Immovable%20Rod.md) · [Mysterious Book](Mysterious%20Book.md) · [Elven Lute](Elven%20Lute.md) · [Arcane Dampener Collar](Arcane%20Dampener%20Collar.md) · [Wyrmreaver Gauntlets](Wyrmreaver%20Gauntlets.md) · [Wand of Wonder](Wand%20of%20Wonder.md) · [Thoughts & Prayers](Thoughts%20%26%20Prayers.md) · [Dragon Saver](Dragon%20Saver.md)
+[The Tethered](The%20Tethered.md) · [Vox of the Dark Six](Vox%20of%20the%20Dark%20Six.md) · [The White Fury](The%20White%20Fury.md) · [Draconic Containment Accord](Draconic%20Containment%20Accord.md) · [Shard of the Great Devourer](Shard%20of%20the%20Great%20Devourer.md) · [Sending Phone](Sending%20Phone.md) · [Flame Tongue Whip](Flame%20Tongue%20Whip.md) · [Ring of the Rotten](Ring%20of%20the%20Rotten.md) · [Wand of Secrets](Wand%20of%20Secrets.md) · [Immovable Rod](Immovable%20Rod.md) · [Mysterious Book](Mysterious%20Book.md) · [Elven Lute](Elven%20Lute.md) · [Arcane Dampener Collar](Arcane%20Dampener%20Collar.md) · [Wyrmreaver Gauntlets](Wyrmreaver%20Gauntlets.md) · [Wand of Wonder](Wand%20of%20Wonder.md) · [Thoughts & Prayers](Thoughts%20%26%20Prayers.md) · [Dragon Saver](Dragon%20Saver.md)
 
 ---
 

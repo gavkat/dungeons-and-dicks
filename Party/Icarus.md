@@ -7,8 +7,9 @@
 You are **Lord Icarus Valerius Corvus III**, a flamboyant noble sorcerer on a "rehabilitation" mission — rehabilitation, specifically, from *eating birds*. Served loyally (and lethally protected) by his butler [[Gearsley]].
 
 **Core Traits:**
-- Wild Magic sorcerer: surges have reincarnated him, turned him into a potted plant, and blasted the party with apocalyptic visions.
-- Spells seen: Minor Illusion, Hold Person, Polymorph, Fireball, high-voltage lightning.
+- Wild Magic sorcerer: surges have reincarnated him, turned him into a potted plant (twice — the second time seconds after half-incinerating [[Lord Kholodan Ghartovich|Lord Kholodan]], [[Session 20]]), and blasted the party with apocalyptic visions.
+- Spells seen: Minor Illusion, Hold Person, Polymorph, Fireball, high-voltage lightning — and, in [[Session 20]], a **Stormwing Strike** of blue lightning, a **teleport**, a **pterodactyl** polymorph, and the **critical conflagration** that melted the [[Baba Yaga]].
+- **Has a fan:** **[[X the Hamster|X]]**, a giant space hamster and erotic graphic novelist, crossed from the Astral Plane to find him as his muse — carrying an **IOU signed by Icarus** ([[Session 20]]).
 - Has died **twice** ([[Session 1]], [[Session 7]]) and come back both times — and was **killed a third time** by [[Vraxis]] in [[Session 18]], his heart stopped by lightning and his body thrown into an abyss — and came back **again** ([[Session 19]]): pulled out of a black void of **five taloned silhouettes** by **a familiar voice** that joked **saving an immortal god was getting embarrassing**.
 - **Currently a pink-haired human** ([[Session 19]]): his half-orc corpse **split into golden ash** and he stepped out of it. A **sneeze** of **sparking blue lightning** can temporarily shift him into an **avian Stormwing form**.
 - Previously a hulking half-orc with shocking pink hair (reincarnated, [[Session 8]]) — a body revealed to belong to **Gradley**, the lost brother of [[Garvin]] ([[Session 14]]), and now ash. Originally rode the opulent "Aurora Sovereign" car.
@@ -93,3 +94,10 @@ You are **Lord Icarus Valerius Corvus III**, a flamboyant noble sorcerer on a "r
 - Received a **protective charm** from [[Polly]], newly awakened by [[Vraxis]] as a **Chwinga**.
 - **Chugged a potion he misread as a hut** — the scratched label read **"Leomund's Tiny Nut"** — and was swept by a **scandalous wave of euphoric relief** while [[Vraxis]] scolded him for **drinking his private reserve**.
 - In [[Lord Kholodan Ghartovich|Kholodan]]'s throne room, triggered an **erratic wild surge** that turned **the entire party invisible**, turning the fight against the [[Gnoll Enforcers|gnoll enforcers]] into an ambush.
+
+### Session 20
+- **Paralyzed the white-fury [[Vlad]]**, **warped [[Lord Kholodan Ghartovich|Kholodan]] out of his globe of invulnerability**, and — as [[X the Hamster|X]] crashed through the ceiling — hit the Lord with a **Stormwing Strike** that **incinerated half his body**, before **wild magic turned him into a potted houseplant**.
+- Back on his feet as the mob turned, **polymorphed into a pterodactyl** to fly an **invisible [[Princess Zaria|Zarya]]** out, and **deployed fly charms** that turned [[Rik]] and [[Wild Fury|Wild Fury III]] into **flies**.
+- In the [[Baba Yaga]]'s psychic shroud, **choked in a stagnant mire**, mocked for his **false godhood and vanity** by **the corpse of his father**.
+- **Tore free with a newfound sense of self-worth** and unleashed a **critical conflagration** that **melted the Baba Yaga's husk into slag**; then **teleported into the air to seize the falling-star projection** so the party could shatter the phylactery.
+- Unbeknownst to him, had been seen on the **Astral Plane** by [[X the Hamster|X]] the day before — an apparition of his **pink-haired half-orc** self, lingering from his [[Session 18]] astral detour. X followed it to Faerûn and **joined the party**.

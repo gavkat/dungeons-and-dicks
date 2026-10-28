@@ -17,3 +17,6 @@ Its **first test**, aimed at a fleeing [[Yeti-Tykes|yeti-tyke]], came out **inad
 - Recovered from **[[Archibald]]**'s frozen remains and **attuned by [[Wild Fury|Wild Fury III]]**.
 - Identified by **[[The White Claw (Champion)|Wild Fury II]]** as a relic once wielded by a **drunken townsfolk wizard**.
 - **First use:** an inadvertent **gale** that killed a fleeing [[Yeti-Tykes|yeti-tyke]] against the cavern wall.
+
+### Session 20
+- **Second use:** triggered by [[Wild Fury|Wild Fury III]] in the chaos of the [[Baba Yaga]]'s reveal, it **conjured a live rhinoceros** into an already-crammed tavern suite.

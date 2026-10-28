@@ -20,15 +20,17 @@ Channelled through the oracle [[Ilbryn Darksight|Ilbryn]] — who briefly posses
 This recontextualises the campaign's frozen turn: the world did not simply change around the party — *they* changed it, by killing a god's avatar.
 
 ## Known Voxes
-Per [[Ilbryn Darksight|Ilbryn]]'s warning, **one Vox has been executed and five remain**:
+Per [[Ilbryn Darksight|Ilbryn]]'s warning, **one Vox had been executed and five remained** ([[Session 13]]). Since then, a second has fallen — leaving, by that count, **four**:
 - **[[Tzentak]]** — executed ([[Session 11]]); the catalyst of the great freeze.
-- The **five remaining** Voxes are unidentified. The whisper *"pieces of six"* carried by [[Polly]] may yet name them.
+- **The [[Baba Yaga]]** — executed ([[Session 20]]). Wore the body of **[[Princess Zaria|Princess Zarya]]** of [[Hartsvale]], born of [[Lord Kholodan Ghartovich|Lord Kholodan]]'s **bargain with a falling star and [[The Dark Six]]** for **an avatar of fury**. Its phylactery was the **obsidian star** in her crown, shattered with the [[Immovable Rod]] — **breaking the God's tether** — and the valley's **eternal blizzard began to thaw**. The source does not name the God (*The Fury* is the obvious inference).
+- The **remaining** Voxes are unidentified. The whisper *"pieces of six"* carried by [[Polly]] may yet name them.
 
 > **Precedent:** In [[Lost Mine of Phandelver|Campaign 1]] the party already faced the [[Vox Spiritus of Beshaba]] — Beshaba's avatar — which is where the term "Vox" originates. How that earlier age's Vox relates to the present count of six is unclear (Ilbryn's warning concerns *this* age).
 
 ## Open Questions
 - Which gods do the five surviving Voxes embody? ([[The Great Devourer]] and [[The Traveler]] are suspected Dark Six members.)
 - Is the [[Sovereign Prophet]], herald of [[The Great Devourer]], tied to a Vox?
-- Does each Vox have a phylactery like Tzentak's heart — and can they all be unmade the same way?
+- Does each Vox have a phylactery like Tzentak's heart — and can they all be unmade the same way? **Two for two so far ([[Session 20]]):** the Baba Yaga's was an obsidian star, and breaking it broke the God's tether.
+- Tzentak's death froze the world; the Baba Yaga's **began a thaw** over [[Hartsvale]]'s valley. Is each Vox holding up part of the freeze?
 
 See [[The Dark Six]] · [[Open Threads]].

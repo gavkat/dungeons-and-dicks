@@ -3,7 +3,7 @@
 **Tags:** #character #npc #Campaign2
 
 ## Description
-The **ruler of [[Hartsvale]]**, first known through the campfire lore of [[Vlad]] ([[Session 14]]) — who described his ruling style, and later confessed to being the **exiled brother of Hartsvale's ruler**.
+**The late** ruler of [[Hartsvale]] — **beheaded by [[Rik]]** in his own throne room ([[Session 20]]) — first known through the campfire lore of [[Vlad]] ([[Session 14]]) — who described his ruling style, and later confessed to being the **exiled brother of Hartsvale's ruler**.
 
 Seen properly in [[Session 16]]: **blue-skinned, white-haired and pointed-eared**, crowned in gold and seated on a **rune-carved ice throne** with a **frost scepter**, before a hearth bearing a **stag-and-gear emblem**, attended by **gnoll honor guards**.
 
@@ -15,6 +15,8 @@ First seen in [[Session 15]], presiding over [[Hartsvale]]: welcoming guests at 
 Why a frost giant lord wants that thing **caged rather than dead** — and whether his story about it causing [[Hartsvale]]'s nightmares is true — is the open question. **[[Session 18]] answered it in the worst way for him:** [[Vraxis]], who lives in the mountain, told the party the mountain **merely echoes nightmares bred within Kholodan's own castle**. If the dragon is right, the lord sent the party three days across the tundra to cage something for a haunting **he is hosting**.
 
 **[[Session 19]] gave him a motive.** In an **abandoned infirmary** reached through the castle **catacombs**, the party found the **unburied corpse of his late wife** and a **journal detailing her fatal childbirth** — the loss that **drove the Lord to madness and dark bargains**. Cornered in his throne room by an uprising the party had stirred up, he fought from inside an **impervious protective orb** behind three **[[Gnoll Enforcers|gnoll enforcers]]**, and when they crumbled he **pulled a lever that dropped a caged [[Vlad]]** into the fight — his own brother, eyes ablaze with **the same white fury that had claimed Wild Fury II**.
+
+**[[Session 20]] ended him — and explained him.** [[Icarus]] warped him out of his globe of invulnerability and burned away **half his body** with a Stormwing Strike; he **pleaded for his daughter's life**, and [[Rik]] **beheaded him** with one greatsword sweep and **drop-kicked the head into the mob**. His death **freed [[Vlad]]** of the [[The White Fury|white fury]]. That night, the [[Baba Yaga]]'s nightmares showed his past: **weeping over his wife dying in childbirth**, he **bargained to a falling star and [[The Dark Six]] to birth an avatar of fury**. The daughter he begged for, **[[Princess Zaria|Zarya]]** — whose crown-star was **a wish made when her mother died** — was, by every sign, that avatar — the **Baba Yaga**, a **[[Vox of the Dark Six|Vox]]**.
 
 ## Session History
 
@@ -42,3 +44,9 @@ Why a frost giant lord wants that thing **caged rather than dead** — and wheth
 - His secret was found in the **catacombs**: an **abandoned infirmary** holding the **unburied corpse of his late wife** and a **journal detailing her fatal childbirth**, which had **driven him to madness and dark bargains**.
 - Confronted in the throne room, **ensconced within an impervious protective orb** behind three **[[Gnoll Enforcers|gnoll enforcers]]**.
 - As his guard crumbled, **slammed an overhead lever** that dropped an **iron cage** from the ceiling, **releasing [[Vlad]]** with **feral white fury** in his eyes.
+
+### Session 20
+- Fought from a **globe of invulnerability** while the white-fury [[Vlad]] fell from his cage; **warped out of it** by [[Icarus]] and **half-incinerated** by a **Stormwing Strike**.
+- As the mob battered down the doors, **pleaded for his daughter's life** — and was **executed by [[Rik]]** with a single greatsword sweep, his **severed head drop-kicked into the roaring crowd**.
+- His death **freed [[Vlad]]**.
+- Revealed in the [[Baba Yaga]]'s nightmare visions **weeping over his dying wife in childbirth** and **bargaining to a falling star and [[The Dark Six]] to birth an avatar of fury** — [[Princess Zaria|Zarya]].

@@ -4,6 +4,8 @@
 
 ---
 
+> **[[Session 20]]:** [[Lord Kholodan Ghartovich|Lord Kholodan]] is dead, [[Princess Zaria|the Twilight Maiden]] was the [[Baba Yaga]], and at dawn the **eternal blizzard began to thaw over the valley**.
+
 ## Overview
 A city to the **north**, across the frozen tundra — the party's heading after the events of [[Holly Hollow]]. Reaching it was the reason the [[Boner Bros]] needed extra transport, prompting them to swindle a local merchant out of two **polar bear mounts** for ten gold ([[Session 13]]).
 
@@ -47,3 +49,8 @@ From [[Vlad]]'s campfire telling ([[Session 14]]) — Vlad himself is an exile o
 - **The city rose.** The party stoked the crowd into revolutionary fervor against [[Lord Kholodan Ghartovich|Kholodan]]'s cruelty; at dawn an **armed mob** marched behind the **bards' rolling stage** and **clashed with the city guard**.
 - A **[[The Crimson-Hooded Stranger|crimson-hooded stranger]]** appeared to [[Rik]] in the tavern and vanished.
 - Beneath the castle: **catacombs** and an **abandoned infirmary** holding the **unburied corpse of Kholodan's late wife**. Above it: the **throne room**, where Kholodan fought from a **protective orb** behind [[Gnoll Enforcers|gnoll enforcers]] and released [[Vlad]] from a **ceiling cage**.
+
+### Session 20
+- **The throne room fell.** [[Rik]] beheaded [[Lord Kholodan Ghartovich|Lord Kholodan]] and drop-kicked the head to the **revolutionary mob** as it battered down the doors — and the mob, eyes overtaken by the **infectious [[The White Fury|white fury]]**, turned on [[Princess Zaria|Princess Zarya]]. [[Vlad]] held the doorway while the party escaped.
+- In the **vacant king's suite of a tavern**, patrons below still humming the anthem [[Wild Fury]] had commissioned, Zarya was revealed as the **[[Baba Yaga]]** — a [[Vox of the Dark Six|Vox]] — and destroyed with her star-phylactery.
+- **At dawn, the eternal blizzard finally began to thaw over the valley.** Who now rules the city is not stated.
