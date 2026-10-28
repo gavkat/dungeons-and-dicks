@@ -36,27 +36,32 @@ Before moving on, write yourself a short plain-text list of **every concrete fac
 The vault has a consistent house style. Match it exactly; a page that looks foreign is a tell that it was bolted on. Read these first:
 
 - `README.md` — the navigation hub: campaign session tables and the full entity index (grouped: Antagonists, Allies, Places, Factions, Items…).
-- The campaign hub for the campaign this session belongs to (`Echoes of Phandelver.md` for Campaign 2, `Campaign 1/Lost Mine of Phandelver.md` for Campaign 1) — has the session list, a "Story So Far" narrative, and a party/quest table.
-- `Open Threads.md` — Active Quests, Mysteries, Debts & Enemies. This is where unresolved hooks live and get resolved.
+- The campaign hub for the campaign this session belongs to (`Campaign 2/Echoes of Phandelver.md` for Campaign 2, `Campaign 1/Lost Mine of Phandelver.md` for Campaign 1) — has the session list, a "Story So Far" narrative, and a party/quest table.
+- `Campaign 2/Open Threads.md` — Active Quests, Mysteries, Debts & Enemies. This is where unresolved hooks live and get resolved.
 - **The most recent existing session page** — copy its exact structure.
 - One existing page of **each entity type you'll touch** (a PC, an NPC, a location, a faction, an item), to copy their structure.
 
 ### Where things live (folder → type)
 
-| Folder | Contents |
-|---|---|
-| `Sessions/` | Campaign 2 sessions, named `Session N.md` (bare number) |
-| `Campaign 1/Sessions/` | Campaign 1 sessions, named `Session N - Title.md` |
-| `Party/`, `Campaign 1/Party/` | player characters (PCs) |
-| `NPCs/`, `Campaign 1/NPCs/` | non-player characters |
-| `Shared/` | people/places/powers that appear in **both** campaigns (one page, linked from both) |
-| repo root (`./`) | most Campaign 2 locations, factions, items, and lore |
+Each campaign has its own folder — `Campaign 1/` (Lost Mine of Phandelver) and `Campaign 2/` (Echoes of Phandelver) — with the campaign hub at its top level and the same subfolders inside:
 
-Which campaign does this session belong to? Check the recap's title/branding and the most recent session number. Put the new session and its new entities in that campaign's folders (Campaign 2 → `Sessions/`, `NPCs/`, root; use `Shared/` only if the entity genuinely spans both campaigns).
+| Subfolder | Contents |
+|---|---|
+| `Sessions/` | session pages — Campaign 2 named `Session N.md` (bare number), Campaign 1 named `Session N - Title.md` |
+| `Party/` | player characters (PCs); Campaign 2's also holds the party page `Boner Bros.md` |
+| `NPCs/` | non-player characters |
+| `Places/` | locations (`#Location`) |
+| `Factions/` | factions and organizations (`#Faction`) |
+| `Items/` | items and weapons (`#Item`) |
+| `Lore/` | lore, mechanics, deities and other powers (`#Lore`, `#Deity`) |
+
+Top-level `Shared/` holds people/places/powers that appear in **both** campaigns (one page, linked from both). Only `README.md` lives at the repo root — don't add notes there.
+
+Which campaign does this session belong to? Check the recap's title/branding and the most recent session number. Put the new session and its new entities in that campaign's folders (Campaign 2 → `Campaign 2/Sessions/`, `Campaign 2/NPCs/`, `Campaign 2/Places/`, …); use `Shared/` only if the entity genuinely spans both campaigns.
 
 ### Page templates (match these)
 
-**Session page** (`Sessions/Session N.md`):
+**Session page** (`Campaign 2/Sessions/Session N.md`):
 ```markdown
 # Session N: Title
 
@@ -119,16 +124,16 @@ Ripple the session outward. For **each** affected existing page:
 
 Then the **hubs** (easy to forget, and the most visible). Work through this checklist **every session, item by item** — these are the pages readers land on, and a stale hub is the most visible failure:
 
-- [ ] **`Echoes of Phandelver.md`** (or `Campaign 1/Lost Mine of Phandelver.md`) — the campaign hub. Every one of these sections:
+- [ ] **`Campaign 2/Echoes of Phandelver.md`** (or `Campaign 1/Lost Mine of Phandelver.md`) — the campaign hub. Every one of these sections:
   - [ ] **Party table** — re-read **every row, both columns**, not just the characters who starred. A row is stale if the session changed that PC's body, gear, status (dead, hostage, missing), or quest.
   - [ ] **Companions line** — still accurate (revealed natures, abductions)?
   - [ ] **The Story So Far** — extend the current Act with the new beats (or open a new Act if the campaign clearly turned a corner).
   - [ ] **Sessions** list — append `[[Session N]]`.
   - [ ] **Key Antagonists** — add new ones; update the parenthetical status of any the session changed (dead, allied, revealed, unleashed).
   - [ ] **Places / Factions & Powers / Notable Items** — add every new page of those types.
-- [ ] **`README.md`** — session table row; new entities on the right line of the entity index (URL-encoded markdown links, e.g. `[Name](NPCs/Name.md)` with `%20`/`%28`/`%29`).
-- [ ] **`Boner Bros.md`** — the party page has *current-state* summaries: **Members** and **Companions** bullets (re-read every bullet, same as the hub party table) and a **Known History** bullet for the session.
-- [ ] **`Open Threads.md`** — high-value. Move resolved hooks to a resolved state (the vault marks these inline, e.g. `**FOUND (Session N)**` or strikethrough), add new quests/mysteries the session opened, and update ones that advanced — including **Debts & Enemies**. A session that answers an old mystery *and* opens two new ones should show all three.
+- [ ] **`README.md`** — session table row; new entities on the right line of the entity index (URL-encoded markdown links, e.g. `[Name](Campaign%202/NPCs/Name.md)` with `%20`/`%28`/`%29`).
+- [ ] **`Campaign 2/Party/Boner Bros.md`** — the party page has *current-state* summaries: **Members** and **Companions** bullets (re-read every bullet, same as the hub party table) and a **Known History** bullet for the session.
+- [ ] **`Campaign 2/Open Threads.md`** — high-value. Move resolved hooks to a resolved state (the vault marks these inline, e.g. `**FOUND (Session N)**` or strikethrough), add new quests/mysteries the session opened, and update ones that advanced — including **Debts & Enemies**. A session that answers an old mystery *and* opens two new ones should show all three.
 
 **Current-state summaries go stale silently.** A `### Session N` history entry only *adds*; it never corrects the summary above it. So whenever the session changes something durable, grep the vault for the old fact and fix every summary that still states it — description paragraphs, Core Traits, "Currently…", "Status:", "known so far only…", hub table cells, roster bullets. (Example: a PC resurrected in a new body was still "twice dead, currently a half-orc" on `Boner Bros.md` — the history said otherwise, the roster didn't.)
 
