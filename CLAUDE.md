@@ -40,7 +40,7 @@ Only `README.md` and `CLAUDE.md` go at the repo root. Never add notes there. Eac
 
 The campaign hub pages, and Campaign 2's `Open Threads.md`, sit at the top of their campaign folder.
 
-Use `Shared/` only for something that really appears in both campaigns, such as Wild Fury, Glenn, Ilbryn Darksight, Mordenkainen/Prometheus, Dave, Halia, Agatha the Hag, the Wolfpack, the Dark Six, Tymora, Beshaba, the Ilefarn, Phandelver's Pact, Leilon, Phandelver and the Lionshield Coster. `Shared/` has no subfolders. When an entity from one campaign first turns up in the other, move its note into `Shared/` and add `#Shared #Campaign1 #Campaign2` to its tags. Don't create a second page for it.
+Use `Shared/` only for something that really appears in both campaigns, such as Wild Fury, Glenn, Ilbryn Darksight, Dew-Dew Bun, Mordenkainen/Prometheus, Dave, Halia, Agatha the Hag, the Wolfpack, the Dark Six, Tymora, Beshaba, the Ilefarn, Phandelver's Pact, Leilon, Phandelver and the Lionshield Coster. `Shared/` has no subfolders. When an entity from one campaign first turns up in the other, move its note into `Shared/` and add `#Shared #Campaign1 #Campaign2` to its tags. Don't create a second page for it.
 
 ### Naming
 
@@ -63,7 +63,7 @@ Use `Shared/` only for something that really appears in both campaigns, such as 
 
 ## Publishing
 
-`.github/workflows/quartz.yml` builds the site with Quartz and deploys it to GitHub Pages on every push to `main`. `.github/scripts/prepare-quartz.sh` copies the vault into Quartz, leaving out the dot-folders, `CLAUDE.md`, `_config.yml` and canvases, and turns `README.md` into the homepage. `fix-links-for-quartz.py` fixes links Quartz can't resolve (e.g. `Dew-Dew Bun` vs `Dew Dew Bun`). Folder names become part of the site's page addresses.
+`.github/workflows/quartz.yml` builds the site with Quartz and deploys it to GitHub Pages on every push to `main`. `.github/scripts/prepare-quartz.sh` copies the vault into Quartz, leaving out the dot-folders, `CLAUDE.md`, `_config.yml` and canvases, and turns `README.md` into the homepage. `fix-links-for-quartz.py` fixes links Quartz can't resolve (e.g. two notes whose names differ only in spaces vs hyphens, like `A-B` and `A B`). Folder names become part of the site's page addresses.
 
 ## Don't
 

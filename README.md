@@ -84,7 +84,7 @@ Companions: [Gearsley](Campaign%202/NPCs/Gearsley.md) · [Dave](Shared/Dave.md) 
 
 **Hartsvale:** [Lord Kholodan Ghartovich](Campaign%202/NPCs/Lord%20Kholodan%20Ghartovich.md) · [Princess Zaria (the Baba Yaga)](Campaign%202/NPCs/Princess%20Zaria.md) · [The White Claw / Wild Fury II (Wild Fury's father)](Campaign%202/NPCs/The%20White%20Claw%20%28Champion%29.md) · [The Krug Gladiators](Campaign%202/NPCs/Krug%20Gladiators.md) · [Kenky](Campaign%202/NPCs/Kenky.md) · [Reginald](Campaign%202/NPCs/Reginald.md)
 
-**Mysteries:** [Mordenkainen](Shared/Mordenkainen.md) · [Kaza-Rul](Campaign%202/NPCs/Kaza-Rul.md) · [Vraxis](Campaign%202/NPCs/Vraxis.md) · [Dew Dew Bun](Campaign%202/NPCs/Dew%20Dew%20Bun.md) · [Phlumphi](Campaign%202/NPCs/Phlumphi.md) · [The Cloaked Figure](Campaign%202/NPCs/The%20Cloaked%20Figure.md) · [Archibald](Campaign%202/NPCs/Archibald.md) · [The Crimson-Hooded Stranger](Campaign%202/NPCs/The%20Crimson-Hooded%20Stranger.md)
+**Mysteries:** [Mordenkainen](Shared/Mordenkainen.md) · [Kaza-Rul](Campaign%202/NPCs/Kaza-Rul.md) · [Vraxis](Campaign%202/NPCs/Vraxis.md) · [Dew-Dew Bun](Shared/Dew-Dew%20Bun.md) · [Phlumphi](Campaign%202/NPCs/Phlumphi.md) · [The Cloaked Figure](Campaign%202/NPCs/The%20Cloaked%20Figure.md) · [Archibald](Campaign%202/NPCs/Archibald.md) · [The Crimson-Hooded Stranger](Campaign%202/NPCs/The%20Crimson-Hooded%20Stranger.md)
 
 **The Bottom Feeders crew:** [Captain Siren Shellsword](Campaign%202/NPCs/Captain%20Siren%20Shellsword.md) · [Krell](Campaign%202/NPCs/Krell.md) · [Sauriv](Campaign%202/NPCs/Sauriv.md) · [Riptide](Campaign%202/NPCs/Riptide.md) · [Chomp](Campaign%202/NPCs/Chomp.md)
 
@@ -106,7 +106,7 @@ Companions: [Gearsley](Campaign%202/NPCs/Gearsley.md) · [Dave](Shared/Dave.md) 
 
 One page each, linked from both vaults:
 
-[Wild Fury](Shared/Wild%20Fury.md) · [Glenn](Shared/Glenn.md) · [Mordenkainen / Prometheus](Shared/Mordenkainen.md) · [Dave](Shared/Dave.md) · [Halia](Shared/Halia.md) · [Agatha the Hag](Shared/Agatha%20the%20Hag.md) · [The Wolfpack](Shared/Wolfpack.md) · [Lionshield Coster](Shared/Lionshield%20Coster.md) · [Phandelver](Shared/Phandelver.md) · [Leilon](Shared/Leilon.md) · [The Dark Six](Shared/The%20Dark%20Six.md) · [Ilbryn Darksight](Shared/Ilbryn%20Darksight.md) · [Tymora](Shared/Tymora.md) · [Beshaba](Shared/Beshaba.md) · [The Ilefarn](Shared/The%20Ilefarn.md) · [Phandelver's Pact](Shared/Phandelver's%20Pact.md)
+[Wild Fury](Shared/Wild%20Fury.md) · [Glenn](Shared/Glenn.md) · [Mordenkainen / Prometheus](Shared/Mordenkainen.md) · [Dave](Shared/Dave.md) · [Halia](Shared/Halia.md) · [Agatha the Hag](Shared/Agatha%20the%20Hag.md) · [The Wolfpack](Shared/Wolfpack.md) · [Lionshield Coster](Shared/Lionshield%20Coster.md) · [Phandelver](Shared/Phandelver.md) · [Leilon](Shared/Leilon.md) · [The Dark Six](Shared/The%20Dark%20Six.md) · [Ilbryn Darksight](Shared/Ilbryn%20Darksight.md) · [Tymora](Shared/Tymora.md) · [Beshaba](Shared/Beshaba.md) · [The Ilefarn](Shared/The%20Ilefarn.md) · [Phandelver's Pact](Shared/Phandelver's%20Pact.md) · [Dew-Dew Bun](Shared/Dew-Dew%20Bun.md)
 
 ---
 

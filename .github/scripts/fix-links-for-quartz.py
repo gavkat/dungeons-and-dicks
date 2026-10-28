@@ -3,8 +3,8 @@
 Usage: python3 fix-links-for-quartz.py <content-dir>
 
 - Notes whose names differ only in characters Quartz drops from URLs (e.g.
-  "Dew-Dew Bun" and "Dew Dew Bun") get the same URL slug, so Quartz can't tell
-  which one [[Dew-Dew Bun]] means. Links to those notes get their folder path.
+  "Ice-Spire" and "Ice Spire") get the same URL slug, so Quartz can't tell
+  which one [[Ice-Spire]] means. Links to those notes get their folder path.
 - Quartz only decodes %20-style escapes in markdown links, so "%2C" and "%26"
   end up in the URL as "percent2C". Those are decoded to "," and "&".
 """
