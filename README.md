@@ -26,7 +26,7 @@ Shared/              anything that appears in both campaigns
 
 ## Campaign 1 — [Lost Mine of Phandelver](Campaign%201/Lost%20Mine%20of%20Phandelver.md)
 
-*The Wolfpack: [Wild Fury III](Shared/Wild%20Fury.md) · [Glenn](Shared/Glenn.md) · [Prometheus](Shared/Mordenkainen.md) · [Ilbryn Darksight](Campaign%201/Party/Ilbryn%20Darksight.md) · [Frederick Iron-Thunder](Campaign%201/Party/Frederick%20Iron-Thunder.md)*
+*The Wolfpack: [Wild Fury III](Shared/Wild%20Fury.md) · [Glenn](Shared/Glenn.md) · [Prometheus](Shared/Mordenkainen.md) · [Ilbryn Darksight](Shared/Ilbryn%20Darksight.md) · [Frederick Iron-Thunder](Campaign%201/Party/Frederick%20Iron-Thunder.md)*
 
 | # | Title | # | Title |
 |---|---|---|---|
@@ -106,7 +106,7 @@ Companions: [Gearsley](Campaign%202/NPCs/Gearsley.md) · [Dave](Shared/Dave.md) 
 
 One page each, linked from both vaults:
 
-[Wild Fury](Shared/Wild%20Fury.md) · [Glenn](Shared/Glenn.md) · [Mordenkainen / Prometheus](Shared/Mordenkainen.md) · [Dave](Shared/Dave.md) · [Halia](Shared/Halia.md) · [Agatha the Hag](Shared/Agatha%20the%20Hag.md) · [The Wolfpack](Shared/Wolfpack.md) · [Lionshield Coster](Shared/Lionshield%20Coster.md) · [Phandelver](Shared/Phandelver.md) · [Leilon](Shared/Leilon.md) · [The Dark Six](Shared/The%20Dark%20Six.md)
+[Wild Fury](Shared/Wild%20Fury.md) · [Glenn](Shared/Glenn.md) · [Mordenkainen / Prometheus](Shared/Mordenkainen.md) · [Dave](Shared/Dave.md) · [Halia](Shared/Halia.md) · [Agatha the Hag](Shared/Agatha%20the%20Hag.md) · [The Wolfpack](Shared/Wolfpack.md) · [Lionshield Coster](Shared/Lionshield%20Coster.md) · [Phandelver](Shared/Phandelver.md) · [Leilon](Shared/Leilon.md) · [The Dark Six](Shared/The%20Dark%20Six.md) · [Ilbryn Darksight](Shared/Ilbryn%20Darksight.md) · [Tymora](Shared/Tymora.md) · [Beshaba](Shared/Beshaba.md) · [The Ilefarn](Shared/The%20Ilefarn.md) · [Phandelver's Pact](Shared/Phandelver's%20Pact.md)
 
 ---
 

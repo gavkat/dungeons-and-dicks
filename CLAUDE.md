@@ -40,7 +40,7 @@ Only `README.md` and `CLAUDE.md` go at the repo root. Never add notes there. Eac
 
 The campaign hub pages, and Campaign 2's `Open Threads.md`, sit at the top of their campaign folder.
 
-Use `Shared/` only for something that really appears in both campaigns, such as Wild Fury, Glenn, Mordenkainen/Prometheus, Dave, Halia, Agatha the Hag, the Wolfpack, the Dark Six, Leilon, Phandelver and the Lionshield Coster. `Shared/` has no subfolders. When an entity from one campaign first turns up in the other, move its note into `Shared/` and add `#Shared #Campaign1 #Campaign2` to its tags. Don't create a second page for it.
+Use `Shared/` only for something that really appears in both campaigns, such as Wild Fury, Glenn, Ilbryn Darksight, Mordenkainen/Prometheus, Dave, Halia, Agatha the Hag, the Wolfpack, the Dark Six, Tymora, Beshaba, the Ilefarn, Phandelver's Pact, Leilon, Phandelver and the Lionshield Coster. `Shared/` has no subfolders. When an entity from one campaign first turns up in the other, move its note into `Shared/` and add `#Shared #Campaign1 #Campaign2` to its tags. Don't create a second page for it.
 
 ### Naming
 

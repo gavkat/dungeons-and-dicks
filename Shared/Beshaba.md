@@ -1,6 +1,8 @@
 # Beshaba
 
-**Tags:** #Deity #Campaign1
+**Tags:** #Deity #Shared #Campaign1 #Campaign2
+
+> **Shared across campaigns.** Lady Mischief's avatar plagued the [[Wolfpack]] in [[Lost Mine of Phandelver]] (Campaign 1); in [[Echoes of Phandelver]] (Campaign 2) she is named as "The Mischief" of [[The Dark Six]], and her origin as one of the seven [[The Ilefarn|Ilefarn]] leaders is revealed.
 
 ---
 

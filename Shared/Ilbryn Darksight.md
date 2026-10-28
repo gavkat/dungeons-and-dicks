@@ -1,6 +1,8 @@
 # Ilbryn Darksight
 
-**Tags:** #character #npc #pc #Campaign1
+**Tags:** #character #npc #pc #Shared #Campaign1 #Campaign2
+
+> **Shared across campaigns.** A player character in [[Lost Mine of Phandelver]] (Campaign 1), the Elven Oracle, whose visions reach into [[Echoes of Phandelver]] (Campaign 2), where he briefly possesses [[Rik]] to deliver the warning about the [[Vox of the Dark Six|Vox]].
 
 ## Description
 **Half-Elf/Monk/Rogue.** The sole survivor of the Golden Monastery massacre carried out by [[The Redbrands]], Ilbryn was blinded in the attack and emerged thirsting for vengeance and alcohol in roughly equal measure. A blind monk who hears more than most men see — and who would eventually learn that his sightlessness was the whole point.

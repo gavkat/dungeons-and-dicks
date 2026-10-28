@@ -1,6 +1,8 @@
 # Tymora
 
-**Tags:** #Deity #Campaign1
+**Tags:** #Deity #Shared #Campaign1 #Campaign2
+
+> **Shared across campaigns.** Lady Luck's faithful aided the [[Wolfpack]] in [[Lost Mine of Phandelver]] (Campaign 1); [[Echoes of Phandelver]] (Campaign 2) reveals she was one of the seven [[The Ilefarn|Ilefarn]] leaders and gave the [[Elven Lute]] to her sister [[Beshaba]].
 
 ---
 

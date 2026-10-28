@@ -1,6 +1,8 @@
 # Phandelver's Pact
 
-**Tags:** #Lore #WorldBuilding #Campaign1
+**Tags:** #Lore #Shared #Campaign1 #Campaign2 #WorldBuilding
+
+> **Shared across campaigns.** The ancient alliance behind the [[Wave Echo Cave|Forge of Spells]] is the backstory of [[Lost Mine of Phandelver]] (Campaign 1); in [[Echoes of Phandelver]] (Campaign 2), resentment over it still bars humans and warforged from [[Hartsvale]].
 
 ---
 
