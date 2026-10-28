@@ -24,7 +24,7 @@ from check_links import frontmatter_aliases  # noqa: E402  (same resolution rule
 WIKILINK = re.compile(r"\[\[([^\]|#]+)(?:#[^\]|]+)?(?:\|[^\]]+)?\]\]")
 
 # Pages that must mention every Campaign 2 session.
-HUBS = ["Echoes of Phandelver.md", "README.md"]
+HUBS = ["Campaign 2/Echoes of Phandelver.md", "README.md"]
 # Pages that are only indexes, so a missing session there means nothing.
 SKIP = {"README", "Open Threads", "Echoes of Phandelver", "Lost Mine of Phandelver"}
 
@@ -50,7 +50,7 @@ def mentions(text, n):
 
 
 def check(n, by_name):
-    path = f"Sessions/Session {n}.md"
+    path = f"Campaign 2/Sessions/Session {n}.md"
     if not os.path.exists(path):
         print(f"Session {n}: no {path}")
         return 1
@@ -79,7 +79,7 @@ def check(n, by_name):
 def main(argv):
     by_name = index()
     if argv == ["--all"]:
-        nums = sorted(int(m.group(1)) for p in glob.glob("Sessions/Session *.md")
+        nums = sorted(int(m.group(1)) for p in glob.glob("Campaign 2/Sessions/Session *.md")
                       if (m := re.search(r"Session (\d+)\.md$", p)))
     else:
         nums = [int(a) for a in argv]

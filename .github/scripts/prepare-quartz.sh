@@ -14,7 +14,7 @@ rm -rf "$quartz/content"
 mkdir -p "$quartz/content"
 tar -C "$vault" -cf - \
   --exclude './.github' --exclude './.claude' --exclude './.obsidian' \
-  --exclude './.gitignore' --exclude './_config.yml' --exclude '*.canvas' \
+  --exclude './.gitignore' --exclude './CLAUDE.md' --exclude './_config.yml' --exclude '*.canvas' \
   . | tar -C "$quartz/content" -xf -
 
 # Quartz uses index.md as the homepage.

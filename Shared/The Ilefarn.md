@@ -1,6 +1,8 @@
 # The Ilefarn
 
-**Tags:** #Lore #WorldBuilding #Campaign1
+**Tags:** #Lore #Shared #Campaign1 #Campaign2 #WorldBuilding
+
+> **Shared across campaigns.** The ancient elven nation whose leaders became [[The Dark Six]] is uncovered in [[Lost Mine of Phandelver]] (Campaign 1); [[Echoes of Phandelver]] (Campaign 2) revises the story: there were seven leaders, not six.
 
 ---
 
