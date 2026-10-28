@@ -19,3 +19,6 @@ The reason Rik adventures. The cure lead from [[Riptide]] pointed to [[Anauroch]
 ### Session 19
 - Seen in [[Vraxis]]'s **scrying vision** for [[Rik]]: **bound to a bed, writhing in dark tethering**, beside their son [[Ricky Jr|Ricky Jr.]] — while **a stranger comforted the boy outside**.
 - Called Rik's **dying wife** by a **[[The Crimson-Hooded Stranger|crimson-hooded stranger]]** who warned him he was wasting precious time away from her.
+
+### Session 20
+- Appeared, **dying** beside their son, in [[Rik]]'s [[Baba Yaga]]-born nightmare — set against **monolithic void-monsters leveling cities**. A fear-vision, not news of her.

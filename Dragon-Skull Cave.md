@@ -44,3 +44,6 @@ Behind the dragon mural, the **hidden marble stairway** descends into levels nob
 ### Session 19
 - **The entrance is sealed.** From the frozen ledge outside, the party watched **collapsing stone and dragon bone** close the threshold, **entombing [[The White Claw (Champion)|Wild Fury II]]**.
 - [[Vraxis]] — whose archive lay inside — turned out to have **survived the collapse**.
+
+### Session 20
+- **Revisited only in nightmare:** in the [[Baba Yaga]]'s psychic shroud, [[Wild Fury|Wild Fury III]] **suffocated beneath granite, reliving his father's crushing death**, as the [[Immovable Rod]] clicked into empty air once more. The real rod, it turns out, left the mountain with the party — they used it in [[Hartsvale]] to shatter the Vox's phylactery.

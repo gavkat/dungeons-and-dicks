@@ -55,3 +55,7 @@ His rage, meanwhile, has **outlived his disappearance**: at the end of [[Session
 - **Entombed** as collapsing stone and dragon bone sealed the [[Dragon-Skull Cave]]'s entrance, the party watching in stunned grief.
 - Appeared **unbloodied** in [[Vraxis]]'s vision of **post-attack [[Leilon]] five years earlier**, reminding his son that the [[Lionshield Coster]] was **founded by protectors** and that their true enemies are **the men in velvet coats who pit mortals and dragons against one another**.
 - His **feral white fury** was seen again — in the eyes of [[Vlad]], released from [[Lord Kholodan Ghartovich|Kholodan]]'s cage.
+
+### Session 20
+- **Relived in his son's nightmare.** In the [[Baba Yaga]]'s psychic shroud, [[Wild Fury|Wild Fury III]] **suffocated beneath granite, reliving his father's crushing death** — a fear-vision; the source still shows no body.
+- **The fury that took him, explained in part:** it was **[[The White Fury|infectious]]** — it released [[Vlad]] when [[Lord Kholodan Ghartovich|Kholodan]] died and then took the city's mob — and the nightmares traced it to Kholodan's **bargain for an avatar of fury**, the **[[Princess Zaria|Twilight Maiden]]** whose champion he had been.

@@ -34,3 +34,6 @@ That a frost giant lord would rather have this thing **caged than killed** is th
 - **The party guessed wrong.** Convinced the Devil was **[[Vraxis]]**, "aka [[Baba Yaga]]," they ambushed the cobalt dragon with the **[[Arcane Dampener Collar]]**. He **scoffed at the insult** and said the mountain **merely echoes nightmares bred within [[Lord Kholodan Ghartovich|Lord Kholodan]]'s own castle**.
 - **The errand is in ruins.** The collar was spent on **Wild Fury II**, the cave **collapsed**, and the Devil — if it is down there at all — was **never seen**.
 - The **unseen thief** was resolved as [[Yeti-Tykes|yeti-tykes]], not the Devil or any servant of it.
+
+### Session 20
+- **Probably not the nightmare-maker after all.** The [[Baba Yaga]] turned out to be [[Princess Zaria|Princess Zarya]], inside [[Lord Kholodan Ghartovich|Kholodan]]'s own court — which, by implication, makes his [[Session 16]] claim that the Devil caused [[Hartsvale]]'s nightmares a misdirection. Kholodan is now dead; what the Devil is, and why he wanted it caged, he took with him.

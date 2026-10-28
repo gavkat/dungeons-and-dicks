@@ -25,3 +25,6 @@ Who it is, whether it is the **something in the fae realm** [[Phlumphi]] left to
 
 ### Session 19
 - Recalled first among [[Icarus]]'s **fractured dying memories** as he fell from the [[Dragon-Skull Cave]] — *the cloaked astral figure urging him to fly, boy, fly*.
+
+### Session 20
+- Its words outlived the meeting: on the **Astral Plane**, [[X the Hamster|X]] caught **the lingering command to *"fly, boy, fly"*** along with an apparition of [[Icarus]] — and followed it to Faerûn.

@@ -12,3 +12,6 @@ He raises the stakes of Rik's whole quest. The cure Rik has chased since [[Sessi
 
 ### Session 19
 - Seen in [[Vraxis]]'s **scrying vision** for [[Rik]], **whittling a toy soldier** beside his bedridden, tethered mother [[Marisya]], while **a stranger comforted him outside**.
+
+### Session 20
+- Appeared **dying** beside [[Marisya]] in [[Rik]]'s [[Baba Yaga]]-born nightmare, amid **void-monsters leveling cities** — a fear-vision, not news of him.

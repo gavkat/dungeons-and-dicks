@@ -7,7 +7,7 @@ A massive, **twenty-foot Frost Giant** — yet timid and hunched, nothing like t
 
 Now revealed ([[Session 14]]): Vlad is **exiled from [[Hartsvale]]** — and is the **exiled brother of Hartsvale's ruler**, [[Lord Kholodan Ghartovich]]. His stated crime of "stealing vegetables" turned out to mean **eating disabled children**.
 
-**Last seen ([[Session 19]])** loosed on the party from a ceiling cage in [[Lord Kholodan Ghartovich|Kholodan]]'s throne room, eyes ablaze with **the same feral white fury that had claimed Wild Fury II**.
+Loosed on the party from a ceiling cage in [[Lord Kholodan Ghartovich|Kholodan]]'s throne room with **[[The White Fury|the same feral white fury that had claimed Wild Fury II]]** in his eyes ([[Session 19]]), he was **freed of it when [[Rik]] killed his brother** ([[Session 20]]). **Last seen** bracing his massive frame against the throne-room doorway to hold back the fury-maddened mob while the party escaped; his fate after that is not stated.
 
 ## Role in Campaign
 Introduced at the very end of [[Session 13]], in the frozen wastes on the road north toward [[Hartsvale]]. In [[Session 14]] he became the party's guide and lore-source: sharing Hartsvale's history around the campfire — Lord [[Lord Kholodan Ghartovich|Kholodan Ghartovich]]'s ruling style, the Twilight Maiden [[Princess Zaria]]'s rumored blessed birth, and the dream-entity [[Baba Yaga]] — and leading the [[Boner Bros]] on a **three-day trek** toward the city.
@@ -37,3 +37,8 @@ Despite the accidental cannibalism talk, the party persuaded him to **declare [[
 
 ### Session 19
 - **Caged above the throne room**: when his guard crumbled, [[Lord Kholodan Ghartovich|Kholodan]] **slammed an overhead lever** and an **iron cage crashed from the ceiling**, shattering to **release Vlad** — his eyes **ablaze with the same feral white fury that had claimed [[The White Claw (Champion)|Wild Fury II]]**, roaring as the battle tipped into madness.
+
+### Session 20
+- **Plummeted from his cage** in the grip of the white fury and was **magically paralyzed by [[Icarus]]**.
+- **Freed** of the fury by his brother [[Lord Kholodan Ghartovich|Kholodan]]'s death at [[Rik]]'s hands.
+- When the mob turned on [[Princess Zaria|Zarya]] with the same fury in their eyes, **braced his massive frame against the doorway** to hold back the feral crowd while the party escaped.

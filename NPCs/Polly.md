@@ -37,3 +37,6 @@ The mystery deepened in [[Session 14]]: the cobalt dragon soldier [[Vraxis]] spa
 ### Session 19
 - Named by **the familiar voice** that brought [[Icarus]] back from death: *say hi to Polly*.
 - **Awakened by [[Vraxis]]** and revealed to be a **Chwinga fey spirit**; **bestowed a protective charm on [[Icarus]]**. The session art shows a parrot back on the (now human) Icarus's shoulder in a [[Hartsvale]] tavern.
+
+### Session 20
+- Not named in the recap, but the session art shows a parrot on the shoulder of [[Icarus]]'s **pink-feathered Stormwing form** in the throne-room fight.

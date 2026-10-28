@@ -12,7 +12,7 @@ Six malevolent gods. Campaign 1 uncovers what they are: the **six leaders of the
 The orc god [[Maglubiyet]] once bargained with them to extinguish the warforged ([[Prologue|Prologue]]); the lich [[Szass Tam]] accepted their offer of eternal life when [[Mordenkainen]] refused it.
 
 ## The Voxes
-Each of the Dark Six anchors its power in the world through a **[[Vox of the Dark Six|Vox]]** — a material avatar bound to a hidden phylactery. There are six. The party has already unmade one: Pharaoh [[Tzentak]] was a Vox, and destroying his heart-phylactery ([[Session 11]]) executed him, froze the world, and roused the **five remaining Voxes** ([[Session 13]]). See [[Vox of the Dark Six]].
+Each of the Dark Six anchors its power in the world through a **[[Vox of the Dark Six|Vox]]** — a material avatar bound to a hidden phylactery. There are six. The party has already unmade one: Pharaoh [[Tzentak]] was a Vox, and destroying his heart-phylactery ([[Session 11]]) executed him, froze the world, and roused the **five remaining Voxes** ([[Session 13]]). A second fell in [[Session 20]]: the **[[Baba Yaga]]**, wearing [[Hartsvale]]'s **[[Princess Zaria|Princess Zarya]]**, whose obsidian-star phylactery the party shattered. See [[Vox of the Dark Six]].
 
 ## The Roster — named in full ([[Session 16]])
 **Wild Fury II** ([[The White Claw (Champion)|"The White Claw"]]) named all six on the trek into the [[Spine of the World]], the fruit of the investigation that cost him six years of his life:
@@ -22,7 +22,7 @@ Each of the Dark Six anchors its power in the world through a **[[Vox of the Dar
 | **The Mischief** | **[[Beshaba]]**, Lady Mischief — an Elf-turned-God, sister of [[Tymora]]. Her [[Vox Spiritus of Beshaba|Vox Spiritus]] reanimated [[Prometheus]] and hunted the [[Spellbook of Mordenkainen]] (Campaign 1). |
 | **[[The Keeper]]** | The power honored at the [[Tomb of Tzentak]] and by the [[Medji-Tzentak]] ("Sons of the Keeper") — now **confirmed** as one of the Six. |
 | **The Devourer** | **[[The Great Devourer]]**, god of the hungering sea; the party is *marked* by it, and [[Blackjack]] is its Shepherd. |
-| **The Fury** | **Unidentified.** No face, no avatar, no lead. |
+| **The Fury** | **Probably the [[Baba Yaga]]'s god** ([[Session 20]]) — an inference: [[Lord Kholodan Ghartovich|Kholodan]] bargained with **a falling star and the Dark Six** to **birth an avatar of fury**, and that avatar, [[Princess Zaria|Zarya]], was a Vox. The source says only "the God." See [[The White Fury]]. |
 | **[[The Traveler]]** | The shrouded dealer of cursed gifts who gave [[Riptide]] the [[Shard of the Great Devourer]] — **confirmed**, no longer merely suspected. |
 | **The Shadow** | **Unidentified.** No face, no avatar, no lead. |
 
@@ -37,3 +37,4 @@ The whispers *"pieces of six"* carried by [[Polly]] now have six names to attach
 - **[[Session 11]]** — [[Rik]]'s visions showed [[Tzentak]]'s deal with the Dark Six.
 - **[[Session 13]]** — [[Ilbryn Darksight|Ilbryn]], possessing [[Rik]], revealed [[Tzentak]] was a **[[Vox of the Dark Six|Vox]]**; his death froze the world and the five surviving Voxes now weave darkness across the continent. [[Polly]] chanted *"Pieces of Six!"*
 - **[[Session 16]]** — **Wild Fury II** named all six: **The Mischief, [[The Keeper]], [[The Great Devourer|The Devourer]], The Fury, [[The Traveler]], and The Shadow** — and revealed that [[Tymora]] and [[Beshaba]] were **two of seven** [[The Ilefarn|Ilefarn]] leaders, Tymora departing voluntarily before the six became gods. Tracking these entities is what trapped him in [[Hartsvale]] for five years; the trail began with the vanished fairy bard [[Dew Dew Bun]] and her [[Elven Lute]] — [[Tymora]]'s gift to [[Beshaba]].
+- **[[Session 20]]** — The [[Baba Yaga]]'s nightmares showed [[Lord Kholodan Ghartovich|Lord Kholodan]] **bargaining to a falling star and the Dark Six to birth an avatar of fury** as his wife died in childbirth. That avatar — [[Princess Zaria|Princess Zarya]], the Baba Yaga — was a **[[Vox of the Dark Six|Vox]]**, and the party **shattered its obsidian-star phylactery**, breaking **the God's tether**: the **second Vox** to fall.

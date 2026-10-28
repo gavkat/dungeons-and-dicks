@@ -14,6 +14,7 @@ You are **Rik "The Bone Crusher" Magnus**, a wrestler-warrior fighting to save h
 - Wears the **[[Wyrmreaver Gauntlets]]**, whose palm runes match an ancient dragon rune deep in the [[Dragon-Skull Cave]] ([[Session 17]]) — and **unsealed a hidden stairway** when he pressed them to the mural ([[Session 18]]).
 - Wears a **scorpion-plated crest bearing a five-headed dragon sigil** over his heart — what remains of a **parasitic scorpion armor** whose spread [[Vraxis]] halted ([[Session 19]]).
 - Father of **[[Ricky Jr|Ricky Jr.]]** ([[Session 19]]).
+- **Killed [[Lord Kholodan Ghartovich|Lord Kholodan]]** with a single greatsword sweep, and drop-kicked the head into the crowd ([[Session 20]]).
 
 **Personal Quest:**
 - Cure [[Marisya]]. The lead — from [[Riptide]] — pointed to the desert of [[Anauroch]] and the [[Tomb of Tzentak]]. **Now urgent ([[Session 19]]):** a scrying vision showed her **bound to a bed, writhing in dark tethering**, and a **[[The Crimson-Hooded Stranger|crimson-hooded stranger]]** told Rik he was **wasting precious time away from his dying wife**.
@@ -83,3 +84,8 @@ You are **Rik "The Bone Crusher" Magnus**, a wrestler-warrior fighting to save h
 - Was granted a **scrying vision** of his son **[[Ricky Jr|Ricky Jr.]]** whittling a **toy soldier** beside **[[Marisya]]**, **bound to a bed and writhing in dark tethering**, while **a stranger comforted the boy outside**.
 - In a [[Hartsvale]] tavern, **locked eyes with a [[The Crimson-Hooded Stranger|crimson-hooded stranger]]** whose handsome face **withered into a scalded husk**, and who warned him about **wasting precious time away from his dying wife** before vanishing.
 - Joined the uprising and the push through the **catacombs** into [[Lord Kholodan Ghartovich|Kholodan]]'s throne room.
+
+### Session 20
+- **Executed [[Lord Kholodan Ghartovich|Lord Kholodan]]** with a **single greatsword sweep** as the Lord pleaded for his daughter's life, then **drop-kicked the severed head into the roaring crowd**.
+- Escaped the white-fury mob **as a fly**, courtesy of [[Icarus]]'s fly charms.
+- In the [[Baba Yaga]]'s psychic shroud, **sat frozen before apparitions of his dying wife and son** — [[Marisya]] and [[Ricky Jr|Ricky Jr.]] — set against **monolithic void-monsters leveling cities**.
