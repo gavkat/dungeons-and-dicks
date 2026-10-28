@@ -100,4 +100,4 @@ You are **Lord Icarus Valerius Corvus III**, a flamboyant noble sorcerer on a "r
 - Back on his feet as the mob turned, **polymorphed into a pterodactyl** to fly an **invisible [[Princess Zaria|Zarya]]** out, and **deployed fly charms** that turned [[Rik]] and [[Wild Fury|Wild Fury III]] into **flies**.
 - In the [[Baba Yaga]]'s psychic shroud, **choked in a stagnant mire**, mocked for his **false godhood and vanity** by **the corpse of his father**.
 - **Tore free with a newfound sense of self-worth** and unleashed a **critical conflagration** that **melted the Baba Yaga's husk into slag**; then **teleported into the air to seize the falling-star projection** so the party could shatter the phylactery.
-- Unbeknownst to him, had been seen on the **Astral Plane** by [[X the Hamster|X]] — as a **pink-haired half-orc**, per the recap — the day before.
+- Unbeknownst to him, had been seen on the **Astral Plane** by [[X the Hamster|X]] the day before — an apparition of his **pink-haired half-orc** self, lingering from his [[Session 18]] astral detour. X followed it to Faerûn and **joined the party**.

@@ -1,10 +1,10 @@
 # X the Hamster
 
-**Tags:** #character #pc #Campaign2
+**Tags:** #character #pc #BonerBros #Campaign2
 
 ### Character Concept
 
-**X** — a **giant space hamster** and **graphic novelist of high-fantasy erotica**, who drifts through wildspace in an **oversized celestial hamster ball** cluttered with **manuscripts and floating inkwells**. He arrived in [[Session 20]] by **crashing through the vaulted ceiling** of [[Hartsvale]]'s throne room mid-battle, and stayed through the night that followed. (Filed with the party because the recap gives him a seat at the long rest and a nightmare of his own alongside the other companions; whether he is a new player character is not stated.)
+**X** — a **giant space hamster** and **graphic novelist of high-fantasy erotica**, who drifts through wildspace in an **oversized celestial hamster ball** cluttered with **manuscripts and floating inkwells**. He arrived in [[Session 20]] by **crashing through the vaulted ceiling** of [[Hartsvale]]'s throne room mid-battle, and joined the party — the newest of the [[Boner Bros]].
 
 **Core Traits:**
 - Came from the **Astral Plane**, where — the day before the battle — he spotted the **radiant apparition** of [[Icarus]], caught the lingering command *"fly, boy, fly"* (the words [[The Cloaked Figure|the cloaked figure]] gave Icarus there in [[Session 18]]), and set course for **Faerûn** to find **his mysterious muse**.
@@ -12,7 +12,7 @@
 - Regards Icarus as his **"magnum opus"**.
 - **His home village was obliterated** — the [[Baba Yaga]]'s fear-vision showed it in **burning ruins** echoing with the **psionic shrieks of Mind Flayers**.
 
-> **A discrepancy in the source:** the recap calls the apparition X saw a **pink-haired half-orc sorcerer**. Icarus has been a **pink-haired human** since [[Session 19]]; he was a half-orc when he was on the astral plane in [[Session 18]], which is where "fly, boy, fly" was spoken. The vault keeps Icarus human and records the apparition as described.
+> **Why a half-orc?** The apparition X saw was a **pink-haired half-orc sorcerer** — an echo of Icarus as he was on the astral plane in [[Session 18]], when he still wore his half-orc body and heard "fly, boy, fly." Icarus has been a **pink-haired human** since [[Session 19]].
 
 ## Session History
 
