@@ -39,3 +39,6 @@ Loyal retainer and de-facto fifth party member. His ability to bring [[Icarus]] 
 ### Session 18
 - **Got his gun back.** The thief that beat his watch in [[Session 17]] turned out to be **[[Yeti-Tykes|yeti-tykes]]**, found playing with the party's stolen gear in [[Vraxis]]'s archive; the one holding his firearm **shot itself** when a goose-shaped [[Icarus]] honked at it, **reuniting him with [[Thoughts & Prayers|"Thoughts" and "Prayers"]]**.
 - Was in the archive when his master was **killed a third time** — [[Vraxis]] stopped [[Icarus]]'s heart with lightning and threw him into the abyss — and was among the party racing for the dragon-skull threshold through the **cataclysmic cave-in**.
+
+### Session 21
+- Remembered by [[Icarus]] when [[Polly]] gifted him a **Boar's Hide Chwinga Charm** — triggering a memory of Gearsley teaching him about the resilience of boar hide. (Gearsley himself is not otherwise mentioned in the recap.)

@@ -17,3 +17,6 @@ It landed hours after [[Vraxis]]'s scrying vision showed Marisya **bound to a be
 ### Session 19
 - Locked eyes with [[Rik]] amid the revolutionary chaos in a [[Hartsvale]] tavern; his **handsome face briefly withered into a scalded husk**.
 - **Warned Rik he was wasting precious time away from his dying wife**, then **vanished into thin air**.
+
+### Session 21
+- Spotted again by [[Rik]] alone during the grueling three-day drive from [[Hartsvale]] to [[Brinewater Bay]], **watching the convoy beside a large wolf** — completely unnoticed by the rest of the party.

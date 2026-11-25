@@ -40,3 +40,7 @@ The mystery deepened in [[Session 14]]: the cobalt dragon soldier [[Vraxis]] spa
 
 ### Session 20
 - Not named in the recap, but the session art shows a parrot on the shoulder of [[Icarus]]'s **pink-feathered Stormwing form** in the throne-room fight.
+
+### Session 21
+- **Gifted [[Icarus]] a Boar's Hide Chwinga Charm** as the party snapped out of the obsidian-star vision in [[Hartsvale]] — triggering a memory of [[Gearsley]] teaching him about the resilience of boar hide.
+- Shown perched on Icarus's shoulder in the session art during the snowy drive to [[Brinewater Bay]].

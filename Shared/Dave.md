@@ -20,3 +20,4 @@ Mount, escape vehicle, and the reason the [[Mage Guard]] branded the party viola
 - **[[Session 6]]** — Too "wrecked" to fly the party off [[Mintan]].
 - **[[Session 12]]** — Flew the party to [[Holly Hollow]] through the frozen tundra.
 - **[[Session 13]]** — Scouted ahead of the trek to [[Hartsvale]] with [[Wild Fury]]; **abducted** by [[The Ashen Figure]] when a cornered [[Mage Guard]] called in a [[The Consortium|Consortium]] "Code Black."
+- **[[Session 21]]** — Still missing; mentioned in passing when the party arrived at [[Brinewater Bay]] and spotted patrols of the [[Mage Guard]], whom the recap credits with having stolen him.

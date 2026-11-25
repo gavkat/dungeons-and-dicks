@@ -33,3 +33,6 @@ The great tomb of the pharaoh [[Tzentak]] in the [[Anauroch]] desert, guarded by
 
 ### Session 11
 - [[Ouraeus]]'s betrayal; the heart destroyed; [[Tzentak]] ended for good.
+
+### Session 21
+- The untranslated [[Mysterious Book|tome]] recovered from the tomb in [[Session 11]] was remembered by [[Rik]] and translated by [[X the Hamster|X]] as ***[[Mysterious Book|Anatomia Maledicti]]*** — finally yielding the cure recipe for [[Marisya]]'s [[The Tethered|'Tethered']] curse.

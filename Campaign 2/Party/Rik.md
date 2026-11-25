@@ -17,7 +17,7 @@ You are **Rik "The Bone Crusher" Magnus**, a wrestler-warrior fighting to save h
 - **Killed [[Lord Kholodan Ghartovich|Lord Kholodan]]** with a single greatsword sweep, and drop-kicked the head into the crowd ([[Session 20]]).
 
 **Personal Quest:**
-- Cure [[Marisya]]. The lead — from [[Riptide]] — pointed to the desert of [[Anauroch]] and the [[Tomb of Tzentak]]. **Now urgent ([[Session 19]]):** a scrying vision showed her **bound to a bed, writhing in dark tethering**, and a **[[The Crimson-Hooded Stranger|crimson-hooded stranger]]** told Rik he was **wasting precious time away from his dying wife**.
+- Cure [[Marisya]]. The lead — from [[Riptide]] — pointed to the desert of [[Anauroch]] and the [[Tomb of Tzentak]]. **Now urgent ([[Session 19]]):** a scrying vision showed her **bound to a bed, writhing in dark tethering**, and a **[[The Crimson-Hooded Stranger|crimson-hooded stranger]]** told Rik he was **wasting precious time away from his dying wife**. **Breakthrough ([[Session 21]]):** [[X the Hamster|X]] translated the tome Rik recovered from the Tomb of Tzentak — ***[[Mysterious Book|Anatomia Maledicti]]*** — confirming she suffers from **[[The Tethered|'the Tethered' curse]]** and revealing the cure ritual: **black wormwood**, **grave-lotus petals** (Feywild-only), and **vitriol of zinc** (pure zinc acquired at [[Brinewater Bay]], needing dragonfire or infernal flames to refine), followed by a **silver-needle siphon** into a bath of **goat's milk**, **powdered pearls**, and **sacramental wine**, finished with ***Greater Restoration***.
 
 ## Session History
 
@@ -89,3 +89,10 @@ You are **Rik "The Bone Crusher" Magnus**, a wrestler-warrior fighting to save h
 - **Executed [[Lord Kholodan Ghartovich|Lord Kholodan]]** with a **single greatsword sweep** as the Lord pleaded for his daughter's life, then **drop-kicked the severed head into the roaring crowd**.
 - Escaped the white-fury mob **as a fly**, courtesy of [[Icarus]]'s fly charms.
 - In the [[Baba Yaga]]'s psychic shroud, **sat frozen before apparitions of his dying wife and son** — [[Marisya]] and [[Ricky Jr|Ricky Jr.]] — set against **monolithic void-monsters leveling cities**.
+
+### Session 21
+- Experienced the shared psychic vision of [[Lord Kholodan Ghartovich|Kholodan]]'s madness, then helped escape [[Hartsvale]] in [[Garvin]]'s hijacked transport convoy.
+- During the three-day drive to [[Brinewater Bay]], **spotted [[The Crimson-Hooded Stranger]] watching them beside a large wolf** — unnoticed by the rest of the party.
+- Remembered the untranslated tome recovered from the [[Tomb of Tzentak]]; at ***The Codfather***, [[X the Hamster|X]] translated ***[[Mysterious Book|Anatomia Maledicti]]***, confirming [[Marisya]] has **[[The Tethered|'the Tethered' curse]]** and detailing the multi-step cure.
+- At ***Ship Happens***, secured **pure zinc** from the half-orc blacksmith in exchange for **ten gold and a late-night rendezvous with Rik while X watched**, learning it needs **dragonfire or infernal flames** to refine.
+- Visited the brothel ***Catch of the Day*** with [[Icarus]] and [[Wild Fury]]; grew suspicious of the alluring women and **resisted the magical compulsion** when they tried to leave.

@@ -69,6 +69,7 @@ The full cast, places, factions, and lore are indexed on the **[Lost Mine of Pha
 | | | 18 | [Devil in the Ice](Campaign%202/Sessions/Session%2018.md) |
 | | | 19 | [Do You Hear the People Sing?](Campaign%202/Sessions/Session%2019.md) |
 | | | 20 | [Twilight](Campaign%202/Sessions/Session%2020.md) |
+| | | 21 | [There's something fishy in Brinewater Bay](Campaign%202/Sessions/Session%2021.md) |
 
 ### The Party
 
@@ -90,7 +91,7 @@ Companions: [Gearsley](Campaign%202/NPCs/Gearsley.md) · [Dave](Shared/Dave.md) 
 
 ### Places
 
-[Leilon](Shared/Leilon.md) · [The Tempest's Temptation](Campaign%202/Places/The%20Tempest's%20Temptation.md) · [The Choke](Campaign%202/Places/The%20Choke.md) · [Sea of Swords](Campaign%202/Places/Sea%20of%20Swords.md) · [Mintan](Campaign%202/Places/Mintan.md) · [Anauroch](Campaign%202/Places/Anauroch.md) · [Tomb of Tzentak](Campaign%202/Places/Tomb%20of%20Tzentak.md) · [Holly Hollow](Campaign%202/Places/Holly%20Hollow.md) · [Hartsvale](Campaign%202/Places/Hartsvale.md) · [Phandelver](Shared/Phandelver.md) · [Ice Spires](Campaign%202/Places/Ice%20Spires.md) · [Spine of the World](Campaign%202/Places/Spine%20of%20the%20World.md) · [Dragon-Skull Cave](Campaign%202/Places/Dragon-Skull%20Cave.md) · [The White Claw / The Krug](Campaign%202/Places/The%20White%20Claw.md)
+[Leilon](Shared/Leilon.md) · [The Tempest's Temptation](Campaign%202/Places/The%20Tempest's%20Temptation.md) · [The Choke](Campaign%202/Places/The%20Choke.md) · [Sea of Swords](Campaign%202/Places/Sea%20of%20Swords.md) · [Mintan](Campaign%202/Places/Mintan.md) · [Anauroch](Campaign%202/Places/Anauroch.md) · [Tomb of Tzentak](Campaign%202/Places/Tomb%20of%20Tzentak.md) · [Holly Hollow](Campaign%202/Places/Holly%20Hollow.md) · [Hartsvale](Campaign%202/Places/Hartsvale.md) · [Phandelver](Shared/Phandelver.md) · [Ice Spires](Campaign%202/Places/Ice%20Spires.md) · [Spine of the World](Campaign%202/Places/Spine%20of%20the%20World.md) · [Dragon-Skull Cave](Campaign%202/Places/Dragon-Skull%20Cave.md) · [The White Claw / The Krug](Campaign%202/Places/The%20White%20Claw.md) · [Brinewater Bay](Campaign%202/Places/Brinewater%20Bay.md)
 
 ### Factions & Powers
 
@@ -98,7 +99,7 @@ Companions: [Gearsley](Campaign%202/NPCs/Gearsley.md) · [Dave](Shared/Dave.md) 
 
 ### Lore & Items
 
-[The Tethered](Campaign%202/Lore/The%20Tethered.md) · [Vox of the Dark Six](Campaign%202/Lore/Vox%20of%20the%20Dark%20Six.md) · [The White Fury](Campaign%202/Lore/The%20White%20Fury.md) · [Draconic Containment Accord](Campaign%202/Lore/Draconic%20Containment%20Accord.md) · [Shard of the Great Devourer](Campaign%202/Items/Shard%20of%20the%20Great%20Devourer.md) · [Sending Phone](Campaign%202/Items/Sending%20Phone.md) · [Flame Tongue Whip](Campaign%202/Items/Flame%20Tongue%20Whip.md) · [Ring of the Rotten](Campaign%202/Items/Ring%20of%20the%20Rotten.md) · [Wand of Secrets](Campaign%202/Items/Wand%20of%20Secrets.md) · [Immovable Rod](Campaign%202/Items/Immovable%20Rod.md) · [Mysterious Book](Campaign%202/Items/Mysterious%20Book.md) · [Elven Lute](Campaign%202/Items/Elven%20Lute.md) · [Arcane Dampener Collar](Campaign%202/Items/Arcane%20Dampener%20Collar.md) · [Wyrmreaver Gauntlets](Campaign%202/Items/Wyrmreaver%20Gauntlets.md) · [Wand of Wonder](Campaign%202/Items/Wand%20of%20Wonder.md) · [Thoughts & Prayers](Campaign%202/Items/Thoughts%20%26%20Prayers.md) · [Dragon Saver](Campaign%202/Items/Dragon%20Saver.md)
+[The Tethered](Campaign%202/Lore/The%20Tethered.md) · [Vox of the Dark Six](Campaign%202/Lore/Vox%20of%20the%20Dark%20Six.md) · [The White Fury](Campaign%202/Lore/The%20White%20Fury.md) · [Draconic Containment Accord](Campaign%202/Lore/Draconic%20Containment%20Accord.md) · [Shard of the Great Devourer](Campaign%202/Items/Shard%20of%20the%20Great%20Devourer.md) · [Sending Phone](Campaign%202/Items/Sending%20Phone.md) · [Flame Tongue Whip](Campaign%202/Items/Flame%20Tongue%20Whip.md) · [Ring of the Rotten](Campaign%202/Items/Ring%20of%20the%20Rotten.md) · [Wand of Secrets](Campaign%202/Items/Wand%20of%20Secrets.md) · [Immovable Rod](Campaign%202/Items/Immovable%20Rod.md) · [Mysterious Book / Anatomia Maledicti](Campaign%202/Items/Mysterious%20Book.md) · [Elven Lute](Campaign%202/Items/Elven%20Lute.md) · [Arcane Dampener Collar](Campaign%202/Items/Arcane%20Dampener%20Collar.md) · [Wyrmreaver Gauntlets](Campaign%202/Items/Wyrmreaver%20Gauntlets.md) · [Wand of Wonder](Campaign%202/Items/Wand%20of%20Wonder.md) · [Thoughts & Prayers](Campaign%202/Items/Thoughts%20%26%20Prayers.md) · [Dragon Saver](Campaign%202/Items/Dragon%20Saver.md)
 
 ---
 

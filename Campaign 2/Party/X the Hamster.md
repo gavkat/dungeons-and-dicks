@@ -10,6 +10,7 @@
 - Came from the **Astral Plane**, where — the day before the battle — he spotted the **radiant apparition** of [[Icarus]], caught the lingering command *"fly, boy, fly"* (the words [[The Cloaked Figure|the cloaked figure]] gave Icarus there in [[Session 18]]), and set course for **Faerûn** to find **his mysterious muse**.
 - Carries an **IOU signed by [[Icarus]]**, found drifting in wildspace. What Icarus owes, and to whom, is not stated.
 - Regards Icarus as his **"magnum opus"**.
+- Spells and abilities seen: *Disguise Self*, *Invisibility*, *Greater Restoration*, translating ***[[Mysterious Book|Anatomia Maledicti]]***, and gnawing cleanly through iron dungeon chains ([[Session 21]]).
 - **His home village was obliterated** — the [[Baba Yaga]]'s fear-vision showed it in **burning ruins** echoing with the **psionic shrieks of Mind Flayers**.
 
 > **Why a half-orc?** The apparition X saw was a **pink-haired half-orc sorcerer** — an echo of Icarus as he was on the astral plane in [[Session 18]], when he still wore his half-orc body and heard "fly, boy, fly." Icarus has been a **pink-haired human** since [[Session 19]].
@@ -20,3 +21,12 @@
 - **On the Astral Plane, the day before the battle:** spotted the radiant apparition of [[Icarus]], caught the lingering *"fly, boy, fly"*, **pocketed a drifting IOU signed by the sorcerer**, and set a course for Faerûn.
 - **Crashed through the vaulted ceiling** of [[Hartsvale]]'s throne room in his hamster ball, **locating his "magnum opus"** just as [[Icarus]] warped [[Lord Kholodan Ghartovich|Lord Kholodan]] out of his ward — the surprise Icarus used for his **Stormwing Strike**.
 - Caught in the [[Baba Yaga]]'s **psychic shroud** in the tavern suite: drifted through **freezing wildspace** as his **manuscripts liquefied**, while **Mind Flayers** shrieked through the burning ruins of his home village.
+
+### Session 21
+- Experienced the shared psychic vision of [[Lord Kholodan Ghartovich|Kholodan]]'s descent into madness.
+- **Gnawed through iron chains** in [[Hartsvale]]'s dungeons to rescue the concussed [[Blackjack]].
+- Cast ***Disguise Self*** to impersonate Gradley and fool [[Garvin]] into letting the party ride his transport convoy; once the illusion faded, **turned Garvin invisible** before [[Icarus]] *Vortex Warped* him ninety feet out of the moving cab into the snow.
+- Left **exhausted** by the three-day drive to [[Brinewater Bay]], then **disguised himself as Garvin** to bluff the party past the [[Mage Guard]] checkpoint.
+- At ***The Codfather***, cast ***Greater Restoration*** on [[Blackjack]] — only for it to **backfire with necrotic damage**, revealing Blackjack is **willingly** acting as the [[Shard of the Great Devourer]]'s vessel and accepting [[The Great Devourer|the patron]].
+- **Translated [[Rik]]'s tome, *[[Mysterious Book|Anatomia Maledicti]]***, uncovering the full cure ritual for [[Marisya]]'s [[The Tethered|'Tethered']] curse.
+- Watched during Rik's late-night rendezvous with the half-orc blacksmith at ***Ship Happens*** to secure **pure zinc**, then took [[Blackjack]] to rest at ***The Codfather Part II***.
