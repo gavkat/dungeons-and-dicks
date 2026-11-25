@@ -39,3 +39,6 @@ Who — or what — Vraxis soldiers for is still unknown, as is **what he was do
 - **Awakened [[Polly]]**, revealing her to be a **Chwinga** fey spirit.
 - **Scolded [[Icarus]]** for drinking his **private reserve** — a potion labelled **"Leomund's Tiny Nut."**
 - **Conjured a raging blizzard** as cover and **teleported the party into [[Hartsvale]]'s slums** for the uprising against [[Lord Kholodan Ghartovich|Lord Kholodan]].
+
+### Session 21
+- Appeared in the shared psychic vision of [[Lord Kholodan Ghartovich|Kholodan]]'s madness: as the [[Baba Yaga]] curse bled into [[Hartsvale]], Kholodan **let the dark voices twist the soaring dragon Vraxis into his scapegoat**.

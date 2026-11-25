@@ -24,3 +24,4 @@ The tavern where [[Captain Siren Shellsword]] recruited the party into the [[Bot
 - **[[Session 1]]** — The party's origins converged here; the Crow's Nest massacre.
 - **[[Session 2]]** — The party fled by sea; departure stirred [[Wild Fury]]'s memories of the dragon attack.
 - **[[Session 19]]** — Seen in [[Vraxis]]'s vision as it was **five years earlier**, **ash-choked and dragon-damaged**: there an **unbloodied [[The White Claw (Champion)|Wild Fury II]]** told [[Wild Fury|Wild Fury III]] that the [[Lionshield Coster]]'s true enemies are not dragons, but **the men in velvet coats** who pit mortals and dragons against one another.
+- **[[Session 21]]** — Named as the party's intended destination as they hijacked [[Garvin]]'s transport convoy out of [[Hartsvale]] to escape the northern continent.

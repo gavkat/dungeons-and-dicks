@@ -50,3 +50,9 @@ Why a frost giant lord wants that thing **caged rather than dead** — and wheth
 - As the mob battered down the doors, **pleaded for his daughter's life** — and was **executed by [[Rik]]** with a single greatsword sweep, his **severed head drop-kicked into the roaring crowd**.
 - His death **freed [[Vlad]]**.
 - Revealed in the [[Baba Yaga]]'s nightmare visions **weeping over his dying wife in childbirth** and **bargaining to a falling star and [[The Dark Six]] to birth an avatar of fury** — [[Princess Zaria|Zarya]].
+
+### Session 21
+- **Full descent into madness revealed in a shared psychic vision** triggered when the obsidian star shattered: as his **giantess wife** bled out in childbirth and their unborn infant's pulse withered, Kholodan collapsed into the snowdrifts and pleaded to a star falling in a sickly violet arc.
+- **Six discordant voices** ([[The Dark Six]]) answered, offering to **rekindle one spark while claiming the other for the dark**. Choosing his daughter, Kholodan retrieved the pulsing **obsidian star-stone** from its mountain crater, embedded it into **his late wife's crown**, and placed it on newborn [[Princess Zaria|Zarya]]'s brow.
+- Sealed his love's rotting corpse in the birthing suite as grief rotted into paranoia — plagued by nightmares of peasant mobs fusing into a skeletal monster to devour Zarya, and waking one night to find her **clinging to the ceiling like an arachnid**, neck contorted, speaking an ancient tongue before waking completely oblivious.
+- As the curse bled into [[Hartsvale]] through shared nightmares of the **[[Baba Yaga]]**, Kholodan **established the brutal [[The White Claw|Krug Arena]] to vent the people's fury** and let the dark voices twist the soaring dragon **[[Vraxis]]** into his scapegoat.

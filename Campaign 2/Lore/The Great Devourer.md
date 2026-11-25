@@ -30,3 +30,6 @@ Its seat in the pantheon is now formal: **"The Devourer"** is one of the six tit
 
 ### Session 16
 - Named as **"The Devourer"** in **Wild Fury II**'s full roster of [[The Dark Six]].
+
+### Session 21
+- At [[Brinewater Bay]]'s *The Codfather*, [[X the Hamster|X]]'s attempt to cast *Greater Restoration* on [[Blackjack]] **backfired with necrotic damage**, revealing that Blackjack is **willingly acting as the [[Shard of the Great Devourer]]'s vessel and accepting the patron**.

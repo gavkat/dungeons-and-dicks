@@ -4,14 +4,14 @@
 
 ### Character Concept
 
-You are **Jack "Blackjack" Blackwood**, an opportunist, thief, and showman — now the unwilling **Shepherd** of [[The Great Devourer]].
+You are **Jack "Blackjack" Blackwood**, an opportunist, thief, and showman — the **Shepherd** of [[The Great Devourer]], revealed in [[Session 21]] to be **willingly acting as the amulet's vessel and accepting the patron**.
 
 **Core Traits:**
 - A flair for the dramatic: staged car accidents, trap-gauntlet sprints screaming "Jack-Attack!", and tall tales about a "sea girlfriend" who is definitely, totally real.
-- Bears the [[Shard of the Great Devourer]], which beats in time with his heart. Where others rotted, he became a vessel.
+- Bears the [[Shard of the Great Devourer]], which beats in time with his heart. Where others rotted, he became a vessel — and when [[X the Hamster|X]] tried to cast *Greater Restoration* on him in [[Session 21]], it **backfired with necrotic damage**, exposing that Blackjack is **willingly** serving as vessel and accepting [[The Great Devourer|his patron]].
 - Powers gained beneath the sea: the Fathomless Plunge and spectral tentacles ([[Session 9]]).
 - The [[Sovereign Prophet]] hunts the amulet's thief — him — and [[Icarus]] has been ordered to deliver that thief.
-- **Held hostage** in [[Hartsvale]] by [[Lord Kholodan Ghartovich|Lord Kholodan]] since [[Session 16]] — collateral for a bargain the party has since abandoned for open revolt ([[Session 19]]).
+- Formerly **held hostage** in [[Hartsvale]] by [[Lord Kholodan Ghartovich|Lord Kholodan]] ([[Session 16]]–[[Session 21]]); **rescued concussed** from the castle dungeons by [[X the Hamster|X]] after Kholodan's fall ([[Session 21]]).
 
 ## Session History
 
@@ -55,3 +55,8 @@ You are **Jack "Blackjack" Blackwood**, an opportunist, thief, and showman — n
 ### Session 16
 - Revealed in the throne room to have been **captured by [[Lord Kholodan Ghartovich|Lord Kholodan]]**, along with [[Gearsley]] — the pair having last been seen stranded at the eastern outpost.
 - Kholodan was persuaded to release **[[Gearsley]]** to join the expedition, but **kept Blackjack behind as collateral** alongside the chained [[Vlad]] — leaving the Shepherd of [[The Great Devourer]] a hostage in a frost giant's castle while the rest of the party marches on [[The Devil in the Ice]].
+
+### Session 21
+- **Rescued from [[Hartsvale]]'s dungeons**, concussed and still bearing the pulsing [[Shard of the Great Devourer]], after [[X the Hamster|X]] gnawed through his iron chains.
+- Travelled with the party to [[Brinewater Bay]]. At ***The Codfather*** tavern, X's attempt to cast ***Greater Restoration*** on him **backfired with necrotic damage**, revealing that Blackjack is **willingly acting as the amulet's vessel and accepting [[The Great Devourer|the patron]]**.
+- Later taken by X to rest at ***The Codfather Part II*** while the rest of the party explored the brothel.

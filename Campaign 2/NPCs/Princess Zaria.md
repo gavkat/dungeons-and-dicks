@@ -5,7 +5,7 @@
 > **Revealed ([[Session 20]]):** Zarya was the **[[Baba Yaga]]** — a **[[Vox of the Dark Six|Vox]]**, born of her father's bargain with a falling star and [[The Dark Six]]. Her crown's **obsidian star** was its phylactery, and the party destroyed it.
 
 ## Description
-**The Twilight Maiden** of [[Hartsvale]], daughter of [[Lord Kholodan Ghartovich|Lord Kholodan]] (implied in [[Session 20]], when he died begging for his daughter's life), rumored to owe her **blessed survival at birth to a wish on a shooting star** ([[Vlad]]'s campfire lore, [[Session 14]]). Depicted pale, fair-haired and **pointed-eared** beneath a gold crown, in a maroon-and-gold gown.
+**The Twilight Maiden** of [[Hartsvale]], daughter of [[Lord Kholodan Ghartovich|Lord Kholodan]] and his late **giantess wife** (confirmed in [[Session 21]]'s shared vision), rumored to owe her **blessed survival at birth to a wish on a shooting star** ([[Vlad]]'s campfire lore, [[Session 14]]). Depicted pale, fair-haired and **pointed-eared** beneath a gold crown, in a maroon-and-gold gown.
 
 ## Role in Campaign
 First seen in [[Session 15]], welcoming guests at the castle and watching the **Krug combat trials** beside [[Lord Kholodan Ghartovich|Lord Kholodan]]. She is the **"maiden"** whose champion — revealed to be **"[[The White Claw (Champion)|The White Claw]]"**, [[Wild Fury]]'s father — the [[The White Claw]] flyer dared Wild Fury to face ([[Session 12]]).
@@ -31,3 +31,7 @@ First seen in [[Session 15]], welcoming guests at the castle and watching the **
 - In the vacant king's suite of a tavern, grieved for her people — **a ruler should be a hearth, not freeze the valley to keep a single candle lit** — and revealed the **obsidian star** in her crown, a **wish made upon a falling star when her mother died**, using it to cast a **soothing, starlit twilight** for the party's rest.
 - **Became the [[Baba Yaga]]** mid-rest: **jaw dislocated past her collarbone**, **spine inverted**, **skin split into bone needles**, gown shed to reveal the **iron-toothed** crone.
 - Identified as a **[[Vox of the Dark Six|Vox]]**; her husk was **melted to slag** by [[Icarus]] and her crown's star — the **phylactery** — **shattered** with the [[Immovable Rod]].
+
+### Session 21
+- **Her birth and childhood revealed in the obsidian star's dying vision:** as her **giantess mother** bled out in childbirth and newborn Zarya's own pulse withered, [[Lord Kholodan Ghartovich|Kholodan]] accepted the offer of **six discordant voices** ([[The Dark Six]]) to **rekindle one spark while claiming the other for the dark**. Choosing Zarya, he embedded the **obsidian star-stone** from its mountain crater into **his late wife's crown** and placed it on newborn Zarya's brow.
+- Kholodan later awoke one night to find Zarya **clinging to the ceiling like an arachnid**, neck contorted, speaking in an ancient tongue — **before waking completely oblivious** (depicted in the session art with blue skin, glowing eyes, and her crown upside down on the rafters). This confirms she was unaware of the entity inhabiting her, at least in childhood.

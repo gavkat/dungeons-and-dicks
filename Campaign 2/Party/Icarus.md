@@ -8,13 +8,13 @@ You are **Lord Icarus Valerius Corvus III**, a flamboyant noble sorcerer on a "r
 
 **Core Traits:**
 - Wild Magic sorcerer: surges have reincarnated him, turned him into a potted plant (twice — the second time seconds after half-incinerating [[Lord Kholodan Ghartovich|Lord Kholodan]], [[Session 20]]), and blasted the party with apocalyptic visions.
-- Spells seen: Minor Illusion, Hold Person, Polymorph, Fireball, high-voltage lightning — and, in [[Session 20]], a **Stormwing Strike** of blue lightning, a **teleport**, a **pterodactyl** polymorph, and the **critical conflagration** that melted the [[Baba Yaga]].
+- Spells seen: Minor Illusion, Hold Person, Polymorph, Fireball, high-voltage lightning, Vortex Warp ([[Session 21]]) — and, in [[Session 20]], a **Stormwing Strike** of blue lightning, a **teleport**, a **pterodactyl** polymorph, and the **critical conflagration** that melted the [[Baba Yaga]].
 - **Has a fan:** **[[X the Hamster|X]]**, a giant space hamster and erotic graphic novelist, crossed from the Astral Plane to find him as his muse — carrying an **IOU signed by Icarus** ([[Session 20]]).
 - Has died **twice** ([[Session 1]], [[Session 7]]) and come back both times — and was **killed a third time** by [[Vraxis]] in [[Session 18]], his heart stopped by lightning and his body thrown into an abyss — and came back **again** ([[Session 19]]): pulled out of a black void of **five taloned silhouettes** by **a familiar voice** that joked **saving an immortal god was getting embarrassing**.
 - **Currently a pink-haired human** ([[Session 19]]): his half-orc corpse **split into golden ash** and he stepped out of it. A **sneeze** of **sparking blue lightning** can temporarily shift him into an **avian Stormwing form**.
 - Previously a hulking half-orc with shocking pink hair (reincarnated, [[Session 8]]) — a body revealed to belong to **Gradley**, the lost brother of [[Garvin]] ([[Session 14]]), and now ash. Originally rode the opulent "Aurora Sovereign" car.
 - His **true form is an Aarakocra** ([[Session 15]]); his father is **[[Reginald]]**, whose **Kenku** followers appear in [[Hartsvale]].
-- [[Polly]] the teleporting parrot calls him "daddy" — and is a **Chwinga**, a fey spirit, who gave him a **protective charm** once [[Vraxis]] awakened her ([[Session 19]]).
+- [[Polly]] the teleporting parrot calls him "daddy" — and is a **Chwinga**, a fey spirit, who gave him a **protective charm** once [[Vraxis]] awakened her ([[Session 19]]) and a **Boar's Hide Chwinga Charm** in [[Session 21]].
 - **The Feywild knows his name:** the flumph [[Phlumphi]] says the fae realm celebrates him as an **immortal god** ([[Session 17]]) — the same title he claimed for himself in the void before his rebirth ([[Session 8]]), and the same claim he tried to bargain with in front of [[Vraxis]] ([[Session 18]]). It amused the dragon, and got him killed.
 - **Something is watching his chaos.** [[Vraxis]] warned him of his **hubris and chaotic nature** ([[Session 14]]); [[The Cloaked Figure|a cloaked figure]] on the **astral plane** warned him of his **reckless chaos** and told him ***"Fly, boy. Fly."*** ([[Session 18]]).
 
@@ -101,3 +101,10 @@ You are **Lord Icarus Valerius Corvus III**, a flamboyant noble sorcerer on a "r
 - In the [[Baba Yaga]]'s psychic shroud, **choked in a stagnant mire**, mocked for his **false godhood and vanity** by **the corpse of his father**.
 - **Tore free with a newfound sense of self-worth** and unleashed a **critical conflagration** that **melted the Baba Yaga's husk into slag**; then **teleported into the air to seize the falling-star projection** so the party could shatter the phylactery.
 - Unbeknownst to him, had been seen on the **Astral Plane** by [[X the Hamster|X]] the day before — an apparition of his **pink-haired half-orc** self, lingering from his [[Session 18]] astral detour. X followed it to Faerûn and **joined the party**.
+
+### Session 21
+- Experienced the shared psychic vision of [[Lord Kholodan Ghartovich|Kholodan]]'s descent into madness upon shattering the obsidian star.
+- Gifted a **Boar's Hide Chwinga Charm** by [[Polly]], triggering a memory of [[Gearsley]] teaching him about the resilience of boar hide.
+- Helped hijack [[Garvin]]'s transport convoy out of [[Hartsvale]]: once [[X the Hamster|X]]'s *Disguise Self* illusion as Gradley faded and X turned Garvin invisible, Icarus cast ***Vortex Warp*** to teleport Garvin **ninety feet out of the moving cab into the snow**, leaving **blood splatters beneath the wheel** moments later.
+- Left **exhausted** by the grueling three-day drive to [[Brinewater Bay]] (depicted in the session art happily driving alongside X with Polly on his shoulder).
+- Visited the brothel ***Catch of the Day*** with [[Rik]] and [[Wild Fury]]; grew suspicious of the alluring women and **resisted the magical compulsion** triggered when they tried to leave.

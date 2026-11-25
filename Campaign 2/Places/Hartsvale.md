@@ -54,3 +54,8 @@ From [[Vlad]]'s campfire telling ([[Session 14]]) — Vlad himself is an exile o
 - **The throne room fell.** [[Rik]] beheaded [[Lord Kholodan Ghartovich|Lord Kholodan]] and drop-kicked the head to the **revolutionary mob** as it battered down the doors — and the mob, eyes overtaken by the **infectious [[The White Fury|white fury]]**, turned on [[Princess Zaria|Princess Zarya]]. [[Vlad]] held the doorway while the party escaped.
 - In the **vacant king's suite of a tavern**, patrons below still humming the anthem [[Wild Fury]] had commissioned, Zarya was revealed as the **[[Baba Yaga]]** — a [[Vox of the Dark Six|Vox]] — and destroyed with her star-phylactery.
 - **At dawn, the eternal blizzard finally began to thaw over the valley.** Who now rules the city is not stated.
+
+### Session 21
+- **The city's dark history revealed in the obsidian star's vision:** after [[Lord Kholodan Ghartovich|Kholodan]] sealed his late giantess wife's corpse in the birthing suite and the [[Baba Yaga]] curse bled into Hartsvale through shared nightmares, he **established the brutal [[The White Claw|Krug Arena]] to vent the people's fury** and let the dark voices twist **[[Vraxis]]** into his scapegoat.
+- The party watched the **cursed winter thaw over Hartsvale's blood-soaked streets**, then descended into the **dungeons**, where [[X the Hamster|X]] gnawed through iron chains to rescue the concussed **[[Blackjack]]**.
+- At the **docks**, the party targeted **[[Garvin]]**'s transport convoy to escape the continent — hijacking it the next morning via X's *Disguise Self* as Gradley and driving three days away to [[Brinewater Bay]].

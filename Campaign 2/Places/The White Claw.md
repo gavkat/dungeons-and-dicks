@@ -30,3 +30,6 @@ The flyer **points toward [[Wild Fury]]'s long-lost father** — and in [[Sessio
 - [[Vlad]]'s loophole therefore **failed** — his exile stands, his execution now looming, and both he and [[Blackjack]] are held as collateral against the party's new errand.
 
 _The arena is done with them. The debt it created is not._
+
+### Session 21
+- **Origin revealed in the obsidian star's shared vision:** as the [[Baba Yaga]] curse bled into [[Hartsvale]] through shared nightmares, [[Lord Kholodan Ghartovich|Lord Kholodan]] **established the brutal Krug Arena to vent the people's fury**.
